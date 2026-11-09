@@ -1,0 +1,20 @@
+{
+ "discrete": {
+  "source": "UP Baguio CMSC 55 Discrete Mathematical Structures in Computer Science (public syllabus)",
+  "url": "https://dmcsweb.upb.edu.ph/assets/syllabus/bscomsci/cmsc55_syllabus.pdf",
+  "topics": [
+   ["Propositional Logic", "Propositions; logical connectives; rules of inference; laws of equivalence; truth tables; proof by contradiction; resolution"],
+   ["Set Theory", "Set operations; algebra of sets; relations; ordering and equivalence relations; partitions; functions; composition and inversion"],
+   ["Predicate Logic", "Predicates and quantifiers; proving validity"],
+   ["Boolean Algebra and Switching Algebra", ""],
+   ["Mathematical Induction", ""],
+   ["Elementary Combinatorics", "Rules of sum and product; counting models; combinatorial identities; generating functions; recurrence relations; inclusion-exclusion"],
+   ["Discrete Probability", "Axioms of probability; finite sample spaces; conditional probability and independence; random variables and discrete distributions"],
+   ["Types of Graphs", ""],
+   ["Graph Problems and Applications", "Isomorphism and homomorphism; planarity; shortest path; minimum spanning tree; travelling salesman; matching; colorability"],
+   ["Finite State Machines and Languages", ""],
+   ["Trees and Languages", ""],
+   ["Algebraic Structures", "Groups, groupoids and semigroups; homomorphism and isomorphism; application in coding theory"]
+  ]
+ }
+}

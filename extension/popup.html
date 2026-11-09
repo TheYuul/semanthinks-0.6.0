@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="popup.css"><title>Semanthinks</title>
+  </head>
+  <body>
+    <main>
+      <header><img class="logo" src="icons/icon-48.png" alt="" width="40" height="40"><div><h1>Semanthinks</h1><p>Local academic focus assistant: AI model with keyword-rule fallback.</p></div></header>
+      <label class="switch-row">Enable filtering <input id="enabled" type="checkbox"><span class="switch"></span></label>
+      <label>Program<select id="subject"><option value="Computer Science">Computer Science</option><option value="Information Technology">Information Technology</option><option value="Both">Both (CS + IT)</option></select></label>
+      <section class="search-section" aria-labelledby="search-heading">
+        <h2 id="search-heading">Search topics and subjects</h2>
+        <input id="subjectSearch" type="search" placeholder="Try: regular expression, SQL, cache memory" autocomplete="off" aria-label="Search topics and subjects">
+        <div id="searchResults" class="search-results" aria-live="polite"></div>
+      </section>
+      <section class="focus-section" aria-labelledby="focus-heading">
+        <div class="section-heading"><h2 id="focus-heading">Keyword focus</h2><button id="clearFocus" type="button">Clear</button></div>
+        <p id="focusHint">Search above, then choose “Focus only on …” to narrow filtering to a specific keyword (for example “c++”) instead of the whole subject.</p>
+        <div id="focusChips" class="rec-chips"></div>
+      </section>
+      <section class="subject-section" aria-labelledby="subject-heading">
+        <div class="section-heading"><h2 id="subject-heading">Subjects to focus on</h2><button id="clearSubjects" type="button">Clear</button></div>
+        <p>Select one or more subjects. When the AI model is not running, YouTube videos outside the selected subjects are hidden. While the model is running, it decides instead. Ads and Shorts are always hidden.</p>
+        <div id="subjectList" class="subject-list"></div>
+      </section>
+      <section class="rec-section" aria-labelledby="rec-heading">
+        <div class="section-heading"><h2 id="rec-heading">Suggested topics to explore</h2><button id="moreIdeas" type="button">More ideas</button></div>
+        <p id="recHint">Select subjects to get topic ideas from their syllabus.</p>
+        <label class="search-where">Clicking a topic searches: <select id="searchWhere"><option value="site">The site I am on</option><option value="youtube">YouTube</option><option value="google">Google</option><option value="scholar">Google Scholar</option><option value="arxiv">arXiv</option></select></label>
+        <p id="searchWhereNote" class="rec-empty"></p>
+        <div id="recommendations" class="recommendations"></div>
+      </section>
+      <label class="check"><input id="youtube" type="checkbox"> Filter YouTube distractions and Shorts</label>
+      <label class="check"><input id="paragraphs" type="checkbox"> Filter promotional paragraphs</label>
+      <label class="check"><input id="blockVideoAds" type="checkbox"> Skip ads inside YouTube videos (skips, or mutes and fast-forwards, then restores your volume)</label>
+      <label class="check"><input id="blockPopups" type="checkbox"> Block pop-up windows and click-forced redirects</label>
+      <label class="check"><input id="blockSocial" type="checkbox"> Block social media, games and streaming sites (Facebook, TikTok, Roblox, Netflix...). Messenger stays available</label>
+      <label class="check"><input id="guardPages" type="checkbox"> Check article and document pages (pause off-topic ones)</label>
+      <section class="model-section" aria-labelledby="model-heading">
+        <div class="section-heading"><h2 id="model-heading">AI model</h2><span id="modelStatus" class="status">Checking...</span></div>
+        <label class="check"><input id="useModel" type="checkbox"> Use the AI model when the local backend is running</label>
+        <label class="check"><input id="useImages" type="checkbox"> Also score video thumbnails (turn off for text-only mode: faster)</label>
+        <label class="check"><input id="logDecisions" type="checkbox"> Log model decisions in the page console</label>
+        <p id="modelStats">No model checks yet.</p>
+      </section>
+      <section class="stats"><strong id="hiddenCount">0</strong><span>automatic filtering actions this session</span></section>
+      <label class="switch-row">Apply filtering on this page <input id="pageHidden" type="checkbox" checked><span class="switch"></span></label>
+      <button id="reset" class="secondary" type="button">Reset session count</button>
+      <p class="privacy">Your selected subjects and filtering rules stay in this browser. With the AI model on, video titles and thumbnail links are sent only to the backend running on this computer (localhost), never to an outside server.</p>
+    </main>
+    <script src="subject-catalog.js"></script>
+    <script src="subject-tools.js"></script>
+    <script src="popup.js"></script>
+  </body>
+</html>

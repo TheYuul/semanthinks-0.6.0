@@ -1,0 +1,20 @@
+.semanthinks-hidden, .semanthinks-paragraph-hidden { display: none !important; }
+/* Shown while the AI model is still judging a video card. */
+.semanthinks-pending { position: relative; pointer-events: none; }
+.semanthinks-pending > * { filter: blur(7px); opacity: 0.45; transition: filter 0.2s, opacity 0.2s; }
+.semanthinks-pending::after { content: "Evaluating\2026"; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 5;
+  padding: 4px 12px; border-radius: 999px; background: rgba(32, 33, 36, 0.85); color: #fff; font: 600 12px/1.4 Arial, sans-serif; letter-spacing: 0.02em; }
+/* Borderline (warn) items stay visible but faded; clicking one shows a short notice (see showWarnToast in content.js). */
+.semanthinks-warn { opacity: 0.55; }
+/* Before a YouTube card has a verdict it is blurred, so nothing flashes on screen first (see updateGuard / markDone in content.js). */
+html[data-semanthinks-guard] :is(ytd-rich-item-renderer, ytd-video-renderer, ytd-compact-video-renderer, ytd-grid-video-renderer, yt-lockup-view-model):not([data-semanthinks-done]) { position: relative; pointer-events: none; }
+html[data-semanthinks-guard] :is(ytd-rich-item-renderer, ytd-video-renderer, ytd-compact-video-renderer, ytd-grid-video-renderer, yt-lockup-view-model):not([data-semanthinks-done]) > * { filter: blur(7px); opacity: 0.45; }
+html[data-semanthinks-guard] :is(ytd-rich-item-renderer, ytd-video-renderer, ytd-compact-video-renderer, ytd-grid-video-renderer, yt-lockup-view-model):not([data-semanthinks-done])::after {
+  content: "Evaluating\2026"; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 5; padding: 4px 12px; border-radius: 999px;
+  background: rgba(32, 33, 36, 0.85); color: #fff; font: 600 12px/1.4 Arial, sans-serif; letter-spacing: 0.02em; }
+/* The backend is slow: keep the card's space but hide what is in it until the verdict arrives. */
+html[data-semanthinks-guard] :is(ytd-rich-item-renderer, ytd-video-renderer, ytd-compact-video-renderer, ytd-grid-video-renderer, yt-lockup-view-model)[data-semanthinks-slow]:not([data-semanthinks-done]) > * { visibility: hidden; }
+html[data-semanthinks-guard] :is(ytd-rich-item-renderer, ytd-video-renderer, ytd-compact-video-renderer, ytd-grid-video-renderer, yt-lockup-view-model)[data-semanthinks-slow]:not([data-semanthinks-done])::after { content: "Still evaluating\2026"; }
+
+/* Set only after a sign-up pop-up was hidden: gives the page its scrolling back. */
+html[data-semanthinks-unlock], html[data-semanthinks-unlock] body { overflow: auto !important; }

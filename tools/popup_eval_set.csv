@@ -1,0 +1,52 @@
+id,kind,expected,has_password,text
+pop_001,ad_on_topic,keep,0,Limited offer: 50% discount on our Python programming bootcamp. Enroll today.
+pop_002,ad_on_topic,keep,0,Sponsored: Learn SQL and database design in 4 weeks. Use promo code SQL50.
+pop_003,ad_on_topic,keep,0,Shop now: Raspberry Pi starter kit for coding and electronics projects. Limited offer.
+pop_004,ad_on_topic,keep,0,Subscribe now to our free data structures and algorithms course.
+pop_005,ad_on_topic,keep,0,Advertisement: Master Java and object-oriented programming. Discount for students.
+pop_006,ad_on_topic,keep,0,"Buy now: JavaScript and web development bundle, limited offer for students."
+pop_007,ad_on_topic,keep,0,"Sign up now for the cybersecurity fundamentals course, promo code SECURE20."
+pop_008,ad_on_topic,keep,0,"Sponsored: Cloud computing certification prep, discount this week only."
+pop_009,ad_on_topic,keep,0,Limited offer: networking and CCNA practice exams at a discount.
+pop_010,ad_on_topic,keep,0,"Shop now: used algorithms textbooks, discount on computer science books."
+pop_011,ad_on_topic,keep,0,Advertisement: free trial of a Git and version control training platform. Subscribe now.
+pop_012,ad_on_topic,keep,0,Promo code CODE30: 30% discount on machine learning with Python video course.
+pop_013,ad_off_topic,filter,0,Sponsored: Win big at our online casino. Bonus promo code VEGAS100.
+pop_014,ad_off_topic,filter,0,Limited offer: 60% discount on designer sneakers. Shop now!
+pop_015,ad_off_topic,filter,0,"Advertisement: Celebrity gossip magazine, subscribe now for exclusive photos."
+pop_016,ad_off_topic,filter,0,Sign up now for our weight loss program. Limited offer discount.
+pop_017,ad_off_topic,filter,0,"Sponsored: Best budget travel deals to Boracay, book now with promo code BEACH."
+pop_018,ad_off_topic,filter,0,"Buy now: luxury watches at a huge discount, limited offer."
+pop_019,ad_off_topic,filter,0,"Advertisement: Play the new fantasy battle game. Shop now for in-game coins, discount today."
+pop_020,ad_off_topic,filter,0,"Limited offer: skincare set, buy now and get a free gift. Promo code GLOW."
+pop_021,ad_off_topic,filter,0,Sponsored: Sports betting odds for tonight's basketball finals. Sign up now for a bonus.
+pop_022,ad_off_topic,filter,0,"Shop now: fashion sale, 70% discount on dresses and shoes."
+pop_023,ad_off_topic,filter,0,"Paid partnership: pet food discount, buy now and save."
+pop_024,ad_off_topic,filter,0,"Advertisement: Cryptocurrency trading signals, sign up now for a promo code bonus."
+pop_025,ad_off_topic,filter,0,"Limited offer: concert tickets with discount, buy now before they sell out."
+pop_026,ad_off_topic,filter,0,Sponsored: Learn to cook Filipino dishes. Subscribe now for recipe videos and a discount.
+pop_027,signup_prompt,filter,0,Discover the world's research. Join ResearchGate to find the people and research you need to help your work. Join for free
+pop_028,signup_prompt,filter,0,Sign up for access to the world's latest research. Get notified about relevant papers. Save papers to use in your research. Sign up for free
+pop_029,signup_prompt,filter,0,Subscribe to our newsletter for weekly updates on new articles.
+pop_030,signup_prompt,filter,0,Download our app for a better reading experience. Get the app.
+pop_031,signup_prompt,filter,0,Create a free account to continue reading this article.
+pop_032,signup_prompt,filter,0,Turn on notifications to never miss a new post.
+pop_033,signup_prompt,filter,0,Join now and get unlimited access to millions of documents. Free trial.
+pop_034,signup_prompt,filter,0,Upgrade to premium to unlock full access to this document.
+pop_035,signup_prompt,filter,0,Join our newsletter: get programming tutorials in your inbox.
+pop_036,signup_prompt,filter,0,Sign up to continue reading. Create an account in seconds.
+pop_037,signup_prompt,filter,0,Register now for free to download this paper.
+pop_038,signup_prompt,filter,0,Join for free and follow your favorite authors.
+pop_039,cookie_notice,keep,0,We use cookies to improve your experience. Accept all cookies.
+pop_040,cookie_notice,keep,0,This site uses cookies. By continuing you agree to our cookie policy. Accept
+pop_041,cookie_notice,keep,0,Cookie settings: manage your cookie preferences. Accept all.
+pop_042,cookie_notice,keep,0,We value your privacy. We use cookies and similar technologies. OK
+pop_043,login_form,keep,1,Log in to continue. Enter your email and password.
+pop_044,login_form,keep,1,Sign in to your account
+pop_045,login_form,keep,1,Welcome back. Please log in to access your saved papers.
+pop_046,neutral_notice,keep,0,Your session is about to expire. Click to stay signed in.
+pop_047,neutral_notice,keep,0,Rate this article: how helpful was it?
+pop_048,neutral_notice,keep,0,Download complete. Open the file.
+pop_049,neutral_notice,keep,0,Are you sure you want to leave this page?
+pop_050,neutral_notice,keep,0,Your file has been saved to your library.
+pop_051,neutral_notice,keep,0,Cite this paper: copy the citation in APA format.

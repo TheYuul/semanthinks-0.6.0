@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+httpx
+pillow
+numpy
+torch
+torchvision
+sentence-transformers>=5.1

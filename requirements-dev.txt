@@ -1,0 +1,12 @@
+# Everything needed to train, evaluate and test Semanthinks (it includes the backend's own requirements).
+#   pip install -r requirements-dev.txt
+# Also needed for the full test run, once:   npm install   then   npx playwright install chromium
+# (the browser tests use Node + Playwright; see README "Tests").
+-r backend/requirements.txt
+pandas>=2.0
+scikit-learn>=1.3
+openpyxl>=3.1
+matplotlib>=3.7
+tabulate>=0.9
+# optional: lets tests/test_image_simulator.py also check the page in a browser (skipped when absent)
+playwright>=1.40

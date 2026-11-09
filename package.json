@@ -1,0 +1,7 @@
+{
+  "name": "semanthinks-tests",
+  "private": true,
+  "description": "Only used to run the browser tests (tests/popup.e2e.js, tests/content.e2e.js). The extension itself has no npm dependencies.",
+  "scripts": { "test": "python run_tests.py" },
+  "devDependencies": { "playwright": "^1.40.0" }
+}

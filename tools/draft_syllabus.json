@@ -1,0 +1,960 @@
+{
+ "intro-computing": [
+  [
+   "Overview of Computing",
+   "Definition of computing, computing disciplines, and the role of computers in society"
+  ],
+  [
+   "History of Computing",
+   "Early calculating devices, generations of computers, and milestones in hardware and software"
+  ],
+  [
+   "Computer Hardware Components",
+   "Input, processing, memory, storage and output devices, and how they work together"
+  ],
+  [
+   "Software and Operating Systems",
+   "System software versus application software, and the purpose of an operating system"
+  ],
+  [
+   "Number Systems and Data Representation",
+   "Binary, octal and hexadecimal, and how text, numbers and images are stored"
+  ],
+  [
+   "Problem Solving and Algorithms",
+   "Steps in solving a problem with a computer, pseudocode and flowcharts"
+  ],
+  [
+   "Networks and the Internet",
+   "Basic networking concepts, how the web works, and common internet services"
+  ],
+  [
+   "Cybersecurity Basics",
+   "Passwords, malware, safe browsing and protecting personal data"
+  ],
+  [
+   "Computing Careers and Ethics",
+   "Career paths in CS and IT, professional behavior and responsible computing"
+  ]
+ ],
+ "discrete": [
+  [
+   "Propositional Logic",
+   "Propositions, logical connectives, truth tables, equivalences and normal forms"
+  ],
+  [
+   "Predicate Logic and Quantifiers",
+   "Predicates, universal and existential quantifiers, and nested quantification"
+  ],
+  [
+   "Methods of Proof",
+   "Direct proof, contradiction, contrapositive and counterexamples"
+  ],
+  [
+   "Mathematical Induction",
+   "Weak and strong induction, and recursive definitions"
+  ],
+  [
+   "Set Theory",
+   "Sets, set operations, Venn diagrams, power sets and cardinality"
+  ],
+  [
+   "Relations and Functions",
+   "Properties of relations, equivalence relations, partial orders, injective and surjective functions"
+  ],
+  [
+   "Counting and Combinatorics",
+   "Permutations, combinations, the pigeonhole principle and the binomial theorem"
+  ],
+  [
+   "Probability Basics",
+   "Sample spaces, events, conditional probability and expected value"
+  ],
+  [
+   "Graph Theory",
+   "Graphs, paths, cycles, trees, Euler and Hamilton paths, and graph coloring"
+  ],
+  [
+   "Boolean Algebra",
+   "Boolean functions, identities and simplification"
+  ],
+  [
+   "Recurrence Relations",
+   "Solving linear recurrences and modeling algorithm running times"
+  ]
+ ],
+ "database": [
+  [
+   "Introduction to Database Systems",
+   "Data versus information, database approach, DBMS architecture and users"
+  ],
+  [
+   "Entity-Relationship Modeling",
+   "Entities, attributes, relationships, cardinality and ER diagrams"
+  ],
+  [
+   "Relational Model",
+   "Tables, keys, integrity constraints and relational algebra"
+  ],
+  [
+   "SQL Data Definition and Manipulation",
+   "CREATE, INSERT, UPDATE, DELETE and SELECT statements"
+  ],
+  [
+   "SQL Joins and Subqueries",
+   "Inner and outer joins, nested queries, grouping and aggregate functions"
+  ],
+  [
+   "Normalization",
+   "Functional dependencies and the first, second and third normal forms and BCNF"
+  ],
+  [
+   "Database Indexing",
+   "B-tree and hash indexes, clustered versus non-clustered indexes, and how indexes speed up queries"
+  ],
+  [
+   "Query Processing and Optimization",
+   "Query plans, cost estimation and writing efficient queries"
+  ],
+  [
+   "Transactions and Concurrency Control",
+   "ACID properties, locking, isolation levels and deadlocks"
+  ],
+  [
+   "Views, Stored Procedures and Triggers",
+   "Reusable database logic and access control"
+  ],
+  [
+   "Backup, Recovery and Database Security",
+   "Logging, recovery techniques and user privileges"
+  ],
+  [
+   "NoSQL and Modern Databases",
+   "Document, key-value and graph databases, and when to use them"
+  ]
+ ],
+ "calculus": [
+  [
+   "Limits and Continuity",
+   "Limit laws, one-sided limits, continuity and the intermediate value theorem"
+  ],
+  [
+   "The Derivative",
+   "Definition, differentiation rules, product, quotient and chain rules"
+  ],
+  [
+   "Applications of Derivatives",
+   "Related rates, curve sketching, optimization and the mean value theorem"
+  ],
+  [
+   "Implicit and Higher-Order Derivatives",
+   "Implicit differentiation and derivatives of inverse and transcendental functions"
+  ],
+  [
+   "Antiderivatives and Indefinite Integrals",
+   "Basic integration rules and substitution"
+  ],
+  [
+   "The Definite Integral",
+   "Riemann sums and the fundamental theorem of calculus"
+  ],
+  [
+   "Techniques of Integration",
+   "Integration by parts, trigonometric substitution and partial fractions"
+  ],
+  [
+   "Applications of Integrals",
+   "Area between curves, volumes of revolution and average value"
+  ],
+  [
+   "Sequences and Series",
+   "Convergence tests, power series and Taylor series"
+  ],
+  [
+   "Calculus in Computing",
+   "Numerical differentiation and integration, and gradients used in machine learning"
+  ]
+ ],
+ "digital-logic": [
+  [
+   "Number Systems and Codes",
+   "Binary, BCD, Gray code, complements and binary arithmetic"
+  ],
+  [
+   "Logic Gates",
+   "AND, OR, NOT, NAND, NOR, XOR gates and truth tables"
+  ],
+  [
+   "Boolean Algebra and Simplification",
+   "Boolean laws, De Morgan's theorem and Karnaugh maps"
+  ],
+  [
+   "Combinational Circuit Design",
+   "Adders, subtractors, multiplexers, decoders and encoders"
+  ],
+  [
+   "Flip-Flops and Latches",
+   "SR, D, JK and T flip-flops and their timing"
+  ],
+  [
+   "Sequential Circuits",
+   "Registers, counters and shift registers"
+  ],
+  [
+   "Finite State Machines",
+   "Moore and Mealy machines, state diagrams and state tables"
+  ],
+  [
+   "Memory and Programmable Logic",
+   "ROM, RAM, PLA and FPGA basics"
+  ],
+  [
+   "Hardware Description with Verilog",
+   "Modeling and simulating combinational and sequential circuits"
+  ]
+ ],
+ "graphics": [
+  [
+   "Introduction to Computer Graphics",
+   "Applications, display devices and the graphics pipeline"
+  ],
+  [
+   "Raster Graphics Algorithms",
+   "Line drawing with DDA and Bresenham, circle drawing and polygon filling"
+  ],
+  [
+   "2D Transformations",
+   "Translation, rotation and scaling with homogeneous coordinates"
+  ],
+  [
+   "Clipping and Viewing",
+   "Window to viewport mapping and line clipping algorithms"
+  ],
+  [
+   "3D Graphics and Projections",
+   "3D transformations, perspective and orthographic projection"
+  ],
+  [
+   "Color Models",
+   "RGB, CMYK and HSV color models"
+  ],
+  [
+   "Lighting and Shading",
+   "Phong and Gouraud shading, reflection models and shadows"
+  ],
+  [
+   "Textures and Rendering",
+   "Texture mapping, ray tracing and rasterization"
+  ],
+  [
+   "OpenGL Programming",
+   "Shaders, buffers and drawing primitives with OpenGL"
+  ],
+  [
+   "Computer Animation",
+   "Keyframing, interpolation and basic character animation"
+  ],
+  [
+   "Visual Computing Applications",
+   "Image processing, augmented reality and visualization"
+  ]
+ ],
+ "robotics": [
+  [
+   "Microprocessor Architecture",
+   "CPU, registers, buses and the fetch-decode-execute cycle"
+  ],
+  [
+   "Assembly Language Programming",
+   "Instruction sets, addressing modes and simple assembly programs"
+  ],
+  [
+   "Memory and I/O Interfacing",
+   "Memory maps, ports, interrupts and DMA"
+  ],
+  [
+   "Microcontrollers and Arduino",
+   "Arduino boards, digital and analog I/O and writing sketches"
+  ],
+  [
+   "Sensors and Actuators",
+   "Ultrasonic, infrared and temperature sensors, motors and servos"
+  ],
+  [
+   "Embedded Systems Basics",
+   "Timers, PWM, serial communication with UART, I2C and SPI"
+  ],
+  [
+   "Introduction to Robotics",
+   "Robot types, degrees of freedom, kinematics and control basics"
+  ],
+  [
+   "Robot Programming and Navigation",
+   "Line following, obstacle avoidance and path planning"
+  ],
+  [
+   "Raspberry Pi and Robotics Projects",
+   "Single-board computers and integrating sensors with software"
+  ]
+ ],
+ "networks": [
+  [
+   "Introduction to Computer Networks",
+   "Network types, topologies, protocols and standards"
+  ],
+  [
+   "OSI and TCP/IP Models",
+   "Layers, encapsulation and the role of each layer"
+  ],
+  [
+   "Physical Layer and Transmission Media",
+   "Cables, fiber, wireless media and signal basics"
+  ],
+  [
+   "Data Link Layer and Ethernet",
+   "Framing, error detection, MAC addresses and switching"
+  ],
+  [
+   "IP Addressing and Subnetting",
+   "IPv4, IPv6, subnet masks, CIDR and VLSM"
+  ],
+  [
+   "Routing Protocols",
+   "Static routing, RIP, OSPF and routing tables"
+  ],
+  [
+   "Transport Layer: TCP and UDP",
+   "Ports, reliable delivery, flow and congestion control"
+  ],
+  [
+   "Application Layer Protocols",
+   "HTTP, DNS, DHCP, FTP and email protocols"
+  ],
+  [
+   "Wireless and Mobile Networks",
+   "Wi-Fi standards, access points and cellular networks"
+  ],
+  [
+   "Network Security Basics",
+   "Firewalls, VPNs and common network attacks"
+  ],
+  [
+   "Network Configuration and Troubleshooting",
+   "Packet Tracer, ping, traceroute and common faults"
+  ]
+ ],
+ "physics": [
+  [
+   "Units, Measurement and Vectors",
+   "SI units, significant figures and vector operations"
+  ],
+  [
+   "Kinematics",
+   "Motion in one and two dimensions and projectile motion"
+  ],
+  [
+   "Newton's Laws and Dynamics",
+   "Forces, friction and applications of Newton's laws"
+  ],
+  [
+   "Work, Energy and Power",
+   "Work-energy theorem, conservation of energy and power"
+  ],
+  [
+   "Momentum and Collisions",
+   "Impulse, conservation of momentum and elastic and inelastic collisions"
+  ],
+  [
+   "Rotational Motion",
+   "Torque, moment of inertia and angular momentum"
+  ],
+  [
+   "Oscillations and Waves",
+   "Simple harmonic motion, sound and wave properties"
+  ],
+  [
+   "Electric Charge and Fields",
+   "Coulomb's law, electric fields and potential"
+  ],
+  [
+   "Current, Resistance and Circuits",
+   "Ohm's law, series and parallel circuits and Kirchhoff's laws"
+  ],
+  [
+   "Magnetism and Electromagnetic Induction",
+   "Magnetic fields, Faraday's law and electromagnets"
+  ],
+  [
+   "Optics and Modern Physics for Computing",
+   "Light, lenses, semiconductors and the physics behind computer hardware"
+  ]
+ ],
+ "data-science": [
+  [
+   "Introduction to Data Science",
+   "The data science workflow and the roles of data scientists"
+  ],
+  [
+   "Python for Data Analysis",
+   "NumPy and Pandas for loading and manipulating data"
+  ],
+  [
+   "Data Cleaning and Preparation",
+   "Missing values, outliers, encoding and feature scaling"
+  ],
+  [
+   "Exploratory Data Analysis",
+   "Summary statistics, distributions and correlation"
+  ],
+  [
+   "Data Visualization",
+   "Charts with Matplotlib and Seaborn, and choosing the right chart"
+  ],
+  [
+   "Probability and Statistics for Data Science",
+   "Sampling, hypothesis testing and confidence intervals"
+  ],
+  [
+   "Regression",
+   "Linear and logistic regression and interpreting coefficients"
+  ],
+  [
+   "Classification and Clustering",
+   "Decision trees, k-nearest neighbors and k-means"
+  ],
+  [
+   "Model Evaluation",
+   "Train-test split, cross-validation, accuracy, precision, recall and F1 score"
+  ],
+  [
+   "Data Ethics and Storytelling",
+   "Bias, privacy and communicating findings"
+  ]
+ ],
+ "intelligent-systems": [
+  [
+   "Introduction to Artificial Intelligence",
+   "History, intelligent agents and problem types"
+  ],
+  [
+   "Search Strategies",
+   "Uninformed search, A* and heuristic search"
+  ],
+  [
+   "Adversarial Search and Games",
+   "Minimax and alpha-beta pruning"
+  ],
+  [
+   "Knowledge Representation and Logic",
+   "Propositional and first-order logic and inference"
+  ],
+  [
+   "Expert Systems",
+   "Rule-based systems and inference engines"
+  ],
+  [
+   "Uncertainty and Probabilistic Reasoning",
+   "Bayes' rule and Bayesian networks"
+  ],
+  [
+   "Machine Learning Fundamentals",
+   "Supervised, unsupervised and reinforcement learning"
+  ],
+  [
+   "Neural Networks",
+   "Perceptrons, backpropagation and deep learning basics"
+  ],
+  [
+   "Natural Language Processing",
+   "Tokenization, embeddings and text classification"
+  ],
+  [
+   "Computer Vision",
+   "Image classification and convolutional neural networks"
+  ],
+  [
+   "Fuzzy Logic and Genetic Algorithms",
+   "Soft computing and evolutionary optimization"
+  ],
+  [
+   "AI Ethics",
+   "Fairness, transparency and responsible AI"
+  ]
+ ],
+ "mobile": [
+  [
+   "Introduction to Mobile Development",
+   "Mobile platforms, native versus cross-platform apps and the app lifecycle"
+  ],
+  [
+   "Android Development with Kotlin",
+   "Activities, layouts, intents and Android Studio"
+  ],
+  [
+   "iOS Development with Swift",
+   "Xcode, Swift basics and SwiftUI views"
+  ],
+  [
+   "User Interface Design for Mobile",
+   "Layouts, navigation, Material Design and touch interaction"
+  ],
+  [
+   "Handling User Input and Events",
+   "Forms, gestures and event listeners"
+  ],
+  [
+   "Data Storage on Mobile",
+   "SharedPreferences, SQLite and Room"
+  ],
+  [
+   "Networking and REST APIs",
+   "Fetching JSON, Retrofit and handling network errors"
+  ],
+  [
+   "Device Features and Sensors",
+   "Camera, GPS, notifications and permissions"
+  ],
+  [
+   "Cross-Platform Development",
+   "Flutter and React Native"
+  ],
+  [
+   "Testing and Publishing Apps",
+   "Emulators, debugging and app store release"
+  ]
+ ],
+ "modeling": [
+  [
+   "Introduction to Modeling and Simulation",
+   "Types of models, systems and the simulation process"
+  ],
+  [
+   "Probability Distributions for Simulation",
+   "Discrete and continuous distributions and random variates"
+  ],
+  [
+   "Random Number Generation",
+   "Pseudo-random generators and statistical tests for randomness"
+  ],
+  [
+   "Monte Carlo Simulation",
+   "Estimating values and risks by random sampling"
+  ],
+  [
+   "Discrete-Event Simulation",
+   "Event lists, queues and simulation clocks"
+  ],
+  [
+   "Queueing Models",
+   "Arrival and service processes, and M/M/1 queues"
+  ],
+  [
+   "Linear Programming",
+   "Formulating and solving optimization problems with the simplex method"
+  ],
+  [
+   "Decision Analysis",
+   "Decision trees, payoff tables and expected value"
+  ],
+  [
+   "Forecasting and Regression",
+   "Time series, moving averages and least squares"
+  ],
+  [
+   "Simulation Tools and Model Validation",
+   "Simulation software and verifying and validating models"
+  ]
+ ],
+ "distributed": [
+  [
+   "Introduction to Parallel and Distributed Computing",
+   "Motivation, Flynn's taxonomy and speedup"
+  ],
+  [
+   "Parallel Architectures",
+   "Multicore, shared and distributed memory and GPUs"
+  ],
+  [
+   "Threads and Concurrency",
+   "Thread creation, race conditions and synchronization"
+  ],
+  [
+   "Locks, Semaphores and Deadlock",
+   "Mutual exclusion and deadlock prevention"
+  ],
+  [
+   "Parallel Programming Models",
+   "OpenMP, MPI and task parallelism"
+  ],
+  [
+   "Performance Analysis",
+   "Amdahl's law, scalability and load balancing"
+  ],
+  [
+   "Distributed System Fundamentals",
+   "Client-server, peer-to-peer and remote procedure calls"
+  ],
+  [
+   "Time, Coordination and Consensus",
+   "Logical clocks, leader election and Paxos"
+  ],
+  [
+   "Replication and Fault Tolerance",
+   "Consistency models and the CAP theorem"
+  ],
+  [
+   "Cloud, Cluster and MapReduce",
+   "Cluster computing, Hadoop and Spark"
+  ]
+ ],
+ "software-engineering": [
+  [
+   "Introduction to Software Engineering",
+   "Software processes, the software crisis and professional practice"
+  ],
+  [
+   "Software Development Life Cycle Models",
+   "Waterfall, iterative, spiral and agile models"
+  ],
+  [
+   "Agile Methods and Scrum",
+   "User stories, sprints, backlogs and daily stand-ups"
+  ],
+  [
+   "Requirements Engineering",
+   "Gathering, specifying and validating functional and non-functional requirements"
+  ],
+  [
+   "Modeling with UML",
+   "Use case, class, sequence and activity diagrams"
+  ],
+  [
+   "Project Planning and Estimation",
+   "Scheduling, risk management and cost estimation"
+  ],
+  [
+   "Version Control and Collaboration",
+   "Git, branching and code review"
+  ]
+ ],
+ "business-analytics": [
+  [
+   "Introduction to Business Analytics",
+   "Descriptive, predictive and prescriptive analytics"
+  ],
+  [
+   "Business Intelligence and Data Warehousing",
+   "ETL, data marts and OLAP"
+  ],
+  [
+   "Data Preparation with Excel",
+   "Cleaning data, formulas and pivot tables"
+  ],
+  [
+   "Descriptive Statistics for Business",
+   "Measures of central tendency, variation and distributions"
+  ],
+  [
+   "Data Visualization and Dashboards",
+   "KPIs and building dashboards with Power BI and Tableau"
+  ],
+  [
+   "Forecasting and Trend Analysis",
+   "Time series and regression for sales and demand"
+  ],
+  [
+   "Predictive Analytics",
+   "Classification, clustering and churn prediction"
+  ],
+  [
+   "Prescriptive Analytics",
+   "Optimization and what-if analysis"
+  ],
+  [
+   "Data-Driven Decision Making",
+   "Presenting insights and business cases"
+  ]
+ ],
+ "platform": [
+  [
+   "Introduction to Platform Technologies",
+   "Computing platforms, stacks and platform selection"
+  ],
+  [
+   "Operating System Platforms",
+   "Windows, Linux and macOS environments and the command line"
+  ],
+  [
+   "Virtualization",
+   "Hypervisors, virtual machines and VirtualBox or VMware"
+  ],
+  [
+   "Cloud Computing Models",
+   "IaaS, PaaS, SaaS and public, private and hybrid clouds"
+  ],
+  [
+   "Containers and Docker",
+   "Images, containers and container orchestration basics"
+  ],
+  [
+   "Web and Application Platforms",
+   "Application servers, web servers and deployment"
+  ],
+  [
+   "Mobile and Embedded Platforms",
+   "Platform constraints and development environments"
+  ],
+  [
+   "Platform Security and Administration",
+   "User management, updates and monitoring"
+  ],
+  [
+   "Emerging Platforms",
+   "Serverless, edge computing and the Internet of Things"
+  ]
+ ],
+ "web": [
+  [
+   "Introduction to Web Development",
+   "How the web works, browsers, servers and HTTP"
+  ],
+  [
+   "HTML Fundamentals",
+   "Document structure, semantic elements, forms and tables"
+  ],
+  [
+   "CSS Styling and Layout",
+   "Selectors, box model, Flexbox and Grid"
+  ],
+  [
+   "Responsive Web Design",
+   "Media queries, mobile-first design and accessibility"
+  ],
+  [
+   "JavaScript Basics",
+   "Variables, functions, DOM manipulation and events"
+  ],
+  [
+   "Advanced JavaScript",
+   "ES6 features, asynchronous code, fetch and JSON"
+  ],
+  [
+   "Front-End Frameworks",
+   "Bootstrap, React and component-based design"
+  ],
+  [
+   "Server-Side Programming",
+   "PHP or Node.js, routing and handling requests"
+  ],
+  [
+   "Databases for Web Applications",
+   "Connecting to MySQL, CRUD operations and sessions"
+  ],
+  [
+   "RESTful APIs",
+   "Designing and consuming APIs and using Postman"
+  ],
+  [
+   "Web Security",
+   "SQL injection, XSS, CSRF and HTTPS"
+  ],
+  [
+   "Deployment and Hosting",
+   "Domains, hosting, Git and continuous deployment"
+  ]
+ ],
+ "integrative": [
+  [
+   "Introduction to Integrative Programming",
+   "Integration concepts and system interoperability"
+  ],
+  [
+   "Data Formats: JSON and XML",
+   "Parsing, validating and exchanging data between systems"
+  ],
+  [
+   "Web Services and APIs",
+   "SOAP, REST and API design"
+  ],
+  [
+   "Consuming and Building REST APIs",
+   "Endpoints, HTTP methods and status codes"
+  ],
+  [
+   "Authentication and Authorization",
+   "API keys, OAuth and JSON Web Tokens"
+  ],
+  [
+   "Middleware and Message Queues",
+   "Asynchronous messaging and integration patterns"
+  ],
+  [
+   "Third-Party Service Integration",
+   "Payment, maps and social login integrations"
+  ],
+  [
+   "Integration Testing",
+   "Testing APIs and debugging integrations"
+  ],
+  [
+   "Scripting and Automation",
+   "Python scripts, scheduled tasks and webhooks"
+  ]
+ ],
+ "multimedia": [
+  [
+   "Introduction to Multimedia",
+   "Multimedia elements and applications"
+  ],
+  [
+   "Digital Images and Graphics Editing",
+   "Raster versus vector graphics and Photoshop or GIMP"
+  ],
+  [
+   "Typography and Color Theory",
+   "Fonts, color schemes and visual hierarchy"
+  ],
+  [
+   "Digital Audio",
+   "Sampling, audio formats and editing"
+  ],
+  [
+   "Digital Video",
+   "Frame rates, codecs and video editing"
+  ],
+  [
+   "2D Animation",
+   "Keyframes, tweening and storyboarding"
+  ],
+  [
+   "3D Modeling Basics",
+   "Modeling, texturing and rendering with Blender"
+  ],
+  [
+   "Multimedia Authoring and Web Media",
+   "Embedding media and optimizing for the web"
+  ],
+  [
+   "Compression and File Formats",
+   "Lossy and lossless compression, JPEG, MP3 and MP4"
+  ],
+  [
+   "Multimedia Project Production",
+   "Planning, production workflow and delivery"
+  ]
+ ],
+ "systems-integration": [
+  [
+   "Introduction to Systems Integration",
+   "Integration approaches and challenges"
+  ],
+  [
+   "Enterprise Architecture",
+   "Frameworks such as TOGAF and Zachman"
+  ],
+  [
+   "System Architecture Styles",
+   "Layered, client-server, microservices and event-driven architectures"
+  ],
+  [
+   "Service-Oriented Architecture",
+   "Services, contracts and the enterprise service bus"
+  ],
+  [
+   "Systems Analysis and Design",
+   "Requirements, data flow diagrams and design documentation"
+  ],
+  [
+   "Integration Patterns and Middleware",
+   "Point-to-point, hub-and-spoke and message brokers"
+  ],
+  [
+   "Legacy System Integration",
+   "Migration strategies and wrappers"
+  ],
+  [
+   "Cloud and Hybrid Integration",
+   "Integrating on-premise and cloud systems"
+  ],
+  [
+   "System Testing and Deployment",
+   "Integration testing, acceptance testing and rollout"
+  ],
+  [
+   "IT Project and Change Management",
+   "Planning, risk and stakeholder management"
+  ]
+ ],
+ "systems-admin": [
+  [
+   "Introduction to Systems Administration",
+   "Roles, responsibilities and best practices"
+  ],
+  [
+   "Linux Administration",
+   "Users, permissions, packages and shell scripting"
+  ],
+  [
+   "Windows Server Administration",
+   "Active Directory, group policy and file services"
+  ],
+  [
+   "Network Services",
+   "DNS, DHCP, web and mail servers"
+  ],
+  [
+   "Storage and Backup",
+   "RAID, backup strategies and disaster recovery"
+  ],
+  [
+   "Monitoring and Performance Tuning",
+   "Log analysis and monitoring tools"
+  ],
+  [
+   "Server Security and Hardening",
+   "Firewalls, patching and access control"
+  ],
+  [
+   "Virtualization and Cloud Administration",
+   "Managing virtual machines and cloud resources"
+  ],
+  [
+   "Automation and Scripting",
+   "PowerShell, Bash and configuration management"
+  ],
+  [
+   "IT Maintenance and Documentation",
+   "Maintenance schedules, help desk and documentation"
+  ]
+ ],
+ "internship": [
+  [
+   "Practicum Orientation",
+   "Objectives, requirements and company assignment"
+  ],
+  [
+   "Workplace Ethics and Professionalism",
+   "Professional conduct and communication at work"
+  ],
+  [
+   "IT Career Preparation",
+   "Resume, portfolio and interview skills"
+  ],
+  [
+   "On-the-Job Training Tasks",
+   "Applying programming, networking or support skills in a real workplace"
+  ],
+  [
+   "Documentation and Reporting",
+   "Daily logs, weekly reports and the final practicum report"
+  ],
+  [
+   "Teamwork and Project Collaboration",
+   "Working with supervisors and teams"
+  ],
+  [
+   "Evaluation and Reflection",
+   "Performance evaluation and lessons learned"
+  ]
+ ]
+}

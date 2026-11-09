@@ -1,0 +1,476 @@
+{
+ "overall": {
+  "n": 51,
+  "correct": 49,
+  "accuracy": 0.9607843137254902,
+  "precision": 0.9615384615384616,
+  "recall": 0.9615384615384616,
+  "f1": 0.9615384615384616,
+  "fpr": 0.04,
+  "tp": 25,
+  "fp": 1,
+  "fn": 1,
+  "tn": 24
+ },
+ "rows": [
+  {
+   "id": "pop_001",
+   "kind": "ad_on_topic",
+   "expected": "keep",
+   "has_password": "0",
+   "text": "Limited offer: 50% discount on our Python programming bootcamp. Enroll today.",
+   "result": "keep",
+   "askedModel": true
+  },
+  {
+   "id": "pop_002",
+   "kind": "ad_on_topic",
+   "expected": "keep",
+   "has_password": "0",
+   "text": "Sponsored: Learn SQL and database design in 4 weeks. Use promo code SQL50.",
+   "result": "keep",
+   "askedModel": true
+  },
+  {
+   "id": "pop_003",
+   "kind": "ad_on_topic",
+   "expected": "keep",
+   "has_password": "0",
+   "text": "Shop now: Raspberry Pi starter kit for coding and electronics projects. Limited offer.",
+   "result": "keep",
+   "askedModel": true
+  },
+  {
+   "id": "pop_004",
+   "kind": "ad_on_topic",
+   "expected": "keep",
+   "has_password": "0",
+   "text": "Subscribe now to our free data structures and algorithms course.",
+   "result": "keep",
+   "askedModel": true
+  },
+  {
+   "id": "pop_005",
+   "kind": "ad_on_topic",
+   "expected": "keep",
+   "has_password": "0",
+   "text": "Advertisement: Master Java and object-oriented programming. Discount for students.",
+   "result": "keep",
+   "askedModel": true
+  },
+  {
+   "id": "pop_006",
+   "kind": "ad_on_topic",
+   "expected": "keep",
+   "has_password": "0",
+   "text": "Buy now: JavaScript and web development bundle, limited offer for students.",
+   "result": "keep",
+   "askedModel": true
+  },
+  {
+   "id": "pop_007",
+   "kind": "ad_on_topic",
+   "expected": "keep",
+   "has_password": "0",
+   "text": "Sign up now for the cybersecurity fundamentals course, promo code SECURE20.",
+   "result": "keep",
+   "askedModel": true
+  },
+  {
+   "id": "pop_008",
+   "kind": "ad_on_topic",
+   "expected": "keep",
+   "has_password": "0",
+   "text": "Sponsored: Cloud computing certification prep, discount this week only.",
+   "result": "keep",
+   "askedModel": true
+  },
+  {
+   "id": "pop_009",
+   "kind": "ad_on_topic",
+   "expected": "keep",
+   "has_password": "0",
+   "text": "Limited offer: networking and CCNA practice exams at a discount.",
+   "result": "filter",
+   "askedModel": true
+  },
+  {
+   "id": "pop_010",
+   "kind": "ad_on_topic",
+   "expected": "keep",
+   "has_password": "0",
+   "text": "Shop now: used algorithms textbooks, discount on computer science books.",
+   "result": "keep",
+   "askedModel": true
+  },
+  {
+   "id": "pop_011",
+   "kind": "ad_on_topic",
+   "expected": "keep",
+   "has_password": "0",
+   "text": "Advertisement: free trial of a Git and version control training platform. Subscribe now.",
+   "result": "keep",
+   "askedModel": true
+  },
+  {
+   "id": "pop_012",
+   "kind": "ad_on_topic",
+   "expected": "keep",
+   "has_password": "0",
+   "text": "Promo code CODE30: 30% discount on machine learning with Python video course.",
+   "result": "keep",
+   "askedModel": true
+  },
+  {
+   "id": "pop_013",
+   "kind": "ad_off_topic",
+   "expected": "filter",
+   "has_password": "0",
+   "text": "Sponsored: Win big at our online casino. Bonus promo code VEGAS100.",
+   "result": "filter",
+   "askedModel": true
+  },
+  {
+   "id": "pop_014",
+   "kind": "ad_off_topic",
+   "expected": "filter",
+   "has_password": "0",
+   "text": "Limited offer: 60% discount on designer sneakers. Shop now!",
+   "result": "filter",
+   "askedModel": true
+  },
+  {
+   "id": "pop_015",
+   "kind": "ad_off_topic",
+   "expected": "filter",
+   "has_password": "0",
+   "text": "Advertisement: Celebrity gossip magazine, subscribe now for exclusive photos.",
+   "result": "filter",
+   "askedModel": true
+  },
+  {
+   "id": "pop_016",
+   "kind": "ad_off_topic",
+   "expected": "filter",
+   "has_password": "0",
+   "text": "Sign up now for our weight loss program. Limited offer discount.",
+   "result": "filter",
+   "askedModel": true
+  },
+  {
+   "id": "pop_017",
+   "kind": "ad_off_topic",
+   "expected": "filter",
+   "has_password": "0",
+   "text": "Sponsored: Best budget travel deals to Boracay, book now with promo code BEACH.",
+   "result": "filter",
+   "askedModel": true
+  },
+  {
+   "id": "pop_018",
+   "kind": "ad_off_topic",
+   "expected": "filter",
+   "has_password": "0",
+   "text": "Buy now: luxury watches at a huge discount, limited offer.",
+   "result": "filter",
+   "askedModel": true
+  },
+  {
+   "id": "pop_019",
+   "kind": "ad_off_topic",
+   "expected": "filter",
+   "has_password": "0",
+   "text": "Advertisement: Play the new fantasy battle game. Shop now for in-game coins, discount today.",
+   "result": "filter",
+   "askedModel": true
+  },
+  {
+   "id": "pop_020",
+   "kind": "ad_off_topic",
+   "expected": "filter",
+   "has_password": "0",
+   "text": "Limited offer: skincare set, buy now and get a free gift. Promo code GLOW.",
+   "result": "filter",
+   "askedModel": true
+  },
+  {
+   "id": "pop_021",
+   "kind": "ad_off_topic",
+   "expected": "filter",
+   "has_password": "0",
+   "text": "Sponsored: Sports betting odds for tonight's basketball finals. Sign up now for a bonus.",
+   "result": "filter",
+   "askedModel": true
+  },
+  {
+   "id": "pop_022",
+   "kind": "ad_off_topic",
+   "expected": "filter",
+   "has_password": "0",
+   "text": "Shop now: fashion sale, 70% discount on dresses and shoes.",
+   "result": "filter",
+   "askedModel": true
+  },
+  {
+   "id": "pop_023",
+   "kind": "ad_off_topic",
+   "expected": "filter",
+   "has_password": "0",
+   "text": "Paid partnership: pet food discount, buy now and save.",
+   "result": "filter",
+   "askedModel": true
+  },
+  {
+   "id": "pop_024",
+   "kind": "ad_off_topic",
+   "expected": "filter",
+   "has_password": "0",
+   "text": "Advertisement: Cryptocurrency trading signals, sign up now for a promo code bonus.",
+   "result": "keep",
+   "askedModel": true
+  },
+  {
+   "id": "pop_025",
+   "kind": "ad_off_topic",
+   "expected": "filter",
+   "has_password": "0",
+   "text": "Limited offer: concert tickets with discount, buy now before they sell out.",
+   "result": "filter",
+   "askedModel": true
+  },
+  {
+   "id": "pop_026",
+   "kind": "ad_off_topic",
+   "expected": "filter",
+   "has_password": "0",
+   "text": "Sponsored: Learn to cook Filipino dishes. Subscribe now for recipe videos and a discount.",
+   "result": "filter",
+   "askedModel": true
+  },
+  {
+   "id": "pop_027",
+   "kind": "signup_prompt",
+   "expected": "filter",
+   "has_password": "0",
+   "text": "Discover the world's research. Join ResearchGate to find the people and research you need to help your work. Join for free",
+   "result": "filter",
+   "askedModel": false
+  },
+  {
+   "id": "pop_028",
+   "kind": "signup_prompt",
+   "expected": "filter",
+   "has_password": "0",
+   "text": "Sign up for access to the world's latest research. Get notified about relevant papers. Save papers to use in your research. Sign up for free",
+   "result": "filter",
+   "askedModel": false
+  },
+  {
+   "id": "pop_029",
+   "kind": "signup_prompt",
+   "expected": "filter",
+   "has_password": "0",
+   "text": "Subscribe to our newsletter for weekly updates on new articles.",
+   "result": "filter",
+   "askedModel": false
+  },
+  {
+   "id": "pop_030",
+   "kind": "signup_prompt",
+   "expected": "filter",
+   "has_password": "0",
+   "text": "Download our app for a better reading experience. Get the app.",
+   "result": "filter",
+   "askedModel": false
+  },
+  {
+   "id": "pop_031",
+   "kind": "signup_prompt",
+   "expected": "filter",
+   "has_password": "0",
+   "text": "Create a free account to continue reading this article.",
+   "result": "filter",
+   "askedModel": false
+  },
+  {
+   "id": "pop_032",
+   "kind": "signup_prompt",
+   "expected": "filter",
+   "has_password": "0",
+   "text": "Turn on notifications to never miss a new post.",
+   "result": "filter",
+   "askedModel": false
+  },
+  {
+   "id": "pop_033",
+   "kind": "signup_prompt",
+   "expected": "filter",
+   "has_password": "0",
+   "text": "Join now and get unlimited access to millions of documents. Free trial.",
+   "result": "filter",
+   "askedModel": false
+  },
+  {
+   "id": "pop_034",
+   "kind": "signup_prompt",
+   "expected": "filter",
+   "has_password": "0",
+   "text": "Upgrade to premium to unlock full access to this document.",
+   "result": "filter",
+   "askedModel": false
+  },
+  {
+   "id": "pop_035",
+   "kind": "signup_prompt",
+   "expected": "filter",
+   "has_password": "0",
+   "text": "Join our newsletter: get programming tutorials in your inbox.",
+   "result": "filter",
+   "askedModel": false
+  },
+  {
+   "id": "pop_036",
+   "kind": "signup_prompt",
+   "expected": "filter",
+   "has_password": "0",
+   "text": "Sign up to continue reading. Create an account in seconds.",
+   "result": "filter",
+   "askedModel": false
+  },
+  {
+   "id": "pop_037",
+   "kind": "signup_prompt",
+   "expected": "filter",
+   "has_password": "0",
+   "text": "Register now for free to download this paper.",
+   "result": "filter",
+   "askedModel": false
+  },
+  {
+   "id": "pop_038",
+   "kind": "signup_prompt",
+   "expected": "filter",
+   "has_password": "0",
+   "text": "Join for free and follow your favorite authors.",
+   "result": "filter",
+   "askedModel": false
+  },
+  {
+   "id": "pop_039",
+   "kind": "cookie_notice",
+   "expected": "keep",
+   "has_password": "0",
+   "text": "We use cookies to improve your experience. Accept all cookies.",
+   "result": "keep",
+   "askedModel": false
+  },
+  {
+   "id": "pop_040",
+   "kind": "cookie_notice",
+   "expected": "keep",
+   "has_password": "0",
+   "text": "This site uses cookies. By continuing you agree to our cookie policy. Accept",
+   "result": "keep",
+   "askedModel": false
+  },
+  {
+   "id": "pop_041",
+   "kind": "cookie_notice",
+   "expected": "keep",
+   "has_password": "0",
+   "text": "Cookie settings: manage your cookie preferences. Accept all.",
+   "result": "keep",
+   "askedModel": false
+  },
+  {
+   "id": "pop_042",
+   "kind": "cookie_notice",
+   "expected": "keep",
+   "has_password": "0",
+   "text": "We value your privacy. We use cookies and similar technologies. OK",
+   "result": "keep",
+   "askedModel": false
+  },
+  {
+   "id": "pop_043",
+   "kind": "login_form",
+   "expected": "keep",
+   "has_password": "1",
+   "text": "Log in to continue. Enter your email and password.",
+   "result": "keep",
+   "askedModel": false
+  },
+  {
+   "id": "pop_044",
+   "kind": "login_form",
+   "expected": "keep",
+   "has_password": "1",
+   "text": "Sign in to your account",
+   "result": "keep",
+   "askedModel": false
+  },
+  {
+   "id": "pop_045",
+   "kind": "login_form",
+   "expected": "keep",
+   "has_password": "1",
+   "text": "Welcome back. Please log in to access your saved papers.",
+   "result": "keep",
+   "askedModel": false
+  },
+  {
+   "id": "pop_046",
+   "kind": "neutral_notice",
+   "expected": "keep",
+   "has_password": "0",
+   "text": "Your session is about to expire. Click to stay signed in.",
+   "result": "keep",
+   "askedModel": false
+  },
+  {
+   "id": "pop_047",
+   "kind": "neutral_notice",
+   "expected": "keep",
+   "has_password": "0",
+   "text": "Rate this article: how helpful was it?",
+   "result": "keep",
+   "askedModel": false
+  },
+  {
+   "id": "pop_048",
+   "kind": "neutral_notice",
+   "expected": "keep",
+   "has_password": "0",
+   "text": "Download complete. Open the file.",
+   "result": "keep",
+   "askedModel": false
+  },
+  {
+   "id": "pop_049",
+   "kind": "neutral_notice",
+   "expected": "keep",
+   "has_password": "0",
+   "text": "Are you sure you want to leave this page?",
+   "result": "keep",
+   "askedModel": false
+  },
+  {
+   "id": "pop_050",
+   "kind": "neutral_notice",
+   "expected": "keep",
+   "has_password": "0",
+   "text": "Your file has been saved to your library.",
+   "result": "keep",
+   "askedModel": false
+  },
+  {
+   "id": "pop_051",
+   "kind": "neutral_notice",
+   "expected": "keep",
+   "has_password": "0",
+   "text": "Cite this paper: copy the citation in APA format.",
+   "result": "keep",
+   "askedModel": false
+  }
+ ]
+}

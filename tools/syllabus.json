@@ -1,0 +1,1362 @@
+{
+ "IT": [
+  {
+   "code": "FPROGLAB",
+   "title": "Computer Programming 1 (Fundamentals of Programming - Laboratory)",
+   "year": "1st Year",
+   "term": "1st Semester",
+   "topics": [
+    {
+     "topic": "Flowcharting",
+     "detail": "Flowcharting symbols, conventions, and program logic representation"
+    },
+    {
+     "topic": "Algorithm",
+     "detail": "Algorithm formulation and step-by-step problem-solving methods"
+    },
+    {
+     "topic": "Introduction to C-Language",
+     "detail": "History, objectives, classifications, features, advantages and disadvantages"
+    },
+    {
+     "topic": "Components of C-Language",
+     "detail": "Reserved words, preprocessor directives, and program organization"
+    },
+    {
+     "topic": "Creating Simple Programs",
+     "detail": "Standard structure of C programs, main function, and basic I/O"
+    },
+    {
+     "topic": "Basic Parts & Variable Declaration",
+     "detail": "Basic components of C, primitive data types, variable declarations"
+    },
+    {
+     "topic": "Local & Global Variables",
+     "detail": "Local vs. global variable scope, compound comparisons, expressions"
+    },
+    {
+     "topic": "Conditional Statements: If & If-Else",
+     "detail": "Selection control structures, If and If-Else branching constructs"
+    },
+    {
+     "topic": "Selection: Else-If & Nested Conditions",
+     "detail": "Multi-way decision structures, If-Else-If ladders, nested conditions"
+    },
+    {
+     "topic": "Looping: For & While Loops",
+     "detail": "Iteration control structures, counter-controlled and condition-controlled loops"
+    },
+    {
+     "topic": "Looping: Do-While Loop",
+     "detail": "Post-test iteration constructs, do-while syntax and application"
+    },
+    {
+     "topic": "Switch-Case & Functions",
+     "detail": "Switch-case statements, loop modifications, break/continue, functions"
+    },
+    {
+     "topic": "Arrays",
+     "detail": "One-dimensional array declaration, indexing, traversal, and storage"
+    },
+    {
+     "topic": "Strings",
+     "detail": "Character arrays, null-terminated strings, standard string handling"
+    },
+    {
+     "topic": "Introduction to Advanced C",
+     "detail": "Modular programming, function definitions, pointers preview"
+    }
+   ]
+  },
+  {
+   "code": "FPROGLEC",
+   "title": "Computer Programming 1 (Fundamentals of Programming - Lecture)",
+   "year": "1st Year",
+   "term": "1st Semester",
+   "topics": [
+    {
+     "topic": "Flowcharting",
+     "detail": "Flowcharting symbols, conventions, and program logic representation"
+    },
+    {
+     "topic": "Algorithm",
+     "detail": "Algorithm formulation and step-by-step problem-solving methods"
+    },
+    {
+     "topic": "Introduction to C-Language",
+     "detail": "History, objectives, classifications, features, advantages and disadvantages"
+    },
+    {
+     "topic": "Components of C-Language",
+     "detail": "Reserved words, preprocessor directives, and program organization"
+    },
+    {
+     "topic": "Creating Simple Programs",
+     "detail": "Standard structure of C programs, main function, and basic I/O"
+    },
+    {
+     "topic": "Basic Parts & Variable Declaration",
+     "detail": "Basic components of C, primitive data types, variable declarations"
+    },
+    {
+     "topic": "Local & Global Variables",
+     "detail": "Local vs. global variable scope, compound comparisons, expressions"
+    },
+    {
+     "topic": "Conditional Statements: If & If-Else",
+     "detail": "Selection control structures, If and If-Else branching constructs"
+    },
+    {
+     "topic": "Selection: Else-If & Nested Conditions",
+     "detail": "Multi-way decision structures, If-Else-If ladders, nested conditions"
+    },
+    {
+     "topic": "Looping: For & While Loops",
+     "detail": "Iteration control structures, counter-controlled and condition-controlled loops"
+    },
+    {
+     "topic": "Looping: Do-While Loop",
+     "detail": "Post-test iteration constructs, do-while syntax and application"
+    },
+    {
+     "topic": "Switch-Case & Functions",
+     "detail": "Switch-case statements, loop modifications, break/continue, functions"
+    },
+    {
+     "topic": "Arrays",
+     "detail": "One-dimensional array declaration, indexing, traversal, and storage"
+    },
+    {
+     "topic": "Strings",
+     "detail": "Character arrays, null-terminated strings, standard string handling"
+    },
+    {
+     "topic": "Introduction to Advanced C",
+     "detail": "Modular programming, function definitions, pointers preview"
+    }
+   ]
+  },
+  {
+   "code": "IPROGLAB",
+   "title": "Computer Programming 2 (Intermediate Programming - Laboratory)",
+   "year": "1st Year",
+   "term": "2nd Semester",
+   "topics": [
+    {
+     "topic": "Fundamental of Programming",
+     "detail": "C++ elements, reserved words, constants, and basic data types"
+    },
+    {
+     "topic": "Operators: Arithmetic & Relational",
+     "detail": "Arithmetic, relational, equality, and logical operators"
+    },
+    {
+     "topic": "Operators: Assignment & Bitwise",
+     "detail": "Compound assignment, increment/decrement, and bitwise operators"
+    },
+    {
+     "topic": "Control Flow: Conditional Statements",
+     "detail": "Compound statements, null statements, if, if-else, and switch-case selection"
+    },
+    {
+     "topic": "Control Flow: Iteration Constructs",
+     "detail": "Iteration control structures: for loops, while loops, and do-while loops"
+    },
+    {
+     "topic": "C++ Functions: Structure & Prototyping",
+     "detail": "Standard function structure, function definitions, and function prototyping"
+    },
+    {
+     "topic": "C++ Functions: Parameters & Overloading",
+     "detail": "Return data types, parameters, and function overloading"
+    },
+    {
+     "topic": "Pointers: Fundamentals & Operators",
+     "detail": "Pointer declaration, address-of operator (&), and dereference operator (*)"
+    },
+    {
+     "topic": "Pointers: Advanced Operations",
+     "detail": "Uninitialized and null pointers, pointers to pointers, and pointers to functions"
+    },
+    {
+     "topic": "Strings",
+     "detail": "Character arrays, string declaration, initialization, and string functions"
+    },
+    {
+     "topic": "Structures: Data Structures",
+     "detail": "User-defined data structures, member access, and nesting structures"
+    },
+    {
+     "topic": "Structures: Pointers to Structures",
+     "detail": "Pointers to structures, arrow operator (->), and structured records"
+    },
+    {
+     "topic": "Files: Streams & Basic File I/O",
+     "detail": "File stream operations, writing to and reading from files using the file class"
+    },
+    {
+     "topic": "Files: Random Access Records",
+     "detail": "Reading and writing structured records to random access files"
+    },
+    {
+     "topic": "Objects & Classes",
+     "detail": "Classes, public and private sections, constructors, destructors, and header files"
+    }
+   ]
+  },
+  {
+   "code": "IPROGLEC",
+   "title": "Computer Programming 2 (Intermediate Programming - Lecture)",
+   "year": "1st Year",
+   "term": "2nd Semester",
+   "topics": [
+    {
+     "topic": "Fundamental of Programming",
+     "detail": "C++ elements, reserved words, constants, and basic data types"
+    },
+    {
+     "topic": "Operators: Arithmetic & Relational",
+     "detail": "Arithmetic, relational, equality, and logical operators"
+    },
+    {
+     "topic": "Operators: Assignment & Bitwise",
+     "detail": "Compound assignment, increment/decrement, and bitwise operators"
+    },
+    {
+     "topic": "Control Flow: Conditional Statements",
+     "detail": "Compound statements, null statements, if, if-else, and switch-case selection"
+    },
+    {
+     "topic": "Control Flow: Iteration Constructs",
+     "detail": "Iteration control structures: for loops, while loops, and do-while loops"
+    },
+    {
+     "topic": "C++ Functions: Structure & Prototyping",
+     "detail": "Standard function structure, function definitions, and function prototyping"
+    },
+    {
+     "topic": "C++ Functions: Parameters & Overloading",
+     "detail": "Return data types, parameters, and function overloading"
+    },
+    {
+     "topic": "Pointers: Fundamentals & Operators",
+     "detail": "Pointer declaration, address-of operator (&), and dereference operator (*)"
+    },
+    {
+     "topic": "Pointers: Advanced Operations",
+     "detail": "Uninitialized and null pointers, pointers to pointers, and pointers to functions"
+    },
+    {
+     "topic": "Strings",
+     "detail": "Character arrays, string declaration, initialization, and string functions"
+    },
+    {
+     "topic": "Structures: Data Structures",
+     "detail": "User-defined data structures, member access, and nesting structures"
+    },
+    {
+     "topic": "Structures: Pointers to Structures",
+     "detail": "Pointers to structures, arrow operator (->), and structured records"
+    },
+    {
+     "topic": "Files: Streams & Basic File I/O",
+     "detail": "File stream operations, writing to and reading from files using the file class"
+    },
+    {
+     "topic": "Files: Random Access Records",
+     "detail": "Reading and writing structured records to random access files"
+    },
+    {
+     "topic": "Objects & Classes",
+     "detail": "Classes, public and private sections, constructors, destructors, and header files"
+    }
+   ]
+  },
+  {
+   "code": "INFMGTLC",
+   "title": "Information Management Lecture",
+   "year": "2nd Year",
+   "term": "1st Semester",
+   "topics": [
+    {
+     "topic": "Information Lifecycle",
+     "detail": "Information creation and acquisition, storage and maintenance, retrieval and use, retention, archiving, and disposal"
+    },
+    {
+     "topic": "Information Management and Data Management",
+     "detail": "Information versus data, information management versus data management, importance in business and government, roles of information professionals"
+    },
+    {
+     "topic": "Introduction to Information Systems",
+     "detail": "Components of information systems (people, processes, data, hardware, software, networks), role of information systems in organizations"
+    },
+    {
+     "topic": "Types of Information Systems",
+     "detail": "Transaction Processing Systems, Management Information Systems, Decision Support Systems, Executive Information Systems, Enterprise Resource Planning Systems"
+    },
+    {
+     "topic": "Database Management and Information Retrieval",
+     "detail": "Introduction to DBMS, database models and structures, tables, records, fields, information retrieval systems, search strategies"
+    },
+    {
+     "topic": "Cloud Computing and Emerging Technologies",
+     "detail": "Cloud service models, cloud-based information management, artificial intelligence, big data analytics, blockchain, and Internet of Things"
+    },
+    {
+     "topic": "Data Governance",
+     "detail": "Definition and principles, governance frameworks, policies, standards, procedures, data ownership and stewardship"
+    },
+    {
+     "topic": "Data Quality Management",
+     "detail": "Dimensions of data quality (accuracy, completeness, consistency, timeliness, validity, uniqueness), data cleaning and validation"
+    },
+    {
+     "topic": "Metadata and Master Data Management",
+     "detail": "Definition and types of metadata (descriptive, structural, administrative), master data and reference data, importance of metadata"
+    },
+    {
+     "topic": "Information Organization and Classification",
+     "detail": "Principles of information organization, taxonomies, controlled vocabularies, ontologies, classification schemes"
+    },
+    {
+     "topic": "Information Architecture",
+     "detail": "Structuring information for usability, labeling and navigation, search systems, user-centered information organization"
+    },
+    {
+     "topic": "Information Security and Privacy",
+     "detail": "Confidentiality, integrity, availability, threats and vulnerabilities, malware, phishing, access control and identity management"
+    },
+    {
+     "topic": "Privacy, Risk, Compliance, and Ethics",
+     "detail": "Philippine Data Privacy Act of 2012, GDPR and CCPA overview, risk assessment, regulatory compliance, ethical use of information"
+    },
+    {
+     "topic": "Digital Records and Archives Management",
+     "detail": "Electronic records, records classification, retention and disposal schedules, electronic document and records management systems, digital archives"
+    },
+    {
+     "topic": "Digital Preservation, E-Discovery, and Sectoral Applications",
+     "detail": "Digital libraries and repositories, digital preservation challenges, e-discovery and electronic evidence, sectoral applications in healthcare, finance, education, and government"
+    }
+   ]
+  },
+  {
+   "code": "ITTHESL2",
+   "title": "Research 2 (Lecture)",
+   "year": "4th Year",
+   "term": "1st Semester",
+   "topics": [
+    {
+     "topic": "Orientation & Review of Thesis 1 Outputs",
+     "detail": "Review approved proposal and finalize system plan"
+    },
+    {
+     "topic": "System Architecture & Design Principles",
+     "detail": "Apply system design principles to create architecture & workflow"
+    },
+    {
+     "topic": "Initial System Development (Prototype v1)",
+     "detail": "Develop initial prototype modules"
+    },
+    {
+     "topic": "Front-End & Back-End Integration",
+     "detail": "Continue system development (front-end/back-end integration)"
+    },
+    {
+     "topic": "Module Testing & Debugging",
+     "detail": "Conduct internal testing of developed modules"
+    },
+    {
+     "topic": "Data Gathering Methods & Implementation",
+     "detail": "Conduct survey/data gathering for research component"
+    },
+    {
+     "topic": "Data Analysis & Interpretation",
+     "detail": "Apply appropriate data analysis methods"
+    },
+    {
+     "topic": "System Refinement & Feature Enhancement",
+     "detail": "Refine and integrate system features based on user needs"
+    },
+    {
+     "topic": "System Deployment & User Orientation",
+     "detail": "Deploy system for trial in target site"
+    },
+    {
+     "topic": "Implementation Monitoring & Documentation",
+     "detail": "Monitor and document implementation outcomes"
+    },
+    {
+     "topic": "Evaluation of User Feedback & System Performance",
+     "detail": "Evaluate user feedback and system performance"
+    },
+    {
+     "topic": "Writing Chapter 5: Summary, Conclusions, Recommendations",
+     "detail": "Draft Chapter 5 (Summary, Conclusions, Recommendations)"
+    },
+    {
+     "topic": "Thesis Compilation & Manuscript Editing",
+     "detail": "Revise manuscript based on panel feedback & finalize"
+    },
+    {
+     "topic": "Preparation for Oral Defense",
+     "detail": "Compile complete manuscript (Chapters 1-5)"
+    }
+   ]
+  },
+  {
+   "code": "IAASLEC2",
+   "title": "Information Assurance and Security 2",
+   "year": "4th Year",
+   "term": "1st Semester",
+   "topics": [
+    {
+     "topic": "Introduction to Cryptography",
+     "detail": "Core cryptographic goals, classical vs. modern cryptography, symmetric and asymmetric encryption, hashing, and digital signatures"
+    },
+    {
+     "topic": "Modern Cryptography",
+     "detail": "AES fundamentals, block cipher concepts, 128-bit data blocks, AES128-192/256 key sizes, and practical cryptographic use cases"
+    },
+    {
+     "topic": "AES Operation and Key Management",
+     "detail": "Encryption/decryption rounds, SubBytes, ShiftRows, MixColumns, AddRoundKey, key expansion, modes of operation, and safe key handling"
+    },
+    {
+     "topic": "Network Security: Cisco Standard ACLs",
+     "detail": "Cisco standard ACL configuration, wildcard masks, permit/deny logic, source IPs, rule ordering, implicit deny, and troubleshooting"
+    },
+    {
+     "topic": "Network Security: Cisco Extended ACLs",
+     "detail": "Extended ACLs, wildcard masks, source/destination IPs, protocols, port filtering, rule ordering, verification, and troubleshooting"
+    },
+    {
+     "topic": "Network Security: Switchport Security",
+     "detail": "Port security concepts, static and sticky MAC learning, maximum MAC configuration, violation modes (protect, restrict, shutdown)"
+    },
+    {
+     "topic": "Penetration Testing & Ethical Hacking",
+     "detail": "Authorization, scope, rules of engagement, reconnaissance, scanning, vulnerability validation, risk rating, reporting, and remediation"
+    },
+    {
+     "topic": "Digital Forensics",
+     "detail": "Forensic readiness, evidence acquisition, preservation, hashing, write blockers, file systems, logs, timeline analysis, and chain of custody"
+    },
+    {
+     "topic": "Incident Response",
+     "detail": "Incident response lifecycle: preparation, detection, analysis, containment, eradication, recovery, communication, and tabletop exercises"
+    },
+    {
+     "topic": "Integrated Security Assessment",
+     "detail": "Integration of ACL policies, cryptography, penetration testing findings, forensic evidence, and incident response recommendations"
+    }
+   ]
+  },
+  {
+   "code": "SPISSUES",
+   "title": "Social and Professional Issues",
+   "year": "4th Year",
+   "term": "1st Semester",
+   "topics": [
+    {
+     "topic": "Introduction to Ethics in IT",
+     "detail": "Fundamental ethical concepts, moral frameworks, and their relevance and application to the Information Technology profession"
+    },
+    {
+     "topic": "Ethics in the Business World",
+     "detail": "Fostering good business ethics, corporate responsibility, ethical work environments, and ethical decision-making in IT organizations"
+    },
+    {
+     "topic": "Ethics for IT Professionals",
+     "detail": "Definition of a profession, professional relationships, accountability, ethical responsibilities, and conduct of IT practitioners"
+    },
+    {
+     "topic": "Professional Codes & IT Users",
+     "detail": "ACM/IEEE codes of ethics, professional organizations, certification vs. licensing, malpractice, and common ethical dilemmas for IT users"
+    },
+    {
+     "topic": "Computer and Internet Crime",
+     "detail": "System vulnerabilities, cyber attack types, perpetrators, prevention and detection systems, malware damages, and Philippine cybercrime laws"
+    },
+    {
+     "topic": "Privacy and Information Security",
+     "detail": "The right to privacy, key privacy and anonymity issues, privacy protection frameworks, and the Philippine Data Privacy Act of 2012"
+    },
+    {
+     "topic": "Intellectual Property",
+     "detail": "Intellectual property rights, copyright law, software piracy, patents, trade secrets, open source licensing, and fair use in computing"
+    },
+    {
+     "topic": "Software Development Ethics",
+     "detail": "Strategies to engineer quality software, reliability, safety-critical systems, and ethical responsibilities in the software lifecycle"
+    },
+    {
+     "topic": "Industry Visit & Professional Readiness",
+     "detail": "Industry field exposure, workplace culture, professional practice standards, lifelong learning, and preparing for national certifications"
+    }
+   ]
+  }
+ ],
+ "CS": [
+  {
+   "code": "FPROGLAB",
+   "title": "Computer Programming 1 (Fundamentals of Programming - Laboratory)",
+   "year": "1st Year",
+   "term": "1st Semester",
+   "topics": [
+    {
+     "topic": "Flowcharting",
+     "detail": "Flowcharting symbols, conventions, and program logic representation"
+    },
+    {
+     "topic": "Algorithm",
+     "detail": "Algorithm formulation and step-by-step problem-solving methods"
+    },
+    {
+     "topic": "Introduction to C-Language",
+     "detail": "History, objectives, classifications, features, advantages and disadvantages"
+    },
+    {
+     "topic": "Components of C-Language",
+     "detail": "Reserved words, preprocessor directives, and program organization"
+    },
+    {
+     "topic": "Creating Simple Programs",
+     "detail": "Standard structure of C programs, main function, and basic I/O"
+    },
+    {
+     "topic": "Basic Parts & Variable Declaration",
+     "detail": "Basic components of C, primitive data types, variable declarations"
+    },
+    {
+     "topic": "Local & Global Variables",
+     "detail": "Local vs. global variable scope, compound comparisons, expressions"
+    },
+    {
+     "topic": "Conditional Statements: If & If-Else",
+     "detail": "Selection control structures, If and If-Else branching constructs"
+    },
+    {
+     "topic": "Selection: Else-If & Nested Conditions",
+     "detail": "Multi-way decision structures, If-Else-If ladders, nested conditions"
+    },
+    {
+     "topic": "Looping: For & While Loops",
+     "detail": "Iteration control structures, counter-controlled and condition-controlled loops"
+    },
+    {
+     "topic": "Looping: Do-While Loop",
+     "detail": "Post-test iteration constructs, do-while syntax and application"
+    },
+    {
+     "topic": "Switch-Case & Functions",
+     "detail": "Switch-case statements, loop modifications, break/continue, functions"
+    },
+    {
+     "topic": "Arrays",
+     "detail": "One-dimensional array declaration, indexing, traversal, and storage"
+    },
+    {
+     "topic": "Strings",
+     "detail": "Character arrays, null-terminated strings, standard string handling"
+    },
+    {
+     "topic": "Introduction to Advanced C",
+     "detail": "Modular programming, function definitions, pointers preview"
+    }
+   ]
+  },
+  {
+   "code": "DSALGLEC",
+   "title": "Data Structures and Algorithm",
+   "year": "2nd Year",
+   "term": "1st Semester",
+   "topics": [
+    {
+     "topic": "Introduction to Data Structures & Algorithms",
+     "detail": "What are Data Structures? Why Study Data Structures? Introduction to Algorithms, Abstract Data Types (ADTs), Basic Programming Concepts Review (Variables, Control Flow, Functions, Classes/Objects)"
+    },
+    {
+     "topic": "Algorithm Analysis & Arrays",
+     "detail": "Introduction to Algorithm Analysis, Time Complexity, Space Complexity, Best, Worst, and Average Case Analysis, Arrays (Static vs. Dynamic), Operations on Arrays (Traversal, Insertion, Deletion, Search)"
+    },
+    {
+     "topic": "Recursion",
+     "detail": "Recursion Base Case and Recursive Step, Recursive vs. Iterative Solutions, Stack Frame and Introduction to Recursion Depth"
+    },
+    {
+     "topic": "Linked Lists",
+     "detail": "Advantages and Disadvantages of Linked Lists vs. Arrays, Linked Lists Operations (Insertion: Head, Tail, Middle; Deletion: Head, Tail, Middle; Traversal, Search), Node Structure, Singly Linked Lists, Doubly Linked Lists, Introduction to Circular Linked Lists"
+    },
+    {
+     "topic": "Stacks",
+     "detail": "Introduction to Stacks (LIFO), Stack ADT, Array-based Stack Implementation, Linked List-based Stack Implementation, Applications of Stacks (Function Calls, Expression Evaluation, Undo/Redo)"
+    },
+    {
+     "topic": "Queues & Hashing",
+     "detail": "Queue ADT, Introduction to Queues (FIFO), Array-based Queue Implementation, Linked List-based Queue Implementation, Circular Queue, Deque (Double-Ended Queue), Applications of Queues (Task Scheduling, BFS), Introduction to Hashing and Hash Functions, Collision Resolution Techniques, Load Factor, Advantages and Disadvantages of Hash Tables"
+    },
+    {
+     "topic": "Trees and Graphs",
+     "detail": "Tree Terminology and Tree Properties, Binary Trees & BSTs, Traversals & Balanced Trees, Operations on Trees, Graph Terminology and Graph Representations, Graph Traversals, Applications of Graphs"
+    },
+    {
+     "topic": "Sorting Algorithms and Searching",
+     "detail": "Introduction to Sorting, Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, Radix Sort, Comparison of Sorting Algorithms (Time & Space Complexity), Introduction to Searching, Linear Search, Binary Search (Iterative & Recursive)"
+    }
+   ]
+  },
+  {
+   "code": "OOPGRLEC",
+   "title": "Object Oriented Programming (Lecture)",
+   "year": "2nd Year",
+   "term": "1st Semester",
+   "topics": [
+    {
+     "topic": "Introduction to Object Oriented Programming",
+     "detail": "Principles of OOP, Console Input and Output, Introduction to Classes, Introduction to Built-In Objects"
+    },
+    {
+     "topic": "Variables and Data Types",
+     "detail": "Variables, Constant, Data Types, Data Input/Output, Introduction to String Operators"
+    },
+    {
+     "topic": "Introduction to Classes",
+     "detail": "Methods, Accessing Methods, Static Fields, Static Methods, This Instance, Methods and Local Variables, Method that Returns a Value, Constant"
+    },
+    {
+     "topic": "Introduction to Conditions",
+     "detail": "Ternary Operator, Boolean, Case Switches, Looping and Compounding Statement, Break Statement, Conditional Statement, Continue, Enumeration, Return"
+    },
+    {
+     "topic": "Inheritance",
+     "detail": "Characteristics of Inheritance, Overriding Derived Methods, Protected Members"
+    },
+    {
+     "topic": "Packages",
+     "detail": "Creating a Package, Using Package, Using Various Packages, Using Various Classes of the Same Package"
+    },
+    {
+     "topic": "Introduction to Built-in Classes",
+     "detail": "Introducing the Object Class, Creating an Object, Destroying an Object, Comparing Two Objects for Equality, Overriding the Object.equals() Method, Overriding the Object.toString() Method"
+    },
+    {
+     "topic": "Introduction to Exception Handling",
+     "detail": "Introducing Exception Handling, Trying an Exception, Catching an Exception, Throwing an Exception"
+    }
+   ]
+  },
+  {
+   "code": "INFOMGMTLEC",
+   "title": "Information Management (Lecture)",
+   "year": "2nd Year",
+   "term": "2nd Semester",
+   "topics": [
+    {
+     "topic": "Information Systems: An Overview",
+     "detail": "Computers and Information Systems in Daily Life, Computer Literacy and Information Literacy, The Beginning: Transaction Processing Systems, Management Information Systems, Using Information Systems and Information Technologies, Future Outlooks"
+    },
+    {
+     "topic": "Computers: The Machine Behind Computing",
+     "detail": "Defining a Computer, The History of Computer Hardware and Software, Computer Operations, Input Devices, Output Devices, Memory Devices, Classes of Computers, What is Software?, Computer Languages"
+    },
+    {
+     "topic": "Database Systems, Data Warehouses, and Data Marts",
+     "detail": "Databases, Logical Database Design, Components of a DBMS, Recent Trends in Database Design and Use, Data Warehouses, Data Marts"
+    },
+    {
+     "topic": "Personal, Legal, Ethical and Organizational Issues of Information Systems",
+     "detail": "Risk Associated with Information Technologies, Privacy Issues, Ethical Issues of Information Technologies, The Impact of Information Technology in the Workplace"
+    },
+    {
+     "topic": "Protecting Information Resources",
+     "detail": "Computer and Network Security: Basic Safeguards, Security Threat: An Overview, Guidelines for a Comprehensive Security System"
+    },
+    {
+     "topic": "Data Communication: Delivering Information Anywhere and Anytime",
+     "detail": "Defining Data Communication, Basic Components of a Data Communication System, Processing Configuration, Types of Networks, Major Networking Concepts, Wireless and Networking Concepts, Convergence of Voice, Video, and Data"
+    },
+    {
+     "topic": "The Internet, Intranets, and Extranets",
+     "detail": "The Internet and the World Wide Web, Internet Services, Navigation Tools, Search Engines, and Directories, Web Applications, Intranets, Extranets, New Trends: The Web 2.0 and 3.0 Eras"
+    },
+    {
+     "topic": "E-Commerce",
+     "detail": "Defining E-Commerce, Major Categories of E-Commerce, A B2C E-Commerce Cycle, Mobile and Voice-Based E-Commerce, E-Commerce Supporting Technologies"
+    },
+    {
+     "topic": "Global Information Systems",
+     "detail": "Why Go Global?, Global Information Systems: An Overview, Organizational Structures and Global Information Systems, Obstacles to Using Global Information Systems"
+    },
+    {
+     "topic": "Building Successful Information Systems",
+     "detail": "System Development Life Cycle: An Overview, Phase 1: Planning, Phase 2: Requirements Gathering and Analysis, Phase 3: Design, Phase 4: Implementation, Phase 5: Maintenance, New Trends in Systems Analysis and Designs"
+    },
+    {
+     "topic": "Enterprise Systems",
+     "detail": "Supply Chain Management, Customer Relationship Management, Knowledge Management, Enterprise Resource Planning"
+    },
+    {
+     "topic": "Management Support Systems",
+     "detail": "Types of Decision in an Organization, Decision Support Systems, Executive Information Systems, Group Support Systems, Geographic Information Systems, Guidelines for Designing a Management Support System"
+    },
+    {
+     "topic": "Intelligent Information Systems",
+     "detail": "What is Artificial Intelligence, Expert Systems, Case-Based Reasoning, Intelligent Agents, Fuzzy Logic, Artificial Neural Networks, Genetic Algorithms, Natural Language Processing, Integrating AI Technologies into Decision Support Systems"
+    },
+    {
+     "topic": "Emerging Trends, Technologies, and Applications",
+     "detail": "Trends in Software and Service Distribution, Virtual Reality, Radio Frequency Identification: An Overview, Biometrics: A Second Look, Trends in Networking, Nanotechnology"
+    }
+   ]
+  },
+  {
+   "code": "INFOMGMTLAB",
+   "title": "Information Management (Laboratory)",
+   "year": "2nd Year",
+   "term": "2nd Semester",
+   "topics": [
+    {
+     "topic": "Information Systems: An Overview",
+     "detail": "Computers and Information Systems in Daily Life, Computer Literacy and Information Literacy, The Beginning: Transaction Processing Systems, Management Information Systems, Using Information Systems and Information Technologies, Future Outlooks"
+    },
+    {
+     "topic": "Computers: The Machine Behind Computing",
+     "detail": "Defining a Computer, The History of Computer Hardware and Software, Computer Operations, Input Devices, Output Devices, Memory Devices, Classes of Computers, What is Software?, Computer Languages"
+    },
+    {
+     "topic": "Database Systems, Data Warehouses, and Data Marts",
+     "detail": "Databases, Logical Database Design, Components of a DBMS, Recent Trends in Database Design and Use, Data Warehouses, Data Marts"
+    },
+    {
+     "topic": "Personal, Legal, Ethical and Organizational Issues of Information Systems",
+     "detail": "Risk Associated with Information Technologies, Privacy Issues, Ethical Issues of Information Technologies, The Impact of Information Technology in the Workplace"
+    },
+    {
+     "topic": "Protecting Information Resources",
+     "detail": "Computer and Network Security: Basic Safeguards, Security Threat: An Overview, Guidelines for a Comprehensive Security System"
+    },
+    {
+     "topic": "Data Communication: Delivering Information Anywhere and Anytime",
+     "detail": "Defining Data Communication, Basic Components of a Data Communication System, Processing Configuration, Types of Networks, Major Networking Concepts, Wireless and Networking Concepts, Convergence of Voice, Video, and Data"
+    },
+    {
+     "topic": "The Internet, Intranets, and Extranets",
+     "detail": "The Internet and the World Wide Web, Internet Services, Navigation Tools, Search Engines, and Directories, Web Applications, Intranets, Extranets, New Trends: The Web 2.0 and 3.0 Eras"
+    },
+    {
+     "topic": "E-Commerce",
+     "detail": "Defining E-Commerce, Major Categories of E-Commerce, A B2C E-Commerce Cycle, Mobile and Voice-Based E-Commerce, E-Commerce Supporting Technologies"
+    },
+    {
+     "topic": "Global Information Systems",
+     "detail": "Why Go Global?, Global Information Systems: An Overview, Organizational Structures and Global Information Systems, Obstacles to Using Global Information Systems"
+    },
+    {
+     "topic": "Building Successful Information Systems",
+     "detail": "System Development Life Cycle: An Overview, Phase 1: Planning, Phase 2: Requirements Gathering and Analysis, Phase 3: Design, Phase 4: Implementation, Phase 5: Maintenance, New Trends in Systems Analysis and Designs"
+    },
+    {
+     "topic": "Enterprise Systems",
+     "detail": "Supply Chain Management, Customer Relationship Management, Knowledge Management, Enterprise Resource Planning"
+    },
+    {
+     "topic": "Management Support Systems",
+     "detail": "Types of Decision in an Organization, Decision Support Systems, Executive Information Systems, Group Support Systems, Geographic Information Systems, Guidelines for Designing a Management Support System"
+    },
+    {
+     "topic": "Intelligent Information Systems",
+     "detail": "What is Artificial Intelligence, Expert Systems, Case-Based Reasoning, Intelligent Agents, Fuzzy Logic, Artificial Neural Networks, Genetic Algorithms, Natural Language Processing, Integrating AI Technologies into Decision Support Systems"
+    },
+    {
+     "topic": "Emerging Trends, Technologies, and Applications",
+     "detail": "Trends in Software and Service Distribution, Virtual Reality, Radio Frequency Identification: An Overview, Biometrics: A Second Look, Trends in Networking, Nanotechnology"
+    }
+   ]
+  },
+  {
+   "code": "PROGLLAB",
+   "title": "Programming Languages (Laboratory)",
+   "year": "2nd Year",
+   "term": "2nd Semester",
+   "topics": [
+    {
+     "topic": "Programming Languages: An Overview",
+     "detail": "Reasons for Studying Concepts of Programming Languages, Classification of Programming Languages, Programming Environments, Programming Domains, Language Evaluation Criteria"
+    },
+    {
+     "topic": "Influences of Language Design",
+     "detail": "Program Design Methodologies, Language Categories, Language Design Trade-Offs, Implementation Methods"
+    },
+    {
+     "topic": "Basic Elements",
+     "detail": "Character set, Lexical units, Multi-character symbols, Symbolic names, Labels, Comments, Literals (Constants), General rules for the composition of source text"
+    },
+    {
+     "topic": "Syntax and Semantics Description",
+     "detail": "Differentiate syntax from semantics"
+    },
+    {
+     "topic": "Syntactical Elements",
+     "detail": "Words, Names, Space, Operators, Expression, Statements"
+    },
+    {
+     "topic": "Name Binding, Type Checking and Scopes",
+     "detail": "Concept of Binding, Types of Binding, Type Compatibility, Scopes and Lifetimes"
+    },
+    {
+     "topic": "Selection Statements",
+     "detail": "Arithmetic Expression, Assignment Statements, Compound Statements, Iterative Statements, Mixed-mode Statements, Overloading Operators"
+    },
+    {
+     "topic": "Subprograms",
+     "detail": "Fundamentals of sub-programs, Scope and lifetime of variable, Static and dynamic scope, Design issues of subprograms and operations, Local referencing environments, Parameter passing methods, Overloaded sub-programs, Generic sub-programs, Parameters as sub-program names, Design issues for functions, user defined overloaded operators"
+    }
+   ]
+  },
+  {
+   "code": "PROGLLEC",
+   "title": "Programming Languages (Lecture)",
+   "year": "2nd Year",
+   "term": "2nd Semester",
+   "topics": [
+    {
+     "topic": "Programming Languages: An Overview",
+     "detail": "Reasons for Studying Concepts of Programming Languages, Classification of Programming Languages, Programming Environments, Programming Domains, Language Evaluation Criteria"
+    },
+    {
+     "topic": "Influences of Language Design",
+     "detail": "Program Design Methodologies, Language Categories, Language Design Trade-Offs, Implementation Methods"
+    },
+    {
+     "topic": "Basic Elements",
+     "detail": "Character set, Lexical units, Multi-character symbols, Symbolic names, Labels, Comments, Literals (Constants), General rules for the composition of source text"
+    },
+    {
+     "topic": "Syntax and Semantics Description",
+     "detail": "Differentiate syntax from semantics"
+    },
+    {
+     "topic": "Syntactical Elements",
+     "detail": "Words, Names, Space, Operators, Expression, Statements"
+    },
+    {
+     "topic": "Name Binding, Type Checking and Scopes",
+     "detail": "Concept of Binding, Types of Binding, Type Compatibility, Scopes and Lifetimes"
+    },
+    {
+     "topic": "Selection Statements",
+     "detail": "Arithmetic Expression, Assignment Statements, Compound Statements, Iterative Statements, Mixed-mode Statements, Overloading Operators"
+    },
+    {
+     "topic": "Subprograms",
+     "detail": "Fundamentals of sub-programs, Scope and lifetime of variable, Static and dynamic scope, Design issues of subprograms and operations, Local referencing environments, Parameter passing methods, Overloaded sub-programs, Generic sub-programs, Parameters as sub-program names, Design issues for functions, user defined overloaded operators"
+    }
+   ]
+  },
+  {
+   "code": "ALGCMPLX",
+   "title": "Algorithm and Complexity",
+   "year": "3rd Year",
+   "term": "1st Semester",
+   "topics": [
+    {
+     "topic": "Algorithms: Efficiency, Analysis and Order",
+     "detail": "Algorithms, Complexity Analysis, The Big O notation, Intuitive Introduction to order"
+    },
+    {
+     "topic": "Divide and Conquer",
+     "detail": "Binary sort, Mergesort, The divide-and-conquer approach, Quicksort, Arithmetic with large numbers"
+    },
+    {
+     "topic": "Dynamic Programming",
+     "detail": "The Binomial Coefficient, Floyd's algorithm for shortest paths, Dynamic Programming and Optimization, Optimal Binary search trees"
+    },
+    {
+     "topic": "The Greedy Approach",
+     "detail": "Minimum Spanning Trees, Prim's Algorithm, Kruskal's algorithm, Comparing Prim's with Kruskal's algorithm, Scheduling with deadlines, Huffman's algorithm"
+    },
+    {
+     "topic": "Backtracking",
+     "detail": "The greedy approach Versus Dynamic Programming, Backtracking Technique, Using a Monte Carlo algorithm, Graph coloring"
+    },
+    {
+     "topic": "Computational Complexity: Sorting, Searching",
+     "detail": "Computational Complexity, Insertion sort and selection sort, Lower-bounds for Sorting, Lower-bounds for searching, Searching in trees"
+    },
+    {
+     "topic": "Case Study Analysis",
+     "detail": "Develop a program using an appropriate algorithm technique"
+    }
+   ]
+  },
+  {
+   "code": "APDEVLEC",
+   "title": "Application Development and Emerging Technologies (Lecture)",
+   "year": "3rd Year",
+   "term": "1st Semester",
+   "topics": [
+    {
+     "topic": "Emerging Trends, Technologies, and Applications",
+     "detail": "Trends in Software and Service Distribution, Virtual Reality, Cloud Computing: Foundation, Applications, and Models, Nanotechnology, Blockchain Technology and Cryptocurrency, Quantum Computing"
+    },
+    {
+     "topic": "Intro to Python Programming",
+     "detail": "Variables, Expressions, and Statements, Iterations, Conditionals, Functions, Strings, Files, Lists, Tuples, and Dictionaries"
+    },
+    {
+     "topic": "Object Oriented Programming in Python",
+     "detail": "Object Oriented Programming Concepts, Classes, Modules, and Exceptions"
+    },
+    {
+     "topic": "Python Numpy and Pandas",
+     "detail": "Arrays from existing data, and Array attributes, Pandas Series, DataFrames"
+    },
+    {
+     "topic": "Data Science",
+     "detail": "An Overview of Data Science, Impact of Data Science in Organizations and Competitive Advantage, Importance of Data Science to Society, Basic concepts of big data"
+    },
+    {
+     "topic": "Artificial Intelligence (AI)",
+     "detail": "AI Milestones, Applications of Artificial Intelligence, Sample AI Application"
+    },
+    {
+     "topic": "Deep Learning",
+     "detail": "What is Neural Networks?, History of Neural Networks, Activation Functions"
+    },
+    {
+     "topic": "Natural Language Processing (NLP)",
+     "detail": "NLP Technologies, 5-Heroic NLP Python Libraries, NLP Areas, Building NLP Pipeline, Application of NLP in Business"
+    },
+    {
+     "topic": "Intro to Orange App",
+     "detail": "Supervised Machine Learning using Orange Data Mining, Example Steps to Follow in Machine Learning, Creating a Supervised machine learning in Orange App, Data Mining vs ML vs Data Science, Artificial Intelligence VS Machine Learning"
+    },
+    {
+     "topic": "Ethics and Professionalism of Emerging Technologies",
+     "detail": "Technology and ethics, Digital privacy, Accountability and trust, Threats and challenges"
+    },
+    {
+     "topic": "Other Emerging Technologies",
+     "detail": "Cloud and quantum computing technology, Biotechnology, Blockchain, Nanotechnology, Additive manufacturing (3D Printing), Computer vision, Cybersecurity systems, Embedded systems, Autonomic computing (AC)"
+    }
+   ]
+  },
+  {
+   "code": "APDEVLAB",
+   "title": "Application Development and Emerging Technologies (Laboratory)",
+   "year": "3rd Year",
+   "term": "1st Semester",
+   "topics": [
+    {
+     "topic": "Emerging Trends, Technologies, and Applications",
+     "detail": "Trends in Software and Service Distribution, Virtual Reality, Cloud Computing: Foundation, Applications, and Models, Nanotechnology, Blockchain Technology and Cryptocurrency, Quantum Computing"
+    },
+    {
+     "topic": "Intro to Python Programming",
+     "detail": "Variables, Expressions, and Statements, Iterations, Conditionals, Functions, Strings, Files, Lists, Tuples, and Dictionaries"
+    },
+    {
+     "topic": "Object Oriented Programming in Python",
+     "detail": "Object Oriented Programming Concepts, Classes, Modules, and Exceptions"
+    },
+    {
+     "topic": "Python Numpy and Pandas",
+     "detail": "Arrays from existing data, and Array attributes, Pandas Series, DataFrames"
+    },
+    {
+     "topic": "Data Science",
+     "detail": "An Overview of Data Science, Impact of Data Science in Organizations and Competitive Advantage, Importance of Data Science to Society, Basic concepts of big data"
+    },
+    {
+     "topic": "Artificial Intelligence (AI)",
+     "detail": "AI Milestones, Applications of Artificial Intelligence, Sample AI Application"
+    },
+    {
+     "topic": "Deep Learning",
+     "detail": "What is Neural Networks?, History of Neural Networks, Activation Functions"
+    },
+    {
+     "topic": "Natural Language Processing (NLP)",
+     "detail": "NLP Technologies, 5-Heroic NLP Python Libraries, NLP Areas, Building NLP Pipeline, Application of NLP in Business"
+    },
+    {
+     "topic": "Intro to Orange App",
+     "detail": "Supervised Machine Learning using Orange Data Mining, Example Steps to Follow in Machine Learning, Creating a Supervised machine learning in Orange App, Data Mining vs ML vs Data Science, Artificial Intelligence VS Machine Learning"
+    },
+    {
+     "topic": "Ethics and Professionalism of Emerging Technologies",
+     "detail": "Technology and ethics, Digital privacy, Accountability and trust, Threats and challenges"
+    },
+    {
+     "topic": "Other Emerging Technologies",
+     "detail": "Cloud and quantum computing technology, Biotechnology, Blockchain, Nanotechnology, Additive manufacturing (3D Printing), Computer vision, Cybersecurity systems, Embedded systems, Autonomic computing (AC)"
+    }
+   ]
+  },
+  {
+   "code": "HUCOMINT",
+   "title": "Human Computer Interaction",
+   "year": "3rd Year",
+   "term": "1st Semester",
+   "topics": [
+    {
+     "topic": "Introduction to Human Computer Interaction",
+     "detail": "Define Human Computer Interaction, History and Evolution of HCI, HCI Characteristics, Components of HCI, Understanding of Interaction vs Interface"
+    },
+    {
+     "topic": "Interactive System Design",
+     "detail": "Usability Engineering Life Cycle (UELC), User-Centered Design (UCD), Define the usability, Iterative Process"
+    },
+    {
+     "topic": "Graphical User Interfaces (GUI) and Aesthetics",
+     "detail": "Introduction to GUI, Principles of GUI, Design Hierarchy, Color Theory and Psychology, Aesthetics, Typography and Readability, Layout and Visual Considerations"
+    },
+    {
+     "topic": "Prototyping for Interactive Design",
+     "detail": "Prototyping and its types, Tools to Software platform, Usability Test Feedback into Design Iterations, Wizard of Oz Techniques, Design simple prototypes"
+    },
+    {
+     "topic": "Utilize Model-Based Design",
+     "detail": "Model-Based Design and its types, Components of Model-Based Design, Multiple Stage of Development Process in Model-Based Design, Iteration and Optimization"
+    },
+    {
+     "topic": "Fundamental Laws for Interactive Design",
+     "detail": "Fitts' Law and Formula, Practical Applications in User Design Experience, Hick's Law, Implementation of Hick's Law in Design, Gestalt Principles"
+    },
+    {
+     "topic": "Individual Models of Human Factors",
+     "detail": "Human Factors and its aspects, Perception, Cognition and Motor Skills Models, Human Error in System Design, Gulf of Execution and Evaluation"
+    },
+    {
+     "topic": "Principles and Guidelines of User Interfaces Design",
+     "detail": "HCI Principles, Heuristic Evaluation techniques, Detailed Examination of Shneiderman's Eight Golden Rules, Application of Norman's Seven Principles of Interaction, Nielsen's Ten Usability Heuristics"
+    }
+   ]
+  },
+  {
+   "code": "ARCHIORG",
+   "title": "Architecture and Organization",
+   "year": "3rd Year",
+   "term": "1st Semester",
+   "topics": [
+    {
+     "topic": "Basic Concepts and Computer Evolution",
+     "detail": "Organization and Architecture, Structure and Function, A Brief History of Computers, The Evolution of Intel x86 Architecture, Embedded Systems, ARM architecture, Cloud Computing"
+    },
+    {
+     "topic": "A Top-Level View of Computer Function and Interconnection",
+     "detail": "Computer Components, Computer Function, Interconnection Structure, Bus Interconnection, Point-to-Point Interconnect, PCI Express"
+    },
+    {
+     "topic": "Cache Memory",
+     "detail": "Cache Memory Principles, Elements of Cache Design, Computer Memory Organization, Pentium 4 Cache System Overview"
+    },
+    {
+     "topic": "Internal Memory",
+     "detail": "Semiconductor Main Memory, Error Correction, DDR DRAM, Flash Memory, Newer Nonvolatile Solid-State Memory Technologies"
+    },
+    {
+     "topic": "External Memory",
+     "detail": "Magnetic Disk, Solid State Drives, Magnetic Tape, RAID, Optical Memory"
+    },
+    {
+     "topic": "Input/Output",
+     "detail": "External Devices, Programmed I/O, Interrupt-Driven I/O, Direct Memory Access, Direct Cache Access, IBM zEnterprise EC12 I/O Structure, I/O Channels and Processors, External Interconnection Standards"
+    },
+    {
+     "topic": "Operating System Support",
+     "detail": "Operating System Overview, Scheduling, Memory Management, Intel x86 Memory Management, Arm Memory Management"
+    },
+    {
+     "topic": "Computer Arithmetic and Digital Logic",
+     "detail": "Data Numbers Binary Arithmetic, Signed Integers, Introduction to Multiplication and Division, Floating-Point Numbers and Arithmetic, Computer Logic"
+    },
+    {
+     "topic": "Instruction Set Architectures",
+     "detail": "Introduction to Stored Program Machine, The Components of an ISA, ARM Instruction Set Architecture, ARM Assembly Language, ARM Data-processing Instructions"
+    },
+    {
+     "topic": "Architecture and Organization",
+     "detail": "ARM Addressing Modes, Subroutine Call and Return, ARM's Flow Control Instructions, ARM Code, Subroutines and the Stack, Data Size and Arrangement"
+    },
+    {
+     "topic": "Computer Architecture and Multimedia",
+     "detail": "Applications of High-Performance Computing, Computer Graphics, Multimedia Influences - Reinventing the CISC, Introduction to SIMD Processing, Streaming Extensions and the Development of SIMD Technology"
+    },
+    {
+     "topic": "Organization and Efficiency",
+     "detail": "Progress and Computer Technology, The Performance of a Computer, Computer Metrics, Benchmarks, Amdahl's Law"
+    }
+   ]
+  },
+  {
+   "code": "OPERSYST",
+   "title": "Operating Systems (Lecture)",
+   "year": "3rd Year",
+   "term": "1st Semester",
+   "topics": [
+    {
+     "topic": "Introducing Operating System Overview",
+     "detail": "Functions of an OS, Components of an OS, Historical Evolution of OS, Types of OS"
+    },
+    {
+     "topic": "Computer System Structure Overview",
+     "detail": "Computer Boot-Up, Traps and Interrupts, I/O Structure, Storage Structure, Hardware Protection"
+    },
+    {
+     "topic": "Memory Management: Early Systems",
+     "detail": "Single-User Contiguous Scheme, Dynamic Partitions, Best Fit vs. First Fit Allocation"
+    },
+    {
+     "topic": "Deallocation & Relocatable Dynamic Partitions",
+     "detail": "Three Cases of deallocation, Relocatable Dynamic Partitions, Nested Classes"
+    },
+    {
+     "topic": "Review of Different Operating Systems",
+     "detail": "Familiarization with Windows, Linux, and macOS environments, basic commands and architecture"
+    },
+    {
+     "topic": "Process Management & Virtual Memory",
+     "detail": "Process States, CPU Scheduling Algorithms, Process Creation and Termination, Paged Memory Allocation, Demand Paging"
+    },
+    {
+     "topic": "Segmented Memory Allocation & Deadlocks",
+     "detail": "Segmented Memory Allocation, Conditions for Deadlock, Banker's Algorithm, Resource Request Algorithm, Deadlock Recovery"
+    },
+    {
+     "topic": "Concurrent Processes & Multiprocessing",
+     "detail": "Parallel Processing, Evolution of Multiprocessors, Multicore Processors, Process Cooperation, Threads and Concurrent Programming"
+    },
+    {
+     "topic": "Device Management & RAID",
+     "detail": "Sequential Access Storage Media, Direct Access Storage Devices, DASD Access Times, Components of I/O Subsystem, RAID"
+    },
+    {
+     "topic": "File Management, Network, and Security",
+     "detail": "Levels in File Management System, Physical Storage Allocation, Data Compression, Network Operating Systems, OS Role in Security"
+    }
+   ]
+  },
+  {
+   "code": "CSTHESI1",
+   "title": "Thesis 1",
+   "year": "3rd Year",
+   "term": "2nd Semester",
+   "topics": [
+    {
+     "topic": "Fundamental Concepts of Research",
+     "detail": "Thesis Outline and Format, Definition of Research, Importance of Research, Types of Research, Research Process, Functions of Research"
+    },
+    {
+     "topic": "Writing the Research Proposal",
+     "detail": "Components of the Proposal, Pre-writing Activities, Writing Requirements, Language Approaches, Gantt Chart Schedule, Research Budget"
+    },
+    {
+     "topic": "Formulation of Research Problem and Objectives",
+     "detail": "Topic Selection, Defining the Problem, Objectives, Theoretical & Conceptual Framework, Hypotheses, Scope, Limitations, Definition of Terms"
+    },
+    {
+     "topic": "Review of Related Literature and Studies",
+     "detail": "Importance and Functions of Literature Review, Review Requirements, Guidelines on Systematic Literature Review, Presenting Reviewed Studies"
+    },
+    {
+     "topic": "Designing the Research Design and Methodology",
+     "detail": "Research Design Types, Design Selection Guidelines, Sampling Designs, Questionnaire Characteristics, Data Collection and Analysis Methods"
+    },
+    {
+     "topic": "Actual Data Gathering",
+     "detail": "Ethical Issues in Conduct of Research, Common Difficulties in Research Conduct, Administering Data Collection Across Different Settings"
+    },
+    {
+     "topic": "Elimination Process of Research Proposals",
+     "detail": "Selection of Top 3 Research Proposals, Title Proposal Evaluation, Presentation and Title Approval"
+    },
+    {
+     "topic": "Analysis and Presentation of Data",
+     "detail": "Data Processing, Data Tabulation, Data Analysis and Interpretation, Presenting Research Results"
+    },
+    {
+     "topic": "Crafting the Summary, Conclusions and Recommendations",
+     "detail": "Formulating Research Summary, Drawing Empirical Conclusions, Crafting Strategic and Practical Recommendations"
+    },
+    {
+     "topic": "Final Preparation: Chapter One",
+     "detail": "Formulation of Introduction and Background of the Study, Research Problem Rationale, Structuring Chapter One"
+    },
+    {
+     "topic": "Final Preparation: Chapter Two",
+     "detail": "Review and Synthesis of Related Literature and Studies, Conceptual Synthesis, Structuring Chapter Two"
+    },
+    {
+     "topic": "Final Preparation: Chapter Three",
+     "detail": "Research Methodology Formulation, Operational Framework, Data Instruments, Finalizing Chapter Three"
+    }
+   ]
+  },
+  {
+   "code": "SOFTENG2",
+   "title": "Software Engineering 2 (Lecture)",
+   "year": "3rd Year",
+   "term": "2nd Semester",
+   "topics": [
+    {
+     "topic": "Software Design",
+     "detail": "Architectural Design, Object-Oriented Design, User-Interface Design"
+    },
+    {
+     "topic": "Software Verification and Validation",
+     "detail": "Verification and Validation Concepts, Software Testing Techniques, Prototype Checking"
+    },
+    {
+     "topic": "Software Management",
+     "detail": "Managing People, Software Cost Estimation, Quality Management"
+    },
+    {
+     "topic": "Software Evolution",
+     "detail": "Software Change Dynamics, Maintenance Issues, Prototype Presentation"
+    },
+    {
+     "topic": "System Development",
+     "detail": "Prototype Implementation, System Architecture, Test Scripting, Demonstration of Final Project"
+    }
+   ]
+  },
+  {
+   "code": "AUTOMATA",
+   "title": "Automata Theory and Formal Language",
+   "year": "4th Year",
+   "term": "1st Semester",
+   "topics": [
+    {
+     "topic": "Automata: The Methods and the Madness",
+     "detail": "Automata: The Methods and the Madness, Introduction to Finite Automata, Structural Representation, Automata and Complexity"
+    },
+    {
+     "topic": "Introduction to Automata and Language Theory",
+     "detail": "Strings, Alphabets and Languages, Graphs and Trees, Set Notation, Relations"
+    },
+    {
+     "topic": "Finite Automata",
+     "detail": "An Informal Picture of Finite Automata, Deterministic Finite Automata, Nondeterministic Finite Automata, Finite Automata with Epsilon-Transition"
+    },
+    {
+     "topic": "Context-Free Grammars and Languages & Pushdown Automata",
+     "detail": "Context-Free Grammar, Informal Examples, Definition and Applications of CFG, XML and Document-Type Definitions, Pushdown Automata, Languages of PDA, Equivalence of PDAs and CFG"
+    },
+    {
+     "topic": "Introduction to Turing Machines",
+     "detail": "Problems that Computers Cannot Solve, The Turing Machine, Transition Diagram for Turing Machines, Turing Machines and Computers"
+    }
+   ]
+  },
+  {
+   "code": "INFOASEC",
+   "title": "Information Assurance and Security",
+   "year": "4th Year",
+   "term": "1st Semester",
+   "topics": [
+    {
+     "topic": "Introduction to Information Security",
+     "detail": "History of IS, Characteristics of Information, Components of an Information System"
+    },
+    {
+     "topic": "Balancing Information Security and Access",
+     "detail": "Security SDLC, Compromises to Intellectual Property, Deviations in Quality of Service, Forces of Nature, Human Error, Information Extortion"
+    },
+    {
+     "topic": "Threats to Information Systems",
+     "detail": "Malicious Code, Backdoors, Password Crack, DOS/DDOS, Spam, Man-in-the-Middle Attacks"
+    },
+    {
+     "topic": "Attacks and Legal & Professional Issues",
+     "detail": "Intellectual Property Law, E-Commerce Law, Data Privacy Act, Cyber Crime Prevention Act, Deterring Unethical and Illegal Behavior"
+    },
+    {
+     "topic": "Risk Management",
+     "detail": "Risk Identification, Risk Assessment, Quantitative vs. Qualitative Control, Risk Control Strategies"
+    },
+    {
+     "topic": "Planning for Security",
+     "detail": "Planning and Governance, IS Policy Standards and Practices, IS Blueprint, Security Education, Training, and Awareness Program"
+    },
+    {
+     "topic": "Security Technology",
+     "detail": "Firewalls and VPNs, Intrusion Detection and Prevention Systems"
+    },
+    {
+     "topic": "Cryptography",
+     "detail": "Foundations of Cryptography, Cipher Methods, Cryptographic Algorithms, Cryptographic Tools"
+    },
+    {
+     "topic": "Physical Security",
+     "detail": "Physical Access Controls, Fire Security and Safety, Failure of Supporting Utilities, Interception of Data, Mobile and Portable Systems"
+    },
+    {
+     "topic": "Information Security Implementation",
+     "detail": "IS Maintenance, ISS Certification and Accreditation, Technical and Non-Technical IS Project Management, Security and Personnel, Positioning and Staffing, Credentials of IS Professionals"
+    },
+    {
+     "topic": "Security Maintenance Models",
+     "detail": "Employment Practices and Policies, Management Security Maintenance Models"
+    },
+    {
+     "topic": "Digital Forensics",
+     "detail": "Digital Forensics Foundations, Digital Evidence, Investigation Procedures, Incident Response and Analysis"
+    }
+   ]
+  },
+  {
+   "code": "SSUPPRAC",
+   "title": "Social and Professional Issues",
+   "year": "4th Year",
+   "term": "1st Semester",
+   "topics": [
+    {
+     "topic": "Introduction to Social and Professional Awareness",
+     "detail": "Importance of Social and Professional Awareness in Computing, Role of Computing in Modern Society, Ethical and Legal Considerations"
+    },
+    {
+     "topic": "Ethics in Computing",
+     "detail": "Ethical Theories (Utilitarianism, Deontology, Virtue Ethics), Ethical Dilemmas in Computing, Professional Codes of Ethics (ACM, IEEE), Case Studies on Ethical Issues"
+    },
+    {
+     "topic": "Legal and Regulatory Frameworks",
+     "detail": "Cyber Laws in the Philippines and Globally, Intellectual Property and Copyright in Software Development, Liability in Software and System Failures, Data Protection Regulations (GDPR)"
+    },
+    {
+     "topic": "Privacy and Data Security",
+     "detail": "Importance of Data Privacy and Security, Social Media and Privacy Impact, Ethical Implications of Data Breaches, Security Audits and Certification"
+    },
+    {
+     "topic": "Professionalism in Computing",
+     "detail": "Professionalism in IT and Computing Professions, Certification and Licensing, Communication Skills and Teamwork, Professional Responsibilities"
+    },
+    {
+     "topic": "Social Impact of Computing",
+     "detail": "Digital Divide: Access to Technology and Internet, Social Media Influence on Society, Environmental Impact (E-Waste, Energy Consumption), Impact of Automation and AI on Employment"
+    },
+    {
+     "topic": "Intellectual Property and Software Licensing",
+     "detail": "Open Source vs. Proprietary Software, Software Licensing Models (GPL, MIT, Creative Commons), Piracy and Its Effects on the Software Industry"
+    },
+    {
+     "topic": "Cultural and Global Issues in Computing",
+     "detail": "Cultural Diversity and Globalization in Computing, Cross-border Data Flows and Localization, Cultural Sensitivity in Software Design, Outsourcing and Offshoring"
+    },
+    {
+     "topic": "Workplace Issues in Computing",
+     "detail": "Work-Life Balance in the IT Industry, Gender and Diversity in Computing Fields, Cyberbullying and Workplace Harassment, Remote Work Challenges"
+    },
+    {
+     "topic": "Emerging Trends and Future Considerations",
+     "detail": "The Role of AI and Machine Learning in Society, Ethical Considerations for Emerging Technologies (Blockchain, Quantum Computing), Future Ethical Challenges, Professional Responsibility"
+    },
+    {
+     "topic": "Case Studies and Real-World Examples",
+     "detail": "Ethical Breaches and Consequences, Successful Implementation of Professional Ethics, Lessons Learned from High-Profile Cybersecurity Breaches"
+    }
+   ]
+  }
+ ]
+}

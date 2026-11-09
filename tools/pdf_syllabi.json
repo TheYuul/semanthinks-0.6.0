@@ -1,0 +1,320 @@
+{
+ "intro-computing": {
+  "sources": [
+   {
+    "program": "CS",
+    "code": "NTROCOMP",
+    "title": "INTRODUCTION TO COMPUTING",
+    "file": "CS/1st year/1ST SEM/NTROCOMP/BSCS-OBTL Plan in NTROCOMP_ver6.0.pdf"
+   }
+  ],
+  "topics": [
+   [
+    "Introduction to Computing",
+    "Definition of Computing; The Role of Computing in Modern Society; Overview of Computing Programs; Appreciation of Computing in Different Fields"
+   ],
+   [
+    "Evolution of Computing",
+    "History and Evolution of Computing; Number System"
+   ],
+   [
+    "Key Components of a Computer System",
+    "Systems and Operating System; Components of Internal Hardware; Components of External Hardware; Software Definitions; Application Software; System Software; Programming Language"
+   ],
+   [
+    "Algorithms and Problem Solving",
+    "Introduction to Algorithms; Problem0solving Strategies; Algorithm Design and Analysis; Flowcharting"
+   ],
+   [
+    "Computer Security",
+    "Ethical Considerations in Computing; Cybersecurity Principles and Practices; Protecting Personal and Organizational Data"
+   ],
+   [
+    "Networks, Internet and Internet Protocols",
+    "Basic Computer Networks; Internet Protocols and Services; Internet Security and Privacy; The World Wide Web"
+   ],
+   [
+    "Software Development and Project Management",
+    "System Development Life Cycle: An Overview; Introduction to Software Development Methodologies: Agile, Waterfall; Version Control Systems: Git, GitHub; Collaborative Software Development; Working in Teams; Software Testing and Quality Assurance; Project Management Tools and Techniques"
+   ],
+   [
+    "Emerging Trends in Computing",
+    "Artificial Intelligence and Machine Learning; 5G and Next- Generation Networks; Robotic Process Automation; Internet of Things (IoT); Blockchain Technology; Cloud Computing; Quantum Computing; Augmented Reality (AR) and Virtual Reality (AR); Big Data and Data Analytics"
+   ],
+   [
+    "Introduction to E- Commerce",
+    "Types of E-Commerce; E-Commerce Technology; Security in E- Commerce"
+   ],
+   [
+    "Professional and Ethical Issues in Computing",
+    "Professionalism in IT and Computing; Intellectual Property and Copyright in Software; Data Privacy and Protection Laws; Ethical Decision- Making in Computing; The Social Impact of Computing Technologies"
+   ],
+   [
+    "Practical Applications and Case Studies",
+    "Case Studies in Software Development; Real-World Applications of AI and Machine Learning; Networking and Cybersecurity Scenarios; Practical Database Management Examples; Industry Insights and Trends"
+   ],
+   [
+    "Productivity Tools",
+    "Definition and Importance of Productivity Tools; Office Suites; Project Management Tools; Communication and Collaboration Tools; File Storage and Sharing Tools; Learning and Skill Development Tools"
+   ]
+  ]
+ },
+ "digital-logic": {
+  "sources": [
+   {
+    "program": "CS",
+    "code": "",
+    "title": "",
+    "file": "CS/2nd year/1ST SEM/DIGDELAB_LEC/BSCS-DIGDELEC_ver.5.0.pdf"
+   }
+  ],
+  "topics": [
+   [
+    "Digital Tester",
+    "Soldering Iron Side Cutter Plier,; Long Nose Plier Logic Probe Tester"
+   ],
+   [
+    "Basic Electronics",
+    "Resistor; Capacitor; Transistor; Transformer; Fuse Switch"
+   ],
+   [
+    "Power Supply",
+    "Full Bridge; Half Bridge; Regulated Switch Power Supply"
+   ],
+   [
+    "Breadboard for project prototyping, OR gate and AND gate using single pole single throw switch",
+    ""
+   ],
+   [
+    "Basic Logic Gates",
+    "74LS00; 74LS02; 74LS04; 74LS08; 74LS32 74LS86"
+   ],
+   [
+    "Combinatorial Logic",
+    ""
+   ],
+   [
+    "Latches and Flip-Flops",
+    ""
+   ],
+   [
+    "Counters",
+    ""
+   ]
+  ]
+ },
+ "intelligent-systems": {
+  "sources": [
+   {
+    "program": "CS",
+    "code": "INTELSYS",
+    "title": "CS Elective 2: Intelligent System",
+    "file": "CS/3rd year/1ST SEM/INTELSYS/BSCS INTELSYS_ver5.2.pdf"
+   }
+  ],
+  "topics": [
+   [
+    "Introduction to Intelligent Systems",
+    ""
+   ],
+   [
+    "Foundations of AI",
+    ""
+   ],
+   [
+    "Natural Language Processing (NLP)",
+    ""
+   ],
+   [
+    "Fuzzy Logic Systems Robotics and Perception",
+    ""
+   ],
+   [
+    "Intelligent Agents",
+    ""
+   ],
+   [
+    "Planning and Scheduling",
+    ""
+   ],
+   [
+    "Hybrid Intelligent Systems",
+    ""
+   ]
+  ]
+ },
+ "data-science": {
+  "sources": [
+   {
+    "program": "CS",
+    "code": "GEELECDS",
+    "title": "PRACTICAL DATA SCIENCE",
+    "file": "CS/3rd year/2ND SEM/GEELECDS/BSCS GEELECDS_ver6.0.pdf"
+   },
+   {
+    "program": "IT",
+    "code": "GEELECDS",
+    "title": "PRACTICAL DATA SCIENCE",
+    "file": "IT/3rd year/1ST SEM/BSIT_GEELECDS_ver5.0.pdf"
+   }
+  ],
+  "topics": [
+   [
+    "Probability and Statistics for Data Science",
+    ""
+   ],
+   [
+    "Supervised Learning  Regression Models  Classification Models",
+    ""
+   ],
+   [
+    "Model Evaluation and Tuning Feature Engineering and Selection Unsupervised Learning  Clustering  Dimensionality Reduction",
+    ""
+   ],
+   [
+    "Feature Engineering and Selection",
+    ""
+   ],
+   [
+    "Natural Language Processing Deep Learning Basics",
+    ""
+   ],
+   [
+    "Case Study",
+    ""
+   ],
+   [
+    "Introduction to Data Science Python for Data Science",
+    ""
+   ],
+   [
+    "Data Collection & Preprocessing Exploratory Data Analysis (EDA) Data Visualization Techniques",
+    ""
+   ],
+   [
+    "Probability & Statistics for Data Science",
+    ""
+   ],
+   [
+    "Supervised Learning – Regression Models",
+    ""
+   ],
+   [
+    "Supervised Learning – Classification Models",
+    ""
+   ],
+   [
+    "Model Evaluation & Tuning Feature Engineering & Selection Unsupervised Learning - Clustering",
+    ""
+   ],
+   [
+    "Unsupervised Learning – Dimensionality Reduction",
+    ""
+   ],
+   [
+    "Feature Engineering & Selection Time Series Analysis",
+    ""
+   ],
+   [
+    "Big Data & Cloud Computing",
+    ""
+   ]
+  ]
+ },
+ "systems-integration": {
+  "sources": [
+   {
+    "program": "IT",
+    "code": "SYSARCH1LEC",
+    "title": "",
+    "file": "IT/3rd year/1ST SEM/SYSARCH 1 - Course Syllabus_UPDATED AS OF AUGUST 5- 2026.pdf"
+   }
+  ],
+  "topics": [
+   [
+    "Fundamentals of System Architecture: Client-Server, 3- Tier Architecture, & Monolithic vs. Distributed Systems",
+    ""
+   ],
+   [
+    "System Requirements for Integration: Functional vs. Non- Functional Requirements (Scalability, Availability, & Security)",
+    ""
+   ],
+   [
+    "System Blueprinting & UML Modeling: Designing System Components & Deployment Diagrams",
+    ""
+   ],
+   [
+    "Data Integration & Database Synchronization: Database Connectivity, Data Import/Export (CSV/JSON), & Basic ETL",
+    ""
+   ],
+   [
+    "Introduction to Web Services & APIs: RESTful APIs, HTTP Methods (GET, POST, PUT, DELETE), & JSON Format",
+    ""
+   ],
+   [
+    "Asynchronous Communication & Message Queues: Request- Response vs. Event-Driven Systems (Intro to Message Queues & Webhooks)",
+    ""
+   ],
+   [
+    "Web Services Integration & Middleware: Role of Middleware, API Gateways, & Rate Limiting",
+    ""
+   ],
+   [
+    "System Integration Security",
+    "API Security, Authentication vs.; Authorization, OAuth2 Login, & JWT Tokens"
+   ],
+   [
+    "System Performance & Scalability: Load Balancing Basics, Caching Concepts (Redis), and System Reliability",
+    ""
+   ],
+   [
+    "System Integration Documentation: Writing System Integration Specs & Diagramming Integration Flows",
+    ""
+   ],
+   [
+    "System Integration Project Presentation",
+    ""
+   ]
+  ]
+ },
+ "platform": {
+  "sources": [
+   {
+    "program": "IT",
+    "code": "PTECHLEC",
+    "title": "Platform Technologies Lecture",
+    "file": "IT/2nd year/1ST SEM/_SYLLABUS_02.1_20-_20BSIT2023_20PTECHLEC.docx"
+   }
+  ],
+  "topics": [
+   [
+    "The Operating System",
+    "History of Operating System; Types of Operating System; The Processor and RAM"
+   ],
+   [
+    "Binary Operation",
+    "Addition & Multiplicati on of Binary Numbers"
+   ],
+   [
+    "Scheduling Algorithms",
+    "Non Pre-emptiv e; First Come First Serve; Short Job First; Priority; Pre-Emptiv e; Shortest Remaining; Time First; Round Robin; Multi-Level Queue; Multi-Level Feedback; Queue"
+   ],
+   [
+    "Basic of Assembly Language",
+    "Variables; Operations; Control Flows"
+   ],
+   [
+    "Computer Organization Enterprise Software",
+    "Middlewar e Framework s; Enterprise and manageme nt software; Configurati on, definition and manageme nt"
+   ],
+   [
+    "Firmware",
+    ""
+   ],
+   [
+    "Hardware",
+    "Digital logic & digital systems; Benchmar king; Serial vs. parallel"
+   ]
+  ]
+ }
+}

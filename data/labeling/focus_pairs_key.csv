@@ -1,0 +1,1777 @@
+pair_id,id,focus,focus_subject,kind,suggested,heldout
+yt_00025~0,yt_00025,programming,programming,pos,yes,0
+yt_00025~1,yt_00025,mag-code,programming,neg_same,no,0
+yt_00065~2,yt_00065,Cache Memory,architecture,neg_same,no,0
+yt_00065~3,yt_00065,Attacks and Legal & Professional Issues,security,neg_other,no,0
+yt_00078~4,yt_00078,business intelligence,business-analytics,neg_other,no,0
+yt_00078~5,yt_00078,Problem Solving and Algorithms,intro-computing,neg_same,no,0
+yt_00096~6,yt_00096,Requirements Engineering,software-engineering,neg_same,no,0
+yt_00096~7,yt_00096,variables,programming,neg_other,no,0
+yt_00113~8,yt_00113,switching,networks,neg_other,no,1
+yt_00113~9,yt_00113,Key Components of a Computer System,intro-computing,neg_same,no,0
+yt_00119~10,yt_00119,programming,programming,pos,yes,0
+yt_00119~11,yt_00119,Objects & Classes,programming,neg_same,no,0
+yt_00131~12,yt_00131,coding,programming,pos,yes,0
+yt_00131~13,yt_00131,Creating Simple Programs,programming,neg_same,no,0
+yt_00156~14,yt_00156,software engineering,software-engineering,pos,yes,0
+yt_00156~15,yt_00156,software development,software-engineering,neg_same,no,0
+yt_00167~16,yt_00167,JavaScript Basics,web,neg_same,no,1
+yt_00167~17,yt_00167,java,oop,neg_other,no,1
+yt_00218~18,yt_00218,Digital Records and Archives Management,info-management,neg_other,no,0
+yt_00218~19,yt_00218,Strings,programming,neg_same,no,0
+yt_00245~20,yt_00245,javascript,web,pos,yes,1
+yt_00245~21,yt_00245,"Emerging Trends, Technologies, and Applications",emerging-tech,neg_other,no,0
+yt_00252~22,yt_00252,html,web,neg_same,no,0
+yt_00252~23,yt_00252,javascript,web,pos,yes,1
+yt_00311~24,yt_00311,Advanced JavaScript,web,neg_same,no,0
+yt_00311~25,yt_00311,Graph Problems and Applications,discrete,neg_other,no,0
+yt_00313~26,yt_00313,react native,mobile,pos,yes,0
+yt_00313~27,yt_00313,Testing and Publishing Apps,mobile,neg_same,no,0
+yt_00321~28,yt_00321,Introduction to Web Development,web,neg_same,no,1
+yt_00321~29,yt_00321,boolean algebra,discrete,neg_other,no,0
+yt_00337~30,yt_00337,Looping: For & While Loops,programming,neg_same,no,0
+yt_00337~31,yt_00337,"Database Systems, Data Warehouses, and Data Marts",info-management,neg_other,no,0
+yt_00366~32,yt_00366,java,programming,pos,yes,1
+yt_00366~33,yt_00366,Supervised Learning – Regression Models,data-science,neg_other,no,0
+yt_00369~34,yt_00369,Architecture and Organization,architecture,neg_other,no,1
+yt_00369~35,yt_00369,object oriented programming,oop,pos,yes,0
+yt_00398~36,yt_00398,Conditional Statements: If & If-Else,programming,neg_same,no,1
+yt_00398~37,yt_00398,portfolio,internship,neg_other,no,0
+yt_00412~38,yt_00412,Microprocessor Architecture,robotics,neg_other,no,0
+yt_00412~39,yt_00412,Introduction to Conditions,oop,neg_same,no,0
+yt_00419~40,yt_00419,sorting,data-structures,neg_same,no,0
+yt_00419~41,yt_00419,data structures,data-structures,pos,yes,1
+yt_00420~42,yt_00420,Stacks,data-structures,neg_same,no,0
+yt_00420~43,yt_00420,algorithm complexity,complexity,neg_other,no,0
+yt_00421~44,yt_00421,data structures,data-structures,pos,yes,1
+yt_00421~45,yt_00421,functions,programming,neg_other,no,0
+yt_00430~46,yt_00430,graph theory,discrete,neg_other,no,0
+yt_00430~47,yt_00430,tree,data-structures,neg_same,no,0
+yt_00440~48,yt_00440,data structures,data-structures,pos,yes,1
+yt_00440~49,yt_00440,Introduction to Systems Administration,systems-admin,neg_other,no,0
+yt_00448~50,yt_00448,cluster computing,distributed,neg_other,no,0
+yt_00448~51,yt_00448,Stacks,data-structures,neg_same,no,0
+yt_00450~52,yt_00450,data structures,data-structures,pos,yes,1
+yt_00450~53,yt_00450,linked list,data-structures,neg_same,no,0
+yt_00451~54,yt_00451,data structures,data-structures,pos,yes,1
+yt_00451~55,yt_00451,Containers and Docker,platform,neg_other,no,0
+yt_00454~56,yt_00454,Network Security: Switchport Security,security,neg_other,no,0
+yt_00454~57,yt_00454,tree,data-structures,neg_same,no,0
+yt_00455~58,yt_00455,linked list,data-structures,neg_same,no,0
+yt_00455~59,yt_00455,Operators: Arithmetic & Relational,programming,neg_other,no,1
+yt_00459~60,yt_00459,data structures,data-structures,pos,yes,1
+yt_00459~61,yt_00459,Stacks,data-structures,neg_same,no,0
+yt_00461~62,yt_00461,data structures,data-structures,pos,yes,1
+yt_00461~63,yt_00461,proof,discrete,neg_other,no,1
+yt_00464~64,yt_00464,data structures,data-structures,pos,yes,1
+yt_00464~65,yt_00464,Operators: Arithmetic & Relational,data-structures,neg_same,no,1
+yt_00469~66,yt_00469,Deallocation & Relocatable Dynamic Partitions,operating-systems,neg_same,no,0
+yt_00469~67,yt_00469,linux,operating-systems,pos,yes,0
+yt_00474~68,yt_00474,Memory Management: Early Systems,operating-systems,neg_same,no,0
+yt_00474~69,yt_00474,system design,systems-integration,neg_other,no,1
+yt_00475~70,yt_00475,"Units, Measurement and Vectors",physics,neg_other,no,1
+yt_00475~71,yt_00475,operating systems,operating-systems,pos,yes,0
+yt_00478~72,yt_00478,Device Management & RAID,operating-systems,neg_same,no,0
+yt_00478~73,yt_00478,history of computing,intro-computing,neg_other,no,1
+yt_00480~74,yt_00480,Deallocation & Relocatable Dynamic Partitions,operating-systems,neg_same,no,0
+yt_00480~75,yt_00480,operating systems,operating-systems,pos,yes,0
+yt_00484~76,yt_00484,system architecture,systems-integration,neg_other,no,0
+yt_00484~77,yt_00484,Deallocation & Relocatable Dynamic Partitions,operating-systems,neg_same,no,0
+yt_00492~78,yt_00492,cpu,architecture,neg_other,no,0
+yt_00492~79,yt_00492,kernel,operating-systems,neg_same,no,1
+yt_00495~80,yt_00495,Introduction to Turing Machines,automata,neg_other,no,0
+yt_00495~81,yt_00495,Review of Different Operating Systems,operating-systems,neg_same,no,0
+yt_00496~82,yt_00496,Software and Operating Systems,intro-computing,neg_other,no,0
+yt_00496~83,yt_00496,"File Management, Network, and Security",operating-systems,neg_same,no,0
+yt_00500~84,yt_00500,visualization,data-science,neg_other,no,0
+yt_00500~85,yt_00500,Process Management & Virtual Memory,operating-systems,neg_same,no,0
+yt_00503~86,yt_00503,process scheduling,operating-systems,neg_same,no,0
+yt_00503~87,yt_00503,operating systems,operating-systems,pos,yes,0
+yt_00504~88,yt_00504,memory management,operating-systems,neg_same,no,0
+yt_00504~89,yt_00504,Modeling with UML,software-engineering,neg_other,no,1
+yt_00510~90,yt_00510,On-the-Job Training Tasks,internship,neg_other,no,0
+yt_00510~91,yt_00510,android,operating-systems,pos,yes,0
+yt_00529~92,yt_00529,networking,networks,pos,yes,1
+yt_00529~93,yt_00529,Physical Layer and Transmission Media,networks,neg_same,no,0
+yt_00532~94,yt_00532,kompyuter network,networks,neg_same,no,0
+yt_00532~95,yt_00532,computer networks,networks,pos,yes,0
+yt_00537~96,yt_00537,Physical Layer and Transmission Media,networks,neg_same,no,0
+yt_00537~97,yt_00537,Expert Systems,intelligent-systems,neg_other,no,0
+yt_00539~98,yt_00539,"Writing Chapter 5: Summary, Conclusions, Recommendations",thesis,neg_other,no,0
+yt_00539~99,yt_00539,networking,networks,pos,yes,1
+yt_00548~100,yt_00548,Planning for Security,security,neg_other,no,1
+yt_00548~101,yt_00548,OSI and TCP/IP Models,networks,neg_same,no,0
+yt_00549~102,yt_00549,Emerging Platforms,platform,neg_other,no,0
+yt_00549~103,yt_00549,computer networks,networks,neg_same,no,0
+yt_00553~104,yt_00553,Physical Layer and Transmission Media,networks,neg_same,no,0
+yt_00553~105,yt_00553,Algorithms and Problem Solving,intro-computing,neg_other,no,0
+yt_00554~106,yt_00554,combinatorics,discrete,neg_other,no,0
+yt_00554~107,yt_00554,Introduction to Computer Networks,networks,neg_same,no,0
+yt_00567~108,yt_00567,Integrated Security Assessment,security,neg_same,no,0
+yt_00567~109,yt_00567,internet of things,emerging-tech,neg_other,no,0
+yt_00578~110,yt_00578,Balancing Information Security and Access,security,neg_same,no,0
+yt_00578~111,yt_00578,Review of Related Literature and Studies,thesis,neg_other,no,0
+yt_00582~112,yt_00582,cybersecurity,security,pos,yes,1
+yt_00582~113,yt_00582,Network Security: Switchport Security,security,neg_same,no,0
+yt_00585~114,yt_00585,Modeling with UML,software-engineering,neg_other,no,1
+yt_00585~115,yt_00585,cybersecurity,security,pos,yes,1
+yt_00594~116,yt_00594,cybersecurity,security,pos,yes,1
+yt_00594~117,yt_00594,ethical hacking,security,neg_same,no,0
+yt_00599~118,yt_00599,cybersecurity,security,pos,yes,1
+yt_00599~119,yt_00599,Discrete-Event Simulation,modeling,neg_other,no,0
+yt_00606~120,yt_00606,Network Security: Switchport Security,security,neg_same,no,0
+yt_00606~121,yt_00606,cybersecurity,security,pos,yes,1
+yt_00609~122,yt_00609,information security,security,neg_same,no,0
+yt_00609~123,yt_00609,Introduction to Mobile Development,mobile,neg_other,no,1
+yt_00636~124,yt_00636,Model Evaluation,data-science,neg_same,no,0
+yt_00636~125,yt_00636,Transactions and Concurrency Control,database,neg_other,no,0
+yt_00690~126,yt_00690,platform technologies,platform,neg_other,no,0
+yt_00690~127,yt_00690,machine learning,intelligent-systems,pos,yes,0
+yt_00715~128,yt_00715,artificial intelligence,intelligent-systems,pos,yes,0
+yt_00715~129,yt_00715,Basic Logic Gates,digital-logic,neg_other,no,0
+yt_00757~130,yt_00757,Elementary Combinatorics,discrete,neg_other,no,0
+yt_00757~131,yt_00757,database,database,pos,yes,1
+yt_00765~132,yt_00765,postgresql,database,neg_same,no,0
+yt_00765~133,yt_00765,database,database,pos,yes,1
+yt_00768~134,yt_00768,Penetration Testing & Ethical Hacking,security,neg_other,no,0
+yt_00768~135,yt_00768,javascript,web,neg_same,no,1
+yt_00769~136,yt_00769,Distributed System Fundamentals,distributed,neg_other,no,0
+yt_00769~137,yt_00769,JavaScript Basics,web,neg_same,no,1
+yt_00778~138,yt_00778,html,web,neg_same,no,0
+yt_00778~139,yt_00778,Limits and Continuity,calculus,neg_other,no,0
+yt_00779~140,yt_00779,web development,web,pos,yes,0
+yt_00779~141,yt_00779,user experience,hci,neg_other,no,0
+yt_00785~142,yt_00785,web development,web,pos,yes,0
+yt_00785~143,yt_00785,Advanced JavaScript,web,neg_same,no,0
+yt_00788~144,yt_00788,Finite State Machines,digital-logic,neg_other,no,1
+yt_00788~145,yt_00788,javascript,web,pos,yes,1
+yt_00795~146,yt_00795,css,web,neg_same,no,0
+yt_00795~147,yt_00795,web development,web,pos,yes,0
+yt_00800~148,yt_00800,Pointers: Fundamentals & Operators,programming,neg_other,no,1
+yt_00800~149,yt_00800,JavaScript Basics,web,neg_same,no,1
+yt_00805~150,yt_00805,Web Security,web,neg_same,no,1
+yt_00805~151,yt_00805,System Refinement & Feature Enhancement,thesis,neg_other,no,0
+yt_00806~152,yt_00806,Web Security,web,neg_same,no,1
+yt_00806~153,yt_00806,Trees and Languages,discrete,neg_other,no,0
+yt_00845~154,yt_00845,Documentation and Reporting,internship,neg_other,no,0
+yt_00845~155,yt_00845,agile,software-engineering,neg_same,no,0
+yt_00862~156,yt_00862,Intro to Python Programming,platform,neg_same,no,1
+yt_00862~157,yt_00862,cloud computing,platform,pos,yes,0
+yt_00863~158,yt_00863,Platform Security and Administration,platform,neg_same,no,0
+yt_00863~159,yt_00863,CSS Styling and Layout,web,neg_other,no,0
+yt_00866~160,yt_00866,cloud computing,platform,pos,yes,0
+yt_00866~161,yt_00866,Virtualization,platform,neg_same,no,1
+yt_00868~162,yt_00868,Basic of Assembly Language,platform,neg_same,no,0
+yt_00868~163,yt_00868,Clipping and Viewing,graphics,neg_other,no,0
+yt_00870~164,yt_00870,Data Link Layer and Ethernet,networks,neg_other,no,0
+yt_00870~165,yt_00870,cloud computing,platform,pos,yes,0
+yt_00871~166,yt_00871,process scheduling,operating-systems,neg_other,no,0
+yt_00871~167,yt_00871,cloud computing,platform,pos,yes,0
+yt_00873~168,yt_00873,platform technologies,platform,neg_same,no,0
+yt_00873~169,yt_00873,cloud computing,platform,pos,yes,0
+yt_00875~170,yt_00875,formal languages,automata,neg_other,no,0
+yt_00875~171,yt_00875,web platform,platform,neg_same,no,0
+yt_00880~172,yt_00880,The Operating System,platform,neg_same,no,0
+yt_00880~173,yt_00880,"Algorithms: Efficiency, Analysis and Order",complexity,neg_other,no,0
+yt_00881~174,yt_00881,Introduction to Built-in Classes,oop,neg_other,no,0
+yt_00881~175,yt_00881,Computer Organization Enterprise Software,emerging-tech,neg_same,no,1
+yt_00887~176,yt_00887,Emerging Platforms,emerging-tech,neg_same,no,0
+yt_00887~177,yt_00887,cloud computing,emerging-tech,pos,yes,0
+yt_00891~178,yt_00891,Emerging Platforms,platform,neg_same,no,0
+yt_00891~179,yt_00891,cloud computing,platform,pos,yes,0
+yt_00897~180,yt_00897,The Operating System,platform,neg_same,no,0
+yt_00897~181,yt_00897,Physical Layer and Transmission Media,networks,neg_other,no,0
+yt_00899~182,yt_00899,cloud computing,platform,pos,yes,0
+yt_00899~183,yt_00899,Queues & Hashing,data-structures,neg_other,no,0
+yt_00900~184,yt_00900,Subprograms,programming-languages,neg_other,no,0
+yt_00900~185,yt_00900,Ethics and Professionalism of Emerging Technologies,emerging-tech,neg_same,no,0
+yt_00902~186,yt_00902,scrum,software-engineering,neg_other,no,0
+yt_00902~187,yt_00902,cloud computing,platform,pos,yes,0
+yt_00911~188,yt_00911,virtualization,platform,neg_same,no,1
+yt_00911~189,yt_00911,system architecture,systems-integration,neg_other,no,0
+yt_00919~190,yt_00919,Looping: For & While Loops,programming,neg_other,no,0
+yt_00919~191,yt_00919,Predicate Logic,discrete,neg_same,no,0
+yt_00924~192,yt_00924,Systems Analysis and Design,systems-integration,neg_other,no,1
+yt_00924~193,yt_00924,discrete mathematics,discrete,pos,yes,0
+yt_00937~194,yt_00937,discrete mathematics,discrete,pos,yes,0
+yt_00937~195,yt_00937,Graph Theory,discrete,neg_same,no,0
+yt_00961~196,yt_00961,Predicate Logic and Quantifiers,discrete,neg_same,no,0
+yt_00961~197,yt_00961,"Networks, Internet and Internet Protocols",intro-computing,neg_other,no,0
+yt_03102~198,yt_03102,Subprograms,programming-languages,neg_same,no,0
+yt_03102~199,yt_03102,programming languages,programming-languages,pos,yes,0
+yt_03107~200,yt_03107,Introduction to Advanced C,programming,neg_same,no,0
+yt_03107~201,yt_03107,programming,programming,pos,yes,0
+yt_03112~202,yt_03112,Information Lifecycle,info-management,neg_other,no,0
+yt_03112~203,yt_03112,Basic Elements,programming-languages,neg_same,no,0
+yt_03124~204,yt_03124,Linked Lists,data-structures,neg_same,no,0
+yt_03124~205,yt_03124,Creating Simple Programs,programming,neg_other,no,0
+yt_03148~206,yt_03148,oop,oop,neg_other,no,0
+yt_03148~207,yt_03148,Key Components of a Computer System,intro-computing,neg_same,no,0
+yt_03185~208,yt_03185,Emerging Trends and Future Considerations,spi,neg_other,no,0
+yt_03185~209,yt_03185,html,web,pos,yes,0
+yt_03219~210,yt_03219,Introduction to Computer Graphics,graphics,neg_other,no,0
+yt_03219~211,yt_03219,c++,oop,neg_same,no,1
+yt_03225~212,yt_03225,programming,data-structures,pos,yes,0
+yt_03225~213,yt_03225,algorithms,data-structures,neg_same,no,0
+yt_03324~214,yt_03324,Server-Side Programming,web,neg_same,no,0
+yt_03324~215,yt_03324,javascript,web,pos,yes,1
+yt_03331~216,yt_03331,CSS Styling and Layout,web,neg_same,no,0
+yt_03331~217,yt_03331,javascript,web,pos,yes,1
+yt_03334~218,yt_03334,Basic Parts & Variable Declaration,programming,neg_other,no,0
+yt_03334~219,yt_03334,object oriented programming,oop,pos,yes,0
+yt_03346~220,yt_03346,object oriented programming,oop,pos,yes,0
+yt_03346~221,yt_03346,cluster computing,distributed,neg_other,no,0
+yt_03886~222,yt_03886,CSS Styling and Layout,web,neg_same,no,0
+yt_03886~223,yt_03886,Attacks and Legal & Professional Issues,security,neg_other,no,0
+yt_03901~224,yt_03901,Classification and Clustering,data-science,neg_other,no,0
+yt_03901~225,yt_03901,web development,web,pos,yes,0
+yt_03966~226,yt_03966,programming,programming,pos,yes,0
+yt_03966~227,yt_03966,Selection: Else-If & Nested Conditions,programming,neg_same,no,0
+yt_04045~228,yt_04045,Problem Solving and Algorithms,intro-computing,neg_same,no,0
+yt_04045~229,yt_04045,Case Studies and Real-World Examples,spi,neg_other,no,0
+yt_04053~230,yt_04053,introduction to computing,intro-computing,neg_same,no,0
+yt_04053~231,yt_04053,"Privacy, Risk, Compliance, and Ethics",info-management,neg_other,no,0
+yt_04056~232,yt_04056,Operating System Platforms,platform,neg_other,no,0
+yt_04056~233,yt_04056,software engineering,software-engineering,pos,yes,0
+yt_04087~234,yt_04087,data structures,data-structures,pos,yes,1
+yt_04087~235,yt_04087,Introduction to Web Development,web,neg_other,no,1
+yt_04116~236,yt_04116,programming languages,programming-languages,neg_other,no,0
+yt_04116~237,yt_04116,algorithms,data-structures,pos,yes,0
+yt_04130~238,yt_04130,software integration,integrative,neg_other,no,0
+yt_04130~239,yt_04130,pandas,intelligent-systems,neg_same,no,0
+yt_04233~240,yt_04233,html,web,neg_same,no,0
+yt_04233~241,yt_04233,Data Storage on Mobile,mobile,neg_other,no,1
+yt_04243~242,yt_04243,Android Development with Kotlin,mobile,neg_other,no,0
+yt_04243~243,yt_04243,System Integration Project Presentation,web,neg_same,no,0
+yt_04250~244,yt_04250,Automation and Scripting,systems-admin,neg_other,no,1
+yt_04250~245,yt_04250,Front-End Frameworks,web,neg_same,no,0
+yt_04313~246,yt_04313,network security,networks,pos,yes,0
+yt_04313~247,yt_04313,Information Security Implementation,networks,neg_same,no,1
+yt_04333~248,yt_04333,database,database,pos,yes,1
+yt_04333~249,yt_04333,Introduction to Database Systems,database,neg_same,no,0
+yt_05017~250,yt_05017,Applications of Derivatives,calculus,neg_other,no,0
+yt_05017~251,yt_05017,Structures: Pointers to Structures,programming,neg_same,no,0
+yt_05071~252,yt_05071,Introduction to Intelligent Systems,intelligent-systems,neg_other,no,0
+yt_05071~253,yt_05071,Problem Solving and Algorithms,intro-computing,neg_same,no,0
+yt_05088~254,yt_05088,Software and Operating Systems,intro-computing,neg_same,no,0
+yt_05088~255,yt_05088,Basic of Assembly Language,platform,neg_other,no,0
+yt_05111~256,yt_05111,professional ethics,spi,neg_other,no,0
+yt_05111~257,yt_05111,Server-Side Programming,web,neg_same,no,0
+yt_05123~258,yt_05123,html,web,pos,yes,0
+yt_05123~259,yt_05123,Computer Animation,graphics,neg_other,no,1
+yt_05134~260,yt_05134,simulation,modeling,neg_other,no,1
+yt_05134~261,yt_05134,web development,web,pos,yes,0
+yt_05143~262,yt_05143,Information Security Implementation,security,neg_same,no,1
+yt_05143~263,yt_05143,cybersecurity,security,pos,yes,1
+yt_05151~264,yt_05151,cybersecurity,security,pos,yes,1
+yt_05151~265,yt_05151,Relations and Functions,discrete,neg_other,no,0
+yt_05255~266,yt_05255,programming,programming,pos,yes,0
+yt_05255~267,yt_05255,variables,programming,neg_same,no,0
+yt_05256~268,yt_05256,objects,oop,neg_same,no,1
+yt_05256~269,yt_05256,animation,graphics,neg_other,no,0
+yt_05272~270,yt_05272,Introduction to Built-in Classes,oop,neg_other,no,0
+yt_05272~271,yt_05272,programming,programming,pos,yes,0
+yt_05274~272,yt_05274,Web Security,web,neg_same,no,1
+yt_05274~273,yt_05274,javascript,web,pos,yes,1
+yt_05278~274,yt_05278,web development,web,pos,yes,0
+yt_05278~275,yt_05278,AI Ethics,intelligent-systems,neg_other,no,0
+yt_05312~276,yt_05312,Local & Global Variables,programming,neg_same,no,0
+yt_05312~277,yt_05312,programming,programming,pos,yes,0
+yt_05357~278,yt_05357,frontend,web,neg_same,no,1
+yt_05357~279,yt_05357,android,mobile,neg_other,no,0
+yt_05368~280,yt_05368,Web Security,web,neg_same,no,1
+yt_05368~281,yt_05368,web development,web,pos,yes,0
+yt_05380~282,yt_05380,"File Management, Network, and Security",operating-systems,neg_other,no,0
+yt_05380~283,yt_05380,internet of things,emerging-tech,neg_same,no,0
+yt_05384~284,yt_05384,web development,web,pos,yes,0
+yt_05384~285,yt_05384,RESTful APIs,web,neg_same,no,0
+yt_05423~286,yt_05423,cybersecurity,internship,pos,yes,1
+yt_05423~287,yt_05423,Security Maintenance Models,internship,neg_same,no,0
+yt_05442~288,yt_05442,Device Management & RAID,operating-systems,neg_other,no,0
+yt_05442~289,yt_05442,History of Computing,intro-computing,neg_same,no,1
+yt_05444~290,yt_05444,security,security,pos,yes,1
+yt_05444~291,yt_05444,Initial System Development (Prototype v1),thesis,neg_other,no,0
+yt_05448~292,yt_05448,cybersecurity,security,pos,yes,1
+yt_05448~293,yt_05448,Network Security: Switchport Security,security,neg_same,no,0
+yt_05466~294,yt_05466,Organization and Efficiency,architecture,neg_same,no,0
+yt_05466~295,yt_05466,cpu,architecture,pos,yes,0
+yt_05626~296,yt_05626,Threads and Concurrency,distributed,neg_other,no,0
+yt_05626~297,yt_05626,Selection: Else-If & Nested Conditions,programming,neg_same,no,0
+yt_05646~298,yt_05646,web development,web,pos,yes,0
+yt_05646~299,yt_05646,pagsusuri ng datos,data-science,neg_other,no,0
+yt_05698~300,yt_05698,Structures: Pointers to Structures,programming,neg_same,no,0
+yt_05698~301,yt_05698,Protecting Information Resources,info-management,neg_other,no,0
+yt_05703~302,yt_05703,CSS Styling and Layout,web,neg_same,no,0
+yt_05703~303,yt_05703,web development,web,pos,yes,0
+yt_05707~304,yt_05707,website,web,neg_same,no,0
+yt_05707~305,yt_05707,logic,discrete,neg_other,no,0
+yt_05714~306,yt_05714,web development,web,pos,yes,0
+yt_05714~307,yt_05714,Server-Side Programming,web,neg_same,no,0
+yt_05718~308,yt_05718,Files: Random Access Records,programming,neg_other,no,0
+yt_05718~309,yt_05718,RESTful APIs,web,neg_same,no,0
+yt_05724~310,yt_05724,Front-End Frameworks,web,neg_same,no,0
+yt_05724~311,yt_05724,web development,web,pos,yes,0
+yt_05732~312,yt_05732,Introduction to Parallel and Distributed Computing,distributed,neg_other,no,0
+yt_05732~313,yt_05732,Server-Side Programming,web,neg_same,no,0
+yt_05737~314,yt_05737,user experience,hci,neg_other,no,0
+yt_05737~315,yt_05737,javascript,web,pos,yes,1
+yt_05778~316,yt_05778,cybersecurity,security,pos,yes,1
+yt_05778~317,yt_05778,Assembly Language Programming,robotics,neg_other,no,0
+yt_05799~318,yt_05799,cybersecurity,security,pos,yes,1
+yt_05799~319,yt_05799,python,programming,neg_other,no,0
+yt_05808~320,yt_05808,Network Security: Cisco Standard ACLs,security,neg_same,no,0
+yt_05808~321,yt_05808,information security,security,pos,yes,0
+yt_05907~322,yt_05907,Expert Systems,intelligent-systems,neg_same,no,0
+yt_05907~323,yt_05907,machine learning,intelligent-systems,pos,yes,0
+yt_05983~324,yt_05983,css,web,neg_other,no,0
+yt_05983~325,yt_05983,Segmented Memory Allocation & Deadlocks,operating-systems,neg_same,no,1
+yt_05987~326,yt_05987,Service-Oriented Architecture,systems-integration,neg_other,no,0
+yt_05987~327,yt_05987,operating systems,operating-systems,pos,yes,0
+yt_06022~328,yt_06022,Power Supply,digital-logic,neg_other,no,0
+yt_06022~329,yt_06022,Project Planning and Estimation,software-engineering,neg_same,no,0
+yt_06031~330,yt_06031,Selection Statements,programming-languages,neg_other,no,0
+yt_06031~331,yt_06031,Assembly Language Programming,robotics,neg_same,no,0
+yt_06038~332,yt_06038,sensors,robotics,neg_same,no,0
+yt_06038~333,yt_06038,"Computational Complexity: Sorting, Searching",complexity,neg_other,no,0
+yt_06064~334,yt_06064,Device Features and Sensors,mobile,neg_other,no,1
+yt_06064~335,yt_06064,data structures,data-structures,pos,yes,1
+yt_06068~336,yt_06068,Creating Simple Programs,data-structures,neg_same,no,0
+yt_06068~337,yt_06068,java,data-structures,pos,yes,1
+yt_06112~338,yt_06112,Advanced JavaScript,web,neg_same,no,0
+yt_06112~339,yt_06112,web development,web,pos,yes,0
+yt_06114~340,yt_06114,css,web,neg_same,no,0
+yt_06114~341,yt_06114,javascript,programming,neg_other,no,1
+yt_06122~342,yt_06122,web development,web,neg_same,no,0
+yt_06122~343,yt_06122,graphic design,multimedia,neg_other,no,1
+yt_06129~344,yt_06129,backend,web,neg_same,no,0
+yt_06129~345,yt_06129,web development,web,pos,yes,0
+yt_06147~346,yt_06147,Computer Hardware Components,intro-computing,neg_same,no,0
+yt_06147~347,yt_06147,arduino,robotics,neg_other,no,0
+yt_06153~348,yt_06153,RESTful APIs,web,neg_same,no,0
+yt_06153~349,yt_06153,user experience,hci,neg_other,no,0
+yt_06177~350,yt_06177,kompyuter network,networks,neg_same,no,0
+yt_06177~351,yt_06177,Classification and Clustering,data-science,neg_other,no,0
+yt_06180~352,yt_06180,cybersecurity,networks,pos,yes,1
+yt_06180~353,yt_06180,cryptography,networks,neg_same,no,1
+yt_06188~354,yt_06188,Transport Layer: TCP and UDP,networks,neg_same,no,0
+yt_06188~355,yt_06188,rendering,graphics,neg_other,no,0
+yt_06225~356,yt_06225,Magnetism and Electromagnetic Induction,physics,neg_other,no,0
+yt_06225~357,yt_06225,linux,operating-systems,neg_same,no,0
+yt_06237~358,yt_06237,Predictive Analytics,business-analytics,neg_other,no,0
+yt_06237~359,yt_06237,Concurrent Processes & Multiprocessing,operating-systems,neg_same,no,1
+yt_06238~360,yt_06238,Concurrent Processes & Multiprocessing,operating-systems,neg_same,no,1
+yt_06238~361,yt_06238,Storage and Backup,systems-admin,neg_other,no,0
+yt_06243~362,yt_06243,compiler,programming-languages,neg_same,no,0
+yt_06243~363,yt_06243,Final Preparation: Chapter One,thesis,neg_other,no,1
+yt_06246~364,yt_06246,introduction to computing,intro-computing,neg_same,no,0
+yt_06246~365,yt_06246,statistics,modeling,neg_other,no,1
+yt_06256~366,yt_06256,programming,programming,pos,yes,0
+yt_06256~367,yt_06256,"File Management, Network, and Security",operating-systems,neg_other,no,0
+yt_06264~368,yt_06264,Discrete-Event Simulation,modeling,neg_other,no,0
+yt_06264~369,yt_06264,3d graphics,graphics,neg_same,no,0
+yt_06334~370,yt_06334,Containers and Docker,platform,neg_same,no,0
+yt_06334~371,yt_06334,linux administration,systems-admin,neg_other,no,0
+yt_06342~372,yt_06342,Documentation and Reporting,intro-computing,neg_same,no,0
+yt_06342~373,yt_06342,tesis,thesis,neg_other,no,0
+yt_06357~374,yt_06357,Professional and Ethical Issues in Computing,intro-computing,neg_same,no,0
+yt_06357~375,yt_06357,Advanced JavaScript,web,neg_other,no,0
+yt_06365~376,yt_06365,Data Link Layer and Ethernet,networks,neg_other,no,0
+yt_06365~377,yt_06365,Recursion,data-structures,neg_same,no,0
+yt_06384~378,yt_06384,Process Management & Virtual Memory,operating-systems,neg_other,no,0
+yt_06384~379,yt_06384,queue,data-structures,neg_same,no,0
+yt_06426~380,yt_06426,expert system,intelligent-systems,neg_other,no,0
+yt_06426~381,yt_06426,Arrays,data-science,neg_same,no,0
+yt_06480~382,yt_06480,Power Supply,digital-logic,neg_other,no,0
+yt_06480~383,yt_06480,web development,web,pos,yes,0
+yt_06519~384,yt_06519,cybersecurity,security,pos,yes,1
+yt_06519~385,yt_06519,physics,physics,neg_other,no,0
+yt_06521~386,yt_06521,Modern Cryptography,security,neg_same,no,0
+yt_06521~387,yt_06521,cybersecurity,security,pos,yes,1
+yt_06527~388,yt_06527,ethical hacking,security,neg_other,no,0
+yt_06527~389,yt_06527,Overview of Computing,intro-computing,neg_same,no,0
+yt_06530~390,yt_06530,Handling User Input and Events,mobile,neg_other,no,1
+yt_06530~391,yt_06530,cybersecurity,security,pos,yes,1
+yt_06541~392,yt_06541,cybersecurity,security,pos,yes,1
+yt_06541~393,yt_06541,Network Security: Cisco Standard ACLs,security,neg_same,no,0
+yt_06546~394,yt_06546,History of Computing,intro-computing,neg_other,no,1
+yt_06546~395,yt_06546,Physical Security,security,neg_same,no,0
+yt_06552~396,yt_06552,indexing,database,neg_same,no,0
+yt_06552~397,yt_06552,database,database,pos,yes,1
+yt_06568~398,yt_06568,normalization,database,pos,yes,1
+yt_06568~399,yt_06568,Introduction to Database Systems,database,neg_same,no,0
+yt_06570~400,yt_06570,sql,database,pos,yes,0
+yt_06570~401,yt_06570,Normalization,database,neg_same,no,1
+yt_06580~402,yt_06580,sql,database,pos,yes,0
+yt_06580~403,yt_06580,data analysis,business-analytics,neg_other,no,0
+yt_06587~404,yt_06587,database,database,pos,yes,1
+yt_06587~405,yt_06587,"Units, Measurement and Vectors",physics,neg_other,no,1
+yt_06591~406,yt_06591,linked list,data-structures,neg_other,no,0
+yt_06591~407,yt_06591,Algorithms and Problem Solving,intro-computing,neg_same,no,0
+yt_06596~408,yt_06596,Protecting Information Resources,info-management,neg_other,no,0
+yt_06596~409,yt_06596,Data Link Layer and Ethernet,networks,neg_same,no,0
+yt_06608~410,yt_06608,computer networks,networks,pos,yes,0
+yt_06608~411,yt_06608,Introduction to Computer Networks,networks,neg_same,no,0
+yt_06619~412,yt_06619,ethical hacking,networks,pos,yes,0
+yt_06619~413,yt_06619,cybersecurity,networks,neg_same,no,1
+yt_06624~414,yt_06624,Memory and Programmable Logic,digital-logic,neg_other,no,0
+yt_06624~415,yt_06624,networking,networks,pos,yes,1
+yt_06626~416,yt_06626,boolean algebra,digital-logic,neg_other,no,0
+yt_06626~417,yt_06626,networking,networks,pos,yes,1
+yt_06628~418,yt_06628,wireless,networks,neg_same,no,1
+yt_06628~419,yt_06628,thermodynamics,physics,neg_other,no,0
+yt_06654~420,yt_06654,Deallocation & Relocatable Dynamic Partitions,operating-systems,neg_same,no,0
+yt_06654~421,yt_06654,Intelligent Information Systems,info-management,neg_other,no,0
+yt_06861~422,yt_06861,cloud computing,software-engineering,pos,yes,0
+yt_06861~423,yt_06861,Software Design,software-engineering,neg_same,no,0
+yt_06882~424,yt_06882,data structures,data-structures,pos,yes,1
+yt_06882~425,yt_06882,System Development,software-engineering,neg_other,no,0
+yt_06914~426,yt_06914,machine learning,intelligent-systems,pos,yes,0
+yt_06914~427,yt_06914,Operators: Arithmetic & Relational,programming,neg_other,no,1
+yt_06957~428,yt_06957,history of computing,intro-computing,neg_same,no,1
+yt_06957~429,yt_06957,Recurrence Relations,discrete,neg_other,no,1
+yt_06991~430,yt_06991,Boolean Algebra and Switching Algebra,discrete,neg_other,no,0
+yt_06991~431,yt_06991,Databases for Web Applications,web,neg_same,no,0
+yt_07006~432,yt_07006,Digital Video,multimedia,neg_same,no,0
+yt_07006~433,yt_07006,tree,data-structures,neg_other,no,0
+yt_07013~434,yt_07013,Sensors and Actuators,robotics,neg_other,no,0
+yt_07013~435,yt_07013,backend,web,neg_same,no,0
+yt_07034~436,yt_07034,Modern Cryptography,security,neg_same,no,0
+yt_07034~437,yt_07034,cybersecurity,security,pos,yes,1
+yt_07036~438,yt_07036,cybersecurity,security,pos,yes,1
+yt_07036~439,yt_07036,Introduction to Social and Professional Awareness,spi,neg_other,no,1
+yt_07045~440,yt_07045,cybersecurity,security,pos,yes,1
+yt_07045~441,yt_07045,Cryptography,security,neg_same,no,1
+yt_07049~442,yt_07049,Threats to Information Systems,security,neg_same,no,1
+yt_07049~443,yt_07049,cybersecurity,security,pos,yes,1
+yt_07053~444,yt_07053,Introduction to Cryptography,security,neg_same,no,0
+yt_07053~445,yt_07053,database indexing,database,neg_other,no,0
+yt_07072~446,yt_07072,Query Processing and Optimization,database,neg_same,no,1
+yt_07072~447,yt_07072,data structures,data-structures,neg_other,no,1
+yt_07083~448,yt_07083,talaan ng datos,database,neg_same,no,1
+yt_07083~449,yt_07083,dashboard,business-analytics,neg_other,no,0
+yt_07084~450,yt_07084,database,mobile,pos,yes,1
+yt_07084~451,yt_07084,Introduction to Modeling and Simulation,modeling,neg_other,no,0
+yt_07094~452,yt_07094,functions,programming,neg_other,no,0
+yt_07094~453,yt_07094,query optimization,database,neg_same,no,0
+yt_07156~454,yt_07156,Forecasting and Regression,modeling,neg_other,no,1
+yt_07156~455,yt_07156,Deallocation & Relocatable Dynamic Partitions,operating-systems,neg_same,no,0
+yt_07160~456,yt_07160,Monitoring and Performance Tuning,systems-admin,neg_same,no,1
+yt_07160~457,yt_07160,AES Operation and Key Management,security,neg_other,no,0
+yt_07165~458,yt_07165,android,mobile,neg_other,no,0
+yt_07165~459,yt_07165,Introducing Operating System Overview,operating-systems,neg_same,no,1
+yt_07189~460,yt_07189,Sensors and Actuators,robotics,neg_other,no,0
+yt_07189~461,yt_07189,History of Computing,intro-computing,neg_same,no,1
+yt_07222~462,yt_07222,Responsive Web Design,web,neg_same,no,1
+yt_07222~463,yt_07222,"Digital Preservation, E-Discovery, and Sectoral Applications",info-management,neg_other,no,0
+yt_07223~464,yt_07223,oop,oop,pos,yes,0
+yt_07223~465,yt_07223,Packages,oop,neg_same,no,0
+yt_07242~466,yt_07242,Ethics and Professionalism of Emerging Technologies,emerging-tech,neg_same,no,0
+yt_07242~467,yt_07242,Enterprise Systems,info-management,neg_other,no,1
+yt_07248~468,yt_07248,web development,web,pos,yes,0
+yt_07248~469,yt_07248,machine learning,intelligent-systems,neg_other,no,0
+yt_07265~470,yt_07265,C++ Functions: Structure & Prototyping,programming,neg_same,no,0
+yt_07265~471,yt_07265,programming,programming,pos,yes,0
+yt_07310~472,yt_07310,web development,web,pos,yes,0
+yt_07310~473,yt_07310,Server-Side Programming,web,neg_same,no,0
+yt_07332~474,yt_07332,sql,database,neg_other,no,0
+yt_07332~475,yt_07332,platform technologies,platform,neg_same,no,0
+yt_07348~476,yt_07348,AES Operation and Key Management,security,neg_same,no,0
+yt_07348~477,yt_07348,cybersecurity,security,pos,yes,1
+yt_07350~478,yt_07350,Databases for Web Applications,security,neg_same,no,0
+yt_07350~479,yt_07350,website,security,pos,yes,0
+yt_07365~480,yt_07365,cybersecurity,security,pos,yes,1
+yt_07365~481,yt_07365,logic gates,digital-logic,neg_other,no,0
+yt_07369~482,yt_07369,cybersecurity,security,pos,yes,1
+yt_07369~483,yt_07369,Balancing Information Security and Access,security,neg_same,no,0
+yt_07372~484,yt_07372,"Crafting the Summary, Conclusions and Recommendations",thesis,neg_other,no,0
+yt_07372~485,yt_07372,Modern Cryptography,security,neg_same,no,0
+yt_10637~486,yt_10637,react native,mobile,pos,yes,0
+yt_10637~487,yt_10637,Fuzzy Logic Systems Robotics and Perception,intelligent-systems,neg_other,no,1
+yt_10660~488,yt_10660,programming,programming,pos,yes,0
+yt_10660~489,yt_10660,3d graphics,graphics,neg_other,no,0
+yt_10687~490,yt_10687,object oriented programming,oop,pos,yes,0
+yt_10687~491,yt_10687,project proposal,thesis,neg_other,no,0
+yt_10709~492,yt_10709,Elementary Combinatorics,discrete,neg_other,no,0
+yt_10709~493,yt_10709,programming,programming,pos,yes,0
+yt_10750~494,yt_10750,waves,physics,neg_other,no,0
+yt_10750~495,yt_10750,algorithm,programming,pos,yes,0
+yt_10755~496,yt_10755,Trees and Graphs,data-structures,neg_same,no,0
+yt_10755~497,yt_10755,data structures,data-structures,pos,yes,1
+yt_10773~498,yt_10773,queue,data-structures,pos,yes,0
+yt_10773~499,yt_10773,Intellectual Property and Software Licensing,spi,neg_other,no,0
+yt_10778~500,yt_10778,data structures,data-structures,pos,yes,1
+yt_10778~501,yt_10778,algorithms,data-structures,neg_same,no,0
+yt_10800~502,yt_10800,operating systems,operating-systems,pos,yes,0
+yt_10800~503,yt_10800,Review of Different Operating Systems,operating-systems,neg_same,no,0
+yt_10803~504,yt_10803,Operators: Arithmetic & Relational,programming,neg_other,no,1
+yt_10803~505,yt_10803,User Interface Design for Mobile,operating-systems,neg_same,no,1
+yt_10805~506,yt_10805,operating systems,operating-systems,pos,yes,0
+yt_10805~507,yt_10805,Types of Information Systems,info-management,neg_other,no,1
+yt_10806~508,yt_10806,Concurrent Processes & Multiprocessing,operating-systems,neg_same,no,1
+yt_10806~509,yt_10806,Project Planning and Estimation,software-engineering,neg_other,no,0
+yt_10824~510,yt_10824,Computer System Structure Overview,operating-systems,neg_same,no,0
+yt_10824~511,yt_10824,calculus,calculus,neg_other,no,0
+yt_10832~512,yt_10832,operating systems,operating-systems,pos,yes,0
+yt_10832~513,yt_10832,Review of Different Operating Systems,operating-systems,neg_same,no,0
+yt_10835~514,yt_10835,Security Technology,security,neg_other,no,0
+yt_10835~515,yt_10835,memory management,operating-systems,neg_same,no,0
+yt_10843~516,yt_10843,Memory Management: Early Systems,operating-systems,neg_same,no,0
+yt_10843~517,yt_10843,linux,operating-systems,pos,yes,0
+yt_10857~518,yt_10857,networking,networks,pos,yes,1
+yt_10857~519,yt_10857,Network Security Basics,networks,neg_same,no,0
+yt_10860~520,yt_10860,Introduction to Information Security,networks,neg_same,no,0
+yt_10860~521,yt_10860,Data Analysis & Interpretation,thesis,neg_other,no,0
+yt_10865~522,yt_10865,concurrent programming,distributed,neg_other,no,0
+yt_10865~523,yt_10865,Introduction to Computer Networks,networks,neg_same,no,0
+yt_10866~524,yt_10866,Transport Layer: TCP and UDP,networks,neg_same,no,0
+yt_10866~525,yt_10866,networking,networks,pos,yes,1
+yt_10868~526,yt_10868,computer networks,networks,pos,yes,0
+yt_10868~527,yt_10868,"Units, Measurement and Vectors",physics,neg_other,no,1
+yt_10900~528,yt_10900,Thesis Compilation & Manuscript Editing,thesis,neg_other,no,0
+yt_10900~529,yt_10900,cybersecurity,security,pos,yes,1
+yt_10915~530,yt_10915,cybersecurity,intro-computing,pos,yes,1
+yt_10915~531,yt_10915,Computer Hardware Components,intro-computing,neg_same,no,0
+yt_10939~532,yt_10939,data science,data-science,pos,yes,0
+yt_10939~533,yt_10939,machine learning,data-science,neg_same,no,0
+yt_10989~534,yt_10989,machine learning,intelligent-systems,pos,yes,0
+yt_10989~535,yt_10989,Search Strategies,intelligent-systems,neg_same,no,1
+yt_11004~536,yt_11004,Expert Systems,intelligent-systems,neg_same,no,0
+yt_11004~537,yt_11004,Introduction to Data Science,data-science,neg_other,no,0
+yt_11008~538,yt_11008,Instruction Set Architectures,architecture,neg_other,no,0
+yt_11008~539,yt_11008,Natural Language Processing,intelligent-systems,neg_same,no,0
+yt_11009~540,yt_11009,machine learning,intelligent-systems,pos,yes,0
+yt_11009~541,yt_11009,neural network,intelligent-systems,neg_same,no,0
+yt_11018~542,yt_11018,Knowledge Representation and Logic,intelligent-systems,neg_same,no,0
+yt_11018~543,yt_11018,artificial intelligence,intelligent-systems,pos,yes,0
+yt_11023~544,yt_11023,Algorithm,programming,neg_other,no,0
+yt_11023~545,yt_11023,Case Study,intelligent-systems,neg_same,no,0
+yt_11053~546,yt_11053,threads,operating-systems,neg_other,no,0
+yt_11053~547,yt_11053,erd,database,neg_same,no,1
+yt_11056~548,yt_11056,Applications of Derivatives,calculus,neg_other,no,0
+yt_11056~549,yt_11056,database,mobile,pos,yes,1
+yt_11062~550,yt_11062,sql,database,pos,yes,0
+yt_11062~551,yt_11062,software design,software-engineering,neg_other,no,0
+yt_11070~552,yt_11070,"Backup, Recovery and Database Security",database,neg_same,no,0
+yt_11070~553,yt_11070,database,database,pos,yes,1
+yt_11071~554,yt_11071,sql,database,pos,yes,0
+yt_11071~555,yt_11071,Professionalism in Computing,spi,neg_other,no,1
+art_00071~556,art_00071,Designing the Research Design and Methodology,thesis,neg_other,no,0
+art_00071~557,art_00071,Introduction to Cryptography,security,neg_same,no,0
+art_00085~558,art_00085,combinatorics,discrete,neg_other,no,0
+art_00085~559,art_00085,Digital Forensics,security,neg_same,no,1
+art_00451~560,art_00451,mechanics,physics,neg_other,no,1
+art_00451~561,art_00451,Computer and Internet Crime,spi,neg_same,no,0
+art_00490~562,art_00490,User Interface Design for Mobile,mobile,neg_other,no,1
+art_00490~563,art_00490,virtualization,platform,neg_same,no,1
+art_00508~564,art_00508,memory management,operating-systems,neg_other,no,0
+art_00508~565,art_00508,internet of things,emerging-tech,neg_same,no,0
+art_00593~566,art_00593,Case Study,data-science,neg_other,no,0
+art_00593~567,art_00593,Embedded Systems Basics,robotics,neg_same,no,0
+art_00598~568,art_00598,Data Cleaning and Preparation,data-science,neg_other,no,0
+art_00598~569,art_00598,process scheduling,operating-systems,neg_same,no,0
+art_00603~570,art_00603,Internal Memory,architecture,neg_same,no,0
+art_00603~571,art_00603,internet of things,emerging-tech,neg_other,no,0
+art_00614~572,art_00614,linked list,data-structures,neg_other,no,0
+art_00614~573,art_00614,Adversarial Search and Games,intelligent-systems,neg_same,no,1
+art_00706~574,art_00706,User Interface Design for Mobile,mobile,neg_other,no,1
+art_00706~575,art_00706,Uncertainty and Probabilistic Reasoning,intelligent-systems,neg_same,no,0
+art_00801~576,art_00801,logic gates,digital-logic,neg_other,no,0
+art_00801~577,art_00801,Foundations of AI,intelligent-systems,neg_same,no,0
+art_01568~578,art_01568,Integration Testing,integrative,neg_other,no,0
+art_01568~579,art_01568,Routing Protocols,networks,neg_same,no,0
+art_01676~580,art_01676,Physical Security,security,neg_same,no,0
+art_01676~581,art_01676,backend,web,neg_other,no,0
+art_01688~582,art_01688,Security Technology,security,neg_same,no,0
+art_01688~583,art_01688,Cloud and Hybrid Integration,systems-integration,neg_other,no,1
+art_01700~584,art_01700,Cryptography,security,neg_same,no,1
+art_01700~585,art_01700,cybersecurity,security,pos,yes,1
+art_01757~586,art_01757,machine learning,security,neg_same,no,0
+art_01757~587,art_01757,security,security,pos,yes,1
+art_01879~588,art_01879,robotics,robotics,pos,yes,1
+art_01879~589,art_01879,Simulation Tools and Model Validation,modeling,neg_other,no,0
+art_02374~590,art_02374,intellectual property,spi,pos,yes,0
+art_02374~591,art_02374,Privacy and Information Security,spi,neg_same,no,0
+art_02461~592,art_02461,Data Ethics and Storytelling,data-science,neg_other,no,0
+art_02461~593,art_02461,Cryptography,security,neg_same,no,1
+art_02483~594,art_02483,Database Indexing,database,neg_other,no,0
+art_02483~595,art_02483,Other Emerging Technologies,emerging-tech,neg_same,no,0
+art_02485~596,art_02485,Natural Language Processing (NLP),emerging-tech,neg_same,no,0
+art_02485~597,art_02485,virtualization,platform,neg_other,no,1
+art_02493~598,art_02493,Computer Hardware Components,intro-computing,neg_same,no,0
+art_02493~599,art_02493,Unsupervised Learning – Dimensionality Reduction,data-science,neg_other,no,0
+art_02494~600,art_02494,application development,emerging-tech,neg_same,no,0
+art_02494~601,art_02494,Introduction to Systems Administration,systems-admin,neg_other,no,0
+art_02515~602,art_02515,Computer Security,intro-computing,neg_other,no,0
+art_02515~603,art_02515,Privacy and Data Security,spi,neg_same,no,0
+art_02710~604,art_02710,Professional Codes & IT Users,spi,neg_same,no,0
+art_02710~605,art_02710,System Development,software-engineering,neg_other,no,0
+art_03125~606,art_03125,Introduction to Web Development,web,neg_same,no,1
+art_03125~607,art_03125,integrative programming,integrative,neg_other,no,0
+art_03334~608,art_03334,systems integration,systems-integration,neg_other,no,1
+art_03334~609,art_03334,Software Management,software-engineering,neg_same,no,0
+art_03372~610,art_03372,Third-Party Service Integration,integrative,neg_same,no,0
+art_03372~611,art_03372,api,integrative,pos,yes,0
+art_03376~612,art_03376,talaan ng datos,database,neg_other,no,1
+art_03376~613,art_03376,Computer Vision,intelligent-systems,neg_same,no,0
+art_03431~614,art_03431,memory management,operating-systems,neg_other,no,0
+art_03431~615,art_03431,Physical Layer and Transmission Media,networks,neg_same,no,0
+art_03466~616,art_03466,Types of Information Systems,info-management,neg_other,no,1
+art_03466~617,art_03466,Introduction to Software Engineering,software-engineering,neg_same,no,0
+art_04344~618,art_04344,integration,integrative,pos,yes,0
+art_04344~619,art_04344,Data Formats: JSON and XML,integrative,neg_same,no,0
+art_04403~620,art_04403,animation,graphics,neg_other,no,0
+art_04403~621,art_04403,Programming Languages: An Overview,programming-languages,neg_same,no,0
+art_05153~622,art_05153,Ethics in the Business World,spi,neg_same,no,0
+art_05153~623,art_05153,Artificial Intelligence (AI),emerging-tech,neg_other,no,0
+art_05220~624,art_05220,javascript,web,pos,yes,1
+art_05220~625,art_05220,routing,networks,neg_other,no,0
+art_05232~626,art_05232,System Development,software-engineering,neg_same,no,0
+art_05232~627,art_05232,information system,info-management,neg_other,no,0
+art_05428~628,art_05428,Digital Records and Archives Management,info-management,neg_other,no,0
+art_05428~629,art_05428,computational complexity,complexity,neg_same,no,1
+art_05431~630,art_05431,Color Models,graphics,neg_same,no,0
+art_05431~631,art_05431,database,database,neg_other,no,1
+art_05445~632,art_05445,object oriented programming,oop,neg_same,no,0
+art_05445~633,art_05445,java,oop,pos,yes,1
+art_05475~634,art_05475,Trees and Graphs,data-structures,neg_same,no,0
+art_05475~635,art_05475,Architecture and Organization,architecture,neg_other,no,1
+art_05477~636,art_05477,Firmware,distributed,neg_same,no,0
+art_05477~637,art_05477,maintenance,systems-admin,neg_other,no,0
+art_05508~638,art_05508,Evaluation and Reflection,internship,neg_other,no,0
+art_05508~639,art_05508,frontend,web,neg_same,no,1
+art_05522~640,art_05522,web development,web,pos,yes,0
+art_05522~641,art_05522,html,web,neg_same,no,0
+art_05557~642,art_05557,Legacy System Integration,systems-integration,neg_other,no,0
+art_05557~643,art_05557,Raster Graphics Algorithms,graphics,neg_same,no,1
+art_05559~644,art_05559,Server-Side Programming,web,neg_same,no,0
+art_05559~645,art_05559,Magnetism and Electromagnetic Induction,physics,neg_other,no,0
+art_05563~646,art_05563,"Privacy, Risk, Compliance, and Ethics",info-management,neg_other,no,0
+art_05563~647,art_05563,rendering,graphics,neg_same,no,0
+art_05587~648,art_05587,tcp ip,networks,neg_same,no,0
+art_05587~649,art_05587,Big Data & Cloud Computing,data-science,neg_other,no,0
+art_05623~650,art_05623,backend,web,neg_same,no,0
+art_05623~651,art_05623,indexing,database,neg_other,no,0
+art_05627~652,art_05627,Introduction to E- Commerce,intro-computing,neg_same,no,0
+art_05627~653,art_05627,Parallel Architectures,distributed,neg_other,no,0
+art_05641~654,art_05641,Introduction to Ethics in IT,spi,neg_other,no,0
+art_05641~655,art_05641,database,database,pos,yes,1
+art_05724~656,art_05724,Linux Administration,systems-admin,neg_other,no,0
+art_05724~657,art_05724,Operating System Platforms,platform,neg_same,no,0
+art_05798~658,art_05798,Scripting and Automation,integrative,neg_same,no,0
+art_05798~659,art_05798,testing,software-engineering,neg_other,no,1
+art_05837~660,art_05837,Computer Security,intro-computing,neg_same,no,0
+art_05837~661,art_05837,Pointers: Fundamentals & Operators,programming,neg_other,no,1
+art_05844~662,art_05844,Adversarial Search and Games,intelligent-systems,neg_same,no,1
+art_05844~663,art_05844,Review of Different Operating Systems,operating-systems,neg_other,no,0
+art_05901~664,art_05901,Object Oriented Programming in Python,emerging-tech,neg_other,no,1
+art_05901~665,art_05901,Expert Systems,intelligent-systems,neg_same,no,0
+art_05951~666,art_05951,Deep Learning,emerging-tech,neg_same,no,0
+art_05951~667,art_05951,Files: Random Access Records,programming,neg_other,no,0
+art_06053~668,art_06053,Combinational Circuit Design,digital-logic,neg_other,no,0
+art_06053~669,art_06053,Intelligent Agents,intelligent-systems,neg_same,no,0
+art_06371~670,art_06371,sql,database,neg_other,no,0
+art_06371~671,art_06371,RESTful APIs,programming-languages,neg_same,no,0
+art_06386~672,art_06386,software engineering,software-engineering,neg_same,no,0
+art_06386~673,art_06386,Operators: Arithmetic & Relational,programming,neg_other,no,1
+art_06482~674,art_06482,Management Support Systems,info-management,neg_other,no,0
+art_06482~675,art_06482,Cryptography,security,neg_same,no,1
+art_06745~676,art_06745,Business Intelligence and Data Warehousing,business-analytics,neg_other,no,0
+art_06745~677,art_06745,professional ethics,spi,neg_same,no,0
+art_07127~678,art_07127,ethical hacking,security,neg_other,no,0
+art_07127~679,art_07127,Sensors and Actuators,robotics,neg_same,no,0
+art_07235~680,art_07235,Network Security: Switchport Security,security,neg_same,no,0
+art_07235~681,art_07235,security,security,pos,yes,1
+art_07249~682,art_07249,array,data-structures,neg_other,no,0
+art_07249~683,art_07249,Balancing Information Security and Access,security,neg_same,no,0
+art_07259~684,art_07259,digital logic,digital-logic,neg_other,no,1
+art_07259~685,art_07259,Network Security: Switchport Security,security,neg_same,no,0
+art_07466~686,art_07466,AES Operation and Key Management,security,neg_same,no,0
+art_07466~687,art_07466,algorithm,programming,neg_other,no,0
+art_07505~688,art_07505,raspberry pi,robotics,pos,yes,0
+art_07505~689,art_07505,Intelligent Agents,robotics,neg_same,no,0
+art_07584~690,art_07584,information security,security,neg_other,no,0
+art_07584~691,art_07584,programming,programming,pos,yes,0
+art_07588~692,art_07588,frontend,web,neg_same,no,1
+art_07588~693,art_07588,backend,web,pos,yes,0
+art_07652~694,art_07652,enterprise architecture,systems-integration,neg_same,no,0
+art_07652~695,art_07652,cluster computing,distributed,neg_other,no,0
+art_07676~696,art_07676,System Deployment & User Orientation,thesis,neg_other,no,0
+art_07676~697,art_07676,Introduction to Software Engineering,software-engineering,neg_same,no,0
+art_07678~698,art_07678,Final Preparation: Chapter Two,thesis,neg_other,no,0
+art_07678~699,art_07678,Requirements Engineering,software-engineering,neg_same,no,0
+art_08415~700,art_08415,Professional Codes & IT Users,spi,neg_same,no,0
+art_08415~701,art_08415,Selection: Else-If & Nested Conditions,programming,neg_other,no,0
+art_08765~702,art_08765,Introduction to Systems Integration,systems-integration,neg_other,no,0
+art_08765~703,art_08765,Ethics and Professionalism of Emerging Technologies,emerging-tech,neg_same,no,0
+art_08824~704,art_08824,backend,web,pos,yes,0
+art_08824~705,art_08824,"Locks, Semaphores and Deadlock",distributed,neg_other,no,0
+art_08885~706,art_08885,scrum,software-engineering,neg_same,no,0
+art_08885~707,art_08885,tesis,thesis,neg_other,no,0
+art_08890~708,art_08890,array,data-structures,neg_same,no,0
+art_08890~709,art_08890,Predicate Logic and Quantifiers,discrete,neg_other,no,0
+art_08893~710,art_08893,graph theory,discrete,neg_other,no,0
+art_08893~711,art_08893,stack,data-structures,neg_same,no,0
+art_08894~712,art_08894,Software Management,software-engineering,neg_same,no,0
+art_08894~713,art_08894,graphic design,multimedia,neg_other,no,1
+art_08936~714,art_08936,Risk Management,security,neg_same,no,0
+art_08936~715,art_08936,api,integrative,neg_other,no,0
+art_08957~716,art_08957,Requirements Engineering,software-engineering,neg_same,no,0
+art_08957~717,art_08957,Orientation & Review of Thesis 1 Outputs,thesis,neg_other,no,1
+art_08958~718,art_08958,Information Organization and Classification,info-management,neg_other,no,0
+art_08958~719,art_08958,Data Formats: JSON and XML,integrative,neg_same,no,0
+art_08983~720,art_08983,Discrete-Event Simulation,modeling,neg_other,no,0
+art_08983~721,art_08983,Digital Images and Graphics Editing,multimedia,neg_same,no,0
+art_09044~722,art_09044,react native,software-engineering,pos,yes,0
+art_09044~723,art_09044,Syntax and Semantics Description,programming-languages,neg_other,no,0
+art_09100~724,art_09100,Planning for Security,security,neg_same,no,1
+art_09100~725,art_09100,erd,database,neg_other,no,1
+art_09357~726,art_09357,database,distributed,pos,yes,1
+art_09357~727,art_09357,SQL Data Definition and Manipulation,distributed,neg_same,no,0
+art_09566~728,art_09566,Attacks and Legal & Professional Issues,security,neg_same,no,0
+art_09566~729,art_09566,Recursion,data-structures,neg_other,no,0
+art_09628~730,art_09628,formal languages,automata,neg_same,no,0
+art_09628~731,art_09628,sql,database,neg_other,no,0
+art_09645~732,art_09645,software engineering,software-engineering,pos,yes,0
+art_09645~733,art_09645,Requirements Engineering,software-engineering,neg_same,no,0
+art_09700~734,art_09700,Social Impact of Computing,spi,neg_other,no,0
+art_09700~735,art_09700,System Integration Security,systems-integration,neg_same,no,0
+rep_00005~736,rep_00005,System Architecture & Design Principles,thesis,neg_same,no,1
+rep_00005~737,rep_00005,Global Information Systems,info-management,neg_other,no,0
+rep_00013~738,rep_00013,Emerging Trends in Computing,intro-computing,neg_same,no,0
+rep_00013~739,rep_00013,IT Career Preparation,internship,neg_other,no,0
+rep_00015~740,rep_00015,Information Security and Privacy,info-management,neg_same,no,0
+rep_00015~741,rep_00015,Operators: Arithmetic & Relational,programming,neg_other,no,1
+rep_00029~742,rep_00029,Introduction to Software Engineering,software-engineering,neg_same,no,0
+rep_00029~743,rep_00029,The Greedy Approach,complexity,neg_other,no,0
+rep_00032~744,rep_00032,Practicum Orientation,internship,neg_other,no,0
+rep_00032~745,rep_00032,software engineering,software-engineering,pos,yes,0
+rep_00046~746,rep_00046,programming,programming,pos,yes,0
+rep_00046~747,rep_00046,functions,programming,neg_same,no,0
+rep_00047~748,rep_00047,Variables and Data Types,oop,neg_other,no,0
+rep_00047~749,rep_00047,hci,hci,neg_same,no,0
+rep_00088~750,rep_00088,Knowledge Representation and Logic,intelligent-systems,neg_same,no,0
+rep_00088~751,rep_00088,Neural Networks,intelligent-systems,pos,yes,1
+rep_00097~752,rep_00097,Neural Networks,intelligent-systems,pos,yes,1
+rep_00097~753,rep_00097,AI Ethics,intelligent-systems,neg_same,no,0
+rep_00122~754,rep_00122,data science,data-science,neg_same,no,0
+rep_00122~755,rep_00122,Digital Tester,digital-logic,neg_other,no,0
+rep_00128~756,rep_00128,Exploratory Data Analysis,data-science,neg_same,no,0
+rep_00128~757,rep_00128,Influences of Language Design,programming-languages,neg_other,no,0
+rep_00131~758,rep_00131,Graphical User Interfaces (GUI) and Aesthetics,hci,neg_same,no,0
+rep_00131~759,rep_00131,Key Components of a Computer System,intro-computing,neg_other,no,0
+rep_00135~760,rep_00135,linux administration,systems-admin,neg_other,no,0
+rep_00135~761,rep_00135,human computer interaction,hci,pos,yes,0
+rep_00136~762,rep_00136,Planning and Scheduling,intelligent-systems,neg_same,no,0
+rep_00136~763,rep_00136,IT Project and Change Management,systems-integration,neg_other,no,0
+rep_00138~764,rep_00138,human computer interaction,hci,pos,yes,0
+rep_00138~765,rep_00138,cryptography,security,neg_other,no,1
+rep_00140~766,rep_00140,"Name Binding, Type Checking and Scopes",programming-languages,neg_other,no,0
+rep_00140~767,rep_00140,Neural Networks,hci,neg_same,no,1
+rep_00142~768,rep_00142,Interactive System Design,hci,neg_same,no,0
+rep_00142~769,rep_00142,human computer interaction,hci,pos,yes,0
+rep_00145~770,rep_00145,user experience,hci,neg_same,no,0
+rep_00145~771,rep_00145,Queues & Hashing,data-structures,neg_other,no,0
+rep_00146~772,rep_00146,human computer interaction,hci,pos,yes,0
+rep_00146~773,rep_00146,Algebraic Structures,discrete,neg_other,no,0
+rep_00147~774,rep_00147,human computer interaction,hci,pos,yes,0
+rep_00147~775,rep_00147,Networking and REST APIs,mobile,neg_other,no,0
+rep_00158~776,rep_00158,Incident Response,security,neg_same,no,0
+rep_00158~777,rep_00158,Magnetism and Electromagnetic Induction,physics,neg_other,no,0
+rep_00167~778,rep_00167,kernel,operating-systems,neg_other,no,1
+rep_00167~779,rep_00167,Building Successful Information Systems,info-management,neg_same,no,0
+rep_00174~780,rep_00174,Neural Networks,intelligent-systems,pos,yes,1
+rep_00174~781,rep_00174,Responsive Web Design,web,neg_other,no,1
+rep_00181~782,rep_00181,human computer interaction,hci,neg_same,no,0
+rep_00181~783,rep_00181,Introduction to Information Security,security,neg_other,no,0
+rep_00183~784,rep_00183,"Views, Stored Procedures and Triggers",database,neg_same,no,0
+rep_00183~785,rep_00183,C++ Functions: Structure & Prototyping,programming,neg_other,no,0
+rep_00197~786,rep_00197,cybersecurity,security,neg_other,no,1
+rep_00197~787,rep_00197,CSS Styling and Layout,web,neg_same,no,0
+rep_00198~788,rep_00198,information system,info-management,pos,yes,0
+rep_00198~789,rep_00198,physics,physics,neg_other,no,0
+rep_00202~790,rep_00202,operating systems,operating-systems,pos,yes,0
+rep_00202~791,rep_00202,Algorithms and Problem Solving,intro-computing,neg_other,no,0
+rep_00211~792,rep_00211,security,security,neg_same,no,1
+rep_00211~793,rep_00211,Information Management and Data Management,info-management,neg_other,no,0
+rep_00220~794,rep_00220,artificial intelligence,security,pos,yes,0
+rep_00220~795,rep_00220,Intelligent Agents,security,neg_same,no,0
+rep_00227~796,rep_00227,kotlin,mobile,neg_other,no,0
+rep_00227~797,rep_00227,information system,info-management,neg_same,no,0
+rep_00229~798,rep_00229,Planning for Security,distributed,neg_same,no,1
+rep_00229~799,rep_00229,Software and Operating Systems,intro-computing,neg_other,no,0
+rep_00230~800,rep_00230,testing,software-engineering,neg_same,no,1
+rep_00230~801,rep_00230,Feature Engineering and Selection,data-science,neg_other,no,0
+rep_00247~802,rep_00247,Software Development Life Cycle Models,software-engineering,neg_same,no,0
+rep_00247~803,rep_00247,System Integration Security,systems-integration,neg_other,no,0
+rep_00248~804,rep_00248,information system,info-management,neg_other,no,0
+rep_00248~805,rep_00248,testing,software-engineering,pos,yes,1
+rep_00250~806,rep_00250,information system,info-management,pos,yes,0
+rep_00250~807,rep_00250,Building Successful Information Systems,info-management,neg_same,no,0
+rep_00256~808,rep_00256,Intro to Python Programming,emerging-tech,neg_other,no,1
+rep_00256~809,rep_00256,Project Planning and Estimation,software-engineering,neg_same,no,0
+rep_00263~810,rep_00263,flutter,mobile,neg_same,no,0
+rep_00263~811,rep_00263,embedded systems,robotics,neg_other,no,0
+rep_00265~812,rep_00265,Cultural and Global Issues in Computing,spi,neg_other,no,1
+rep_00265~813,rep_00265,iOS Development with Swift,software-engineering,neg_same,no,0
+rep_00266~814,rep_00266,Syntactical Elements,programming-languages,neg_other,no,0
+rep_00266~815,rep_00266,iOS Development with Swift,mobile,neg_same,no,0
+rep_00267~816,rep_00267,Introduction to Mobile Development,mobile,neg_same,no,1
+rep_00267~817,rep_00267,Antiderivatives and Indefinite Integrals,calculus,neg_other,no,0
+rep_00268~818,rep_00268,Finite Automata,automata,neg_other,no,0
+rep_00268~819,rep_00268,Project Planning and Estimation,mobile,neg_same,no,0
+rep_00269~820,rep_00269,Dynamic Programming,complexity,neg_other,no,0
+rep_00269~821,rep_00269,Handling User Input and Events,mobile,neg_same,no,1
+rep_00273~822,rep_00273,Relational Model,database,neg_other,no,0
+rep_00273~823,rep_00273,Utilize Model-Based Design,hci,neg_same,no,0
+rep_00274~824,rep_00274,Calculus in Computing,calculus,neg_other,no,0
+rep_00274~825,rep_00274,swift,mobile,neg_same,no,0
+rep_00278~826,rep_00278,android,mobile,pos,yes,0
+rep_00278~827,rep_00278,flutter,mobile,neg_same,no,0
+rep_00836~828,rep_00836,Emerging Trends and Future Considerations,spi,neg_same,no,0
+rep_00836~829,rep_00836,deployment,platform,neg_other,no,1
+rep_00854~830,rep_00854,Fuzzy Logic and Genetic Algorithms,intelligent-systems,neg_same,no,0
+rep_00854~831,rep_00854,virtualization,platform,neg_other,no,1
+rep_00857~832,rep_00857,Robot Programming and Navigation,robotics,neg_same,no,0
+rep_00857~833,rep_00857,Introduction to Multimedia,multimedia,neg_other,no,0
+rep_00858~834,rep_00858,Introducing Operating System Overview,operating-systems,neg_other,no,1
+rep_00858~835,rep_00858,Introduction to Intelligent Systems,intelligent-systems,neg_same,no,0
+rep_00859~836,rep_00859,Neural Networks,intelligent-systems,pos,yes,1
+rep_00859~837,rep_00859,Uncertainty and Probabilistic Reasoning,intelligent-systems,neg_same,no,0
+rep_00872~838,rep_00872,data science,data-science,neg_other,no,0
+rep_00872~839,rep_00872,Network Security: Switchport Security,security,neg_same,no,0
+rep_00918~840,rep_00918,Front-End & Back-End Integration,thesis,neg_other,no,0
+rep_00918~841,rep_00918,Object Oriented Programming in Python,emerging-tech,neg_same,no,1
+rep_00928~842,rep_00928,Process Management & Virtual Memory,operating-systems,neg_other,no,0
+rep_00928~843,rep_00928,Ethics and Professionalism of Emerging Technologies,emerging-tech,neg_same,no,0
+rep_00930~844,rep_00930,artificial intelligence,intelligent-systems,neg_other,no,0
+rep_00930~845,rep_00930,data management,info-management,pos,yes,0
+rep_00973~846,rep_00973,sensors,robotics,neg_same,no,0
+rep_00973~847,rep_00973,Multimedia Project Production,multimedia,neg_other,no,0
+rep_00974~848,rep_00974,Mobile and Embedded Platforms,platform,neg_other,no,0
+rep_00974~849,rep_00974,Knowledge Representation and Logic,intelligent-systems,neg_same,no,0
+rep_01109~850,rep_01109,Unsupervised Learning – Dimensionality Reduction,data-science,neg_same,no,0
+rep_01109~851,rep_01109,machine learning,data-science,pos,yes,0
+rep_01228~852,rep_01228,Scripting and Automation,integrative,neg_other,no,0
+rep_01228~853,rep_01228,computer graphics,graphics,pos,yes,0
+rep_01330~854,rep_01330,Modeling with UML,software-engineering,neg_other,no,1
+rep_01330~855,rep_01330,expert system,intelligent-systems,neg_same,no,0
+rep_01332~856,rep_01332,Relations and Functions,discrete,neg_other,no,0
+rep_01332~857,rep_01332,Monte Carlo Simulation,modeling,neg_same,no,0
+rep_01356~858,rep_01356,machine learning,intelligent-systems,neg_same,no,0
+rep_01356~859,rep_01356,Assembly Language Programming,robotics,neg_other,no,0
+rep_01390~860,rep_01390,system architecture,integrative,neg_same,no,0
+rep_01390~861,rep_01390,api,integrative,pos,yes,0
+rep_01407~862,rep_01407,Case Study,data-science,neg_same,no,0
+rep_01407~863,rep_01407,machine learning,intelligent-systems,neg_other,no,0
+rep_01459~864,rep_01459,Device Features and Sensors,mobile,neg_other,no,1
+rep_01459~865,rep_01459,cybersecurity,security,pos,yes,1
+rep_01470~866,rep_01470,Computer and Internet Crime,spi,neg_same,no,0
+rep_01470~867,rep_01470,maintenance,systems-admin,neg_other,no,0
+rep_01526~868,rep_01526,Case Study Analysis,complexity,neg_other,no,0
+rep_01526~869,rep_01526,computer basics,intro-computing,neg_same,no,1
+rep_01530~870,rep_01530,History of Computing,intro-computing,neg_same,no,1
+rep_01530~871,rep_01530,Planning and Scheduling,intelligent-systems,neg_other,no,0
+rep_01533~872,rep_01533,E-Commerce,info-management,neg_same,no,0
+rep_01533~873,rep_01533,information system,info-management,pos,yes,0
+rep_01535~874,rep_01535,Mathematical Induction,discrete,neg_same,no,1
+rep_01535~875,rep_01535,logic,discrete,pos,yes,0
+rep_01544~876,rep_01544,software engineering,software-engineering,pos,yes,0
+rep_01544~877,rep_01544,Agile Methods and Scrum,software-engineering,neg_same,no,0
+rep_01546~878,rep_01546,software design,software-engineering,neg_same,no,0
+rep_01546~879,rep_01546,software engineering,software-engineering,pos,yes,0
+rep_01548~880,rep_01548,software engineering,software-engineering,pos,yes,0
+rep_01548~881,rep_01548,excel analytics,business-analytics,neg_other,no,0
+rep_01599~882,rep_01599,Professional Codes & IT Users,spi,neg_other,no,0
+rep_01599~883,rep_01599,pagpoprograma,programming,neg_same,no,0
+rep_01610~884,rep_01610,Input/Output,architecture,neg_other,no,0
+rep_01610~885,rep_01610,Linked Lists,data-structures,neg_same,no,0
+rep_01617~886,rep_01617,network security,security,neg_other,no,0
+rep_01617~887,rep_01617,3D Graphics and Projections,graphics,neg_same,no,0
+rep_01619~888,rep_01619,Trees and Graphs,data-structures,neg_same,no,0
+rep_01619~889,rep_01619,Version Control and Collaboration,software-engineering,neg_other,no,0
+rep_01624~890,rep_01624,Sequences and Series,calculus,neg_other,no,0
+rep_01624~891,rep_01624,stack,data-structures,neg_same,no,0
+rep_01632~892,rep_01632,Multimedia Project Production,data-structures,neg_same,no,0
+rep_01632~893,rep_01632,data structures,data-structures,pos,yes,1
+rep_01645~894,rep_01645,video editing,multimedia,neg_other,no,0
+rep_01645~895,rep_01645,Search Strategies,intelligent-systems,neg_same,no,1
+rep_01672~896,rep_01672,Foundations of AI,intelligent-systems,neg_same,no,0
+rep_01672~897,rep_01672,mathematical modeling,calculus,neg_other,no,1
+rep_01682~898,rep_01682,Neural Networks,intelligent-systems,pos,yes,1
+rep_01682~899,rep_01682,Selection: Else-If & Nested Conditions,programming,neg_other,no,0
+rep_01685~900,rep_01685,Neural Networks,intelligent-systems,pos,yes,1
+rep_01685~901,rep_01685,Intelligent Agents,intelligent-systems,neg_same,no,0
+rep_01692~902,rep_01692,Introduction to Mobile Development,intelligent-systems,neg_same,no,1
+rep_01692~903,rep_01692,Neural Networks,intelligent-systems,pos,yes,1
+rep_01705~904,rep_01705,Software Design,software-engineering,neg_other,no,0
+rep_01705~905,rep_01705,Planning and Scheduling,intelligent-systems,neg_same,no,0
+rep_01727~906,rep_01727,Natural Language Processing,intelligent-systems,pos,yes,0
+rep_01727~907,rep_01727,RESTful APIs,web,neg_other,no,0
+rep_01743~908,rep_01743,Computer Vision,intelligent-systems,pos,yes,0
+rep_01743~909,rep_01743,Planning and Scheduling,intelligent-systems,neg_same,no,0
+rep_01759~910,rep_01759,agham ng datos,data-science,neg_same,no,0
+rep_01759~911,rep_01759,data science,data-science,pos,yes,0
+rep_01783~912,rep_01783,machine learning,data-science,pos,yes,0
+rep_01783~913,rep_01783,Big Data & Cloud Computing,data-science,neg_same,no,0
+rep_01787~914,rep_01787,Interactive System Design,hci,neg_same,no,0
+rep_01787~915,rep_01787,Computer and Internet Crime,spi,neg_other,no,0
+rep_01789~916,rep_01789,Methods of Proof,discrete,neg_other,no,0
+rep_01789~917,rep_01789,Introduction to Human Computer Interaction,hci,neg_same,no,0
+rep_01790~918,rep_01790,Initial System Development (Prototype v1),thesis,neg_other,no,0
+rep_01790~919,rep_01790,Prototyping for Interactive Design,hci,neg_same,no,0
+rep_01791~920,rep_01791,Introduction to Human Computer Interaction,hci,pos,yes,0
+rep_01791~921,rep_01791,Threats to Information Systems,security,neg_other,no,1
+rep_01797~922,rep_01797,react native,mobile,neg_other,no,0
+rep_01797~923,rep_01797,hci,hci,neg_same,no,0
+rep_01798~924,rep_01798,cpu,architecture,neg_other,no,0
+rep_01798~925,rep_01798,Utilize Model-Based Design,hci,neg_same,no,0
+rep_01800~926,rep_01800,usability,hci,neg_same,no,0
+rep_01800~927,rep_01800,memory,architecture,neg_other,no,1
+rep_01801~928,rep_01801,human computer interaction,hci,pos,yes,0
+rep_01801~929,rep_01801,Graphical User Interfaces (GUI) and Aesthetics,hci,neg_same,no,0
+rep_01802~930,rep_01802,Information Organization and Classification,info-management,neg_other,no,0
+rep_01802~931,rep_01802,usability,hci,neg_same,no,0
+rep_01803~932,rep_01803,human computer interaction,hci,pos,yes,0
+rep_01803~933,rep_01803,Prototyping for Interactive Design,hci,neg_same,no,0
+rep_01807~934,rep_01807,routing,security,neg_same,no,0
+rep_01807~935,rep_01807,Service-Oriented Architecture,systems-integration,neg_other,no,0
+rep_01831~936,rep_01831,information security,security,neg_same,no,0
+rep_01831~937,rep_01831,physics,physics,neg_other,no,0
+rep_01833~938,rep_01833,Incident Response,security,pos,yes,0
+rep_01833~939,rep_01833,Digital Forensics,security,neg_same,no,1
+rep_01839~940,rep_01839,"Name Binding, Type Checking and Scopes",programming-languages,neg_other,no,0
+rep_01839~941,rep_01839,indexing,database,neg_same,no,0
+rep_01844~942,rep_01844,Arrays,programming,neg_other,no,0
+rep_01844~943,rep_01844,Information Systems: An Overview,info-management,neg_same,no,0
+rep_01854~944,rep_01854,Introduction to Systems Administration,systems-admin,neg_other,no,0
+rep_01854~945,rep_01854,information system,info-management,pos,yes,0
+rep_01859~946,rep_01859,Information Systems: An Overview,info-management,neg_same,no,0
+rep_01859~947,rep_01859,information system,info-management,pos,yes,0
+rep_01860~948,rep_01860,Types of Information Systems,database,neg_same,no,1
+rep_01860~949,rep_01860,information system,database,pos,yes,0
+rep_01863~950,rep_01863,Case Study,data-science,neg_other,no,0
+rep_01863~951,rep_01863,database,database,pos,yes,1
+rep_01864~952,rep_01864,literature review,thesis,pos,yes,0
+rep_01864~953,rep_01864,Front-End & Back-End Integration,thesis,neg_same,no,0
+rep_01866~954,rep_01866,entity relationship,database,neg_same,no,0
+rep_01866~955,rep_01866,database,database,pos,yes,1
+rep_01877~956,rep_01877,Object Oriented Programming in Python,emerging-tech,neg_other,no,1
+rep_01877~957,rep_01877,RESTful APIs,web,neg_same,no,0
+rep_01878~958,rep_01878,Context-Free Grammars and Languages & Pushdown Automata,automata,neg_other,no,0
+rep_01878~959,rep_01878,RESTful APIs,web,neg_same,no,0
+rep_01879~960,rep_01879,Modeling with UML,software-engineering,neg_other,no,1
+rep_01879~961,rep_01879,Enterprise Systems,info-management,neg_same,no,1
+rep_01895~962,rep_01895,operating systems,operating-systems,pos,yes,0
+rep_01895~963,rep_01895,Computer Architecture and Multimedia,architecture,neg_other,no,0
+rep_01898~964,rep_01898,Overview of Computing,intro-computing,neg_other,no,0
+rep_01898~965,rep_01898,operating systems,operating-systems,pos,yes,0
+rep_01900~966,rep_01900,Segmented Memory Allocation & Deadlocks,operating-systems,neg_same,no,1
+rep_01900~967,rep_01900,distributed computing,operating-systems,pos,yes,0
+rep_01901~968,rep_01901,Cloud Computing and Emerging Technologies,info-management,neg_other,no,0
+rep_01901~969,rep_01901,Review of Different Operating Systems,operating-systems,neg_same,no,0
+rep_01908~970,rep_01908,Ethics for IT Professionals,spi,neg_other,no,0
+rep_01908~971,rep_01908,process scheduling,operating-systems,pos,yes,0
+rep_01910~972,rep_01910,Concurrent Processes & Multiprocessing,architecture,neg_same,no,1
+rep_01910~973,rep_01910,operating systems,architecture,pos,yes,0
+rep_01912~974,rep_01912,Data Quality Management,info-management,neg_other,no,0
+rep_01912~975,rep_01912,Concurrent Processes & Multiprocessing,operating-systems,neg_same,no,1
+rep_01917~976,rep_01917,process scheduling,operating-systems,neg_same,no,0
+rep_01917~977,rep_01917,"Work, Energy and Power",physics,neg_other,no,0
+rep_01920~978,rep_01920,Introducing Operating System Overview,operating-systems,neg_same,no,1
+rep_01920~979,rep_01920,Local & Global Variables,programming,neg_other,no,0
+rep_01924~980,rep_01924,operating systems,operating-systems,pos,yes,0
+rep_01924~981,rep_01924,"File Management, Network, and Security",operating-systems,neg_same,no,0
+rep_01927~982,rep_01927,"Cloud, Cluster and MapReduce",distributed,neg_same,no,0
+rep_01927~983,rep_01927,Intellectual Property and Software Licensing,spi,neg_other,no,0
+rep_01930~984,rep_01930,Software Evolution,software-engineering,neg_same,no,0
+rep_01930~985,rep_01930,testing,software-engineering,pos,yes,1
+rep_01931~986,rep_01931,internet of things,emerging-tech,neg_other,no,0
+rep_01931~987,rep_01931,Parallel Architectures,distributed,neg_same,no,0
+rep_01932~988,rep_01932,cloud computing,distributed,pos,yes,0
+rep_01932~989,rep_01932,Enterprise Systems,info-management,neg_other,no,1
+rep_01933~990,rep_01933,Threads and Concurrency,distributed,neg_same,no,0
+rep_01933~991,rep_01933,modeling,modeling,neg_other,no,0
+rep_01936~992,rep_01936,distributed computing,distributed,pos,yes,0
+rep_01936~993,rep_01936,Number Systems and Codes,digital-logic,neg_other,no,0
+rep_01938~994,rep_01938,Parallel Architectures,distributed,neg_same,no,0
+rep_01938~995,rep_01938,Evaluation of User Feedback & System Performance,thesis,neg_other,no,0
+rep_01940~996,rep_01940,Replication and Fault Tolerance,distributed,neg_same,no,0
+rep_01940~997,rep_01940,Predicate Logic and Quantifiers,discrete,neg_other,no,0
+rep_01943~998,rep_01943,Introduction to Mobile Development,mobile,neg_other,no,1
+rep_01943~999,rep_01943,parallel computing,distributed,neg_same,no,0
+rep_01944~1000,rep_01944,Kinematics,physics,neg_other,no,0
+rep_01944~1001,rep_01944,artificial intelligence,distributed,pos,yes,0
+rep_01945~1002,rep_01945,distributed computing,distributed,pos,yes,0
+rep_01945~1003,rep_01945,concurrent programming,distributed,neg_same,no,0
+rep_01946~1004,rep_01946,distributed computing,security,pos,yes,0
+rep_01946~1005,rep_01946,Introduction to Cryptography,security,neg_same,no,0
+rep_01952~1006,rep_01952,concurrent programming,distributed,neg_same,no,0
+rep_01952~1007,rep_01952,quantitative methods,modeling,neg_other,no,0
+rep_01954~1008,rep_01954,rendering,graphics,pos,yes,0
+rep_01954~1009,rep_01954,Visual Computing Applications,graphics,neg_same,no,1
+rep_01955~1010,rep_01955,Performance Analysis,distributed,neg_other,no,0
+rep_01955~1011,rep_01955,information security,security,pos,yes,0
+rep_01956~1012,rep_01956,concurrent programming,distributed,neg_same,no,0
+rep_01956~1013,rep_01956,server administration,systems-admin,neg_other,no,0
+rep_01957~1014,rep_01957,Module Testing & Debugging,thesis,neg_other,no,0
+rep_01957~1015,rep_01957,Parallel Architectures,distributed,neg_same,no,0
+rep_01958~1016,rep_01958,distributed computing,distributed,neg_same,no,0
+rep_01958~1017,rep_01958,data structures,data-structures,neg_other,no,1
+rep_01963~1018,rep_01963,Intelligent Information Systems,info-management,neg_other,no,0
+rep_01963~1019,rep_01963,data analysis,data-science,neg_same,no,0
+rep_01974~1020,rep_01974,testing,software-engineering,pos,yes,1
+rep_01974~1021,rep_01974,Systems Analysis and Design,systems-integration,neg_other,no,1
+rep_01977~1022,rep_01977,Agile Methods and Scrum,software-engineering,neg_same,no,0
+rep_01977~1023,rep_01977,Data-Driven Decision Making,business-analytics,neg_other,no,0
+rep_01985~1024,rep_01985,testing,software-engineering,pos,yes,1
+rep_01985~1025,rep_01985,computer architecture,architecture,neg_other,no,0
+rep_01999~1026,rep_01999,The Operating System,platform,neg_other,no,0
+rep_01999~1027,rep_01999,scrum,software-engineering,neg_same,no,0
+rep_02006~1028,rep_02006,Data Storage on Mobile,mobile,neg_same,no,1
+rep_02006~1029,rep_02006,Natural Language Processing Deep Learning Basics,data-science,neg_other,no,0
+rep_02008~1030,rep_02008,data management,info-management,neg_other,no,0
+rep_02008~1031,rep_02008,Introduction to Mobile Development,mobile,neg_same,no,1
+rep_02009~1032,rep_02009,kotlin,mobile,neg_same,no,0
+rep_02009~1033,rep_02009,Actual Data Gathering,thesis,neg_other,no,0
+rep_02012~1034,rep_02012,android,mobile,pos,yes,0
+rep_02012~1035,rep_02012,Introduction to Computer Networks,networks,neg_other,no,0
+rep_02019~1036,rep_02019,swift,mobile,neg_same,no,0
+rep_02019~1037,rep_02019,video editing,multimedia,neg_other,no,0
+rep_02021~1038,rep_02021,Networking and REST APIs,mobile,neg_same,no,0
+rep_02021~1039,rep_02021,pananaliksik,thesis,neg_other,no,0
+rep_02026~1040,rep_02026,react native,mobile,neg_same,no,0
+rep_02026~1041,rep_02026,Boolean Algebra and Switching Algebra,discrete,neg_other,no,0
+rep_02028~1042,rep_02028,threads,operating-systems,neg_other,no,0
+rep_02028~1043,rep_02028,kotlin,mobile,neg_same,no,0
+rep_02030~1044,rep_02030,User Interface Design for Mobile,mobile,neg_same,no,1
+rep_02030~1045,rep_02030,internship,internship,neg_other,no,0
+rep_02215~1046,rep_02215,information system,info-management,pos,yes,0
+rep_02215~1047,rep_02215,Data Quality Management,info-management,neg_same,no,0
+rep_02316~1048,rep_02316,calculus,calculus,neg_other,no,0
+rep_02316~1049,rep_02316,user interface,hci,neg_same,no,0
+rep_02329~1050,rep_02329,System Architecture & Design Principles,thesis,neg_other,no,1
+rep_02329~1051,rep_02329,Deep Learning,emerging-tech,neg_same,no,0
+rep_02647~1052,rep_02647,Information Systems: An Overview,info-management,neg_same,no,0
+rep_02647~1053,rep_02647,Digital Forensics,security,neg_other,no,1
+rep_02902~1054,rep_02902,machine learning,data-science,pos,yes,0
+rep_02902~1055,rep_02902,coding,programming,neg_other,no,0
+rep_02903~1056,rep_02903,Search Strategies,software-engineering,neg_same,no,1
+rep_02903~1057,rep_02903,Binary Operation,platform,neg_other,no,0
+rep_02907~1058,rep_02907,machine learning,intelligent-systems,pos,yes,0
+rep_02907~1059,rep_02907,pagsusuri ng datos,data-science,neg_other,no,0
+rep_02913~1060,rep_02913,linux,operating-systems,neg_other,no,0
+rep_02913~1061,rep_02913,machine learning,data-science,pos,yes,0
+rep_02917~1062,rep_02917,software design,software-engineering,neg_same,no,0
+rep_02917~1063,rep_02917,software engineering,software-engineering,pos,yes,0
+rep_02918~1064,rep_02918,machine learning,intelligent-systems,pos,yes,0
+rep_02918~1065,rep_02918,Uncertainty and Probabilistic Reasoning,intelligent-systems,neg_same,no,0
+rep_02926~1066,rep_02926,arkitektura ng kompyuter,architecture,neg_same,no,0
+rep_02926~1067,rep_02926,programming languages,architecture,pos,yes,0
+rep_02938~1068,rep_02938,Foundations of AI,intelligent-systems,neg_same,no,0
+rep_02938~1069,rep_02938,machine learning,intelligent-systems,pos,yes,0
+rep_02946~1070,rep_02946,Finite Automata,automata,neg_other,no,0
+rep_02946~1071,rep_02946,Introduction to Intelligent Systems,intelligent-systems,neg_same,no,0
+rep_02964~1072,rep_02964,System Development,software-engineering,neg_same,no,0
+rep_02964~1073,rep_02964,differential,calculus,neg_other,no,0
+rep_02997~1074,rep_02997,enterprise architecture,systems-integration,pos,yes,0
+rep_02997~1075,rep_02997,information management,systems-integration,neg_same,no,0
+rep_03006~1076,rep_03006,Introduction to Object Oriented Programming,oop,neg_other,no,0
+rep_03006~1077,rep_03006,network security,security,neg_same,no,0
+rep_03040~1078,rep_03040,audio editing,multimedia,neg_other,no,0
+rep_03040~1079,rep_03040,software engineering,software-engineering,pos,yes,0
+rep_03043~1080,rep_03043,Version Control and Collaboration,software-engineering,neg_same,no,0
+rep_03043~1081,rep_03043,System Integration Project Presentation,systems-integration,neg_other,no,0
+rep_03047~1082,rep_03047,software engineering,software-engineering,pos,yes,0
+rep_03047~1083,rep_03047,Software Design,software-engineering,neg_same,no,0
+rep_03056~1084,rep_03056,agile,software-engineering,neg_same,no,0
+rep_03056~1085,rep_03056,python,programming,neg_other,no,0
+rep_03057~1086,rep_03057,IT Project and Change Management,systems-integration,neg_other,no,0
+rep_03057~1087,rep_03057,Software Evolution,software-engineering,neg_same,no,0
+rep_03072~1088,rep_03072,software engineering,software-engineering,pos,yes,0
+rep_03072~1089,rep_03072,software development,software-engineering,neg_same,no,0
+rep_03078~1090,rep_03078,Distributed System Fundamentals,distributed,neg_other,no,0
+rep_03078~1091,rep_03078,System Development,software-engineering,neg_same,no,0
+rep_03089~1092,rep_03089,System Development,software-engineering,neg_same,no,0
+rep_03089~1093,rep_03089,Linear Programming,modeling,neg_other,no,1
+rep_03100~1094,rep_03100,software engineering,software-engineering,pos,yes,0
+rep_03100~1095,rep_03100,Testing and Publishing Apps,mobile,neg_other,no,0
+rep_03131~1096,rep_03131,Emerging Trends and Future Considerations,spi,neg_same,no,0
+rep_03131~1097,rep_03131,2D Transformations,graphics,neg_other,no,0
+rep_03132~1098,rep_03132,artificial intelligence,intelligent-systems,pos,yes,0
+rep_03132~1099,rep_03132,algorithms,data-structures,neg_other,no,0
+rep_03143~1100,rep_03143,A Top-Level View of Computer Function and Interconnection,architecture,neg_other,no,1
+rep_03143~1101,rep_03143,machine learning,security,pos,yes,0
+rep_03146~1102,rep_03146,finite state machine,automata,neg_other,no,1
+rep_03146~1103,rep_03146,Introduction to Artificial Intelligence,intelligent-systems,neg_same,no,0
+rep_03193~1104,rep_03193,Hybrid Intelligent Systems,intelligent-systems,neg_same,no,1
+rep_03193~1105,rep_03193,robotics,robotics,neg_other,no,1
+rep_03219~1106,rep_03219,expert system,intelligent-systems,neg_same,no,0
+rep_03219~1107,rep_03219,Routing Protocols,networks,neg_other,no,0
+rep_03224~1108,rep_03224,Intelligent Agents,intelligent-systems,neg_same,no,0
+rep_03224~1109,rep_03224,Digital Records and Archives Management,info-management,neg_other,no,0
+rep_03275~1110,rep_03275,artificial intelligence,software-engineering,pos,yes,0
+rep_03275~1111,rep_03275,Foundations of AI,software-engineering,neg_same,no,0
+rep_03280~1112,rep_03280,artificial intelligence,software-engineering,pos,yes,0
+rep_03280~1113,rep_03280,mathematical modeling,calculus,neg_other,no,1
+rep_03285~1114,rep_03285,software engineering,software-engineering,pos,yes,0
+rep_03285~1115,rep_03285,integral,calculus,neg_other,no,1
+rep_03325~1116,rep_03325,dataset,data-science,neg_other,no,0
+rep_03325~1117,rep_03325,software engineering,software-engineering,pos,yes,0
+rep_03473~1118,rep_03473,Neural Networks,intelligent-systems,pos,yes,1
+rep_03473~1119,rep_03473,expert system,intelligent-systems,neg_same,no,0
+rep_03475~1120,rep_03475,neural network,modeling,pos,yes,0
+rep_03475~1121,rep_03475,Forecasting and Regression,modeling,neg_same,no,1
+rep_03477~1122,rep_03477,computational complexity,complexity,pos,yes,1
+rep_03477~1123,rep_03477,Operators: Assignment & Bitwise,programming,neg_other,no,0
+rep_03478~1124,rep_03478,Clipping and Viewing,intelligent-systems,neg_same,no,0
+rep_03478~1125,rep_03478,machine learning,intelligent-systems,pos,yes,0
+rep_03481~1126,rep_03481,simulink,modeling,neg_other,no,0
+rep_03481~1127,rep_03481,big o,complexity,neg_same,no,0
+rep_03484~1128,rep_03484,Introduction to Artificial Intelligence,intelligent-systems,neg_same,no,0
+rep_03484~1129,rep_03484,android,mobile,neg_other,no,0
+rep_03490~1130,rep_03490,Principles and Guidelines of User Interfaces Design,hci,neg_other,no,0
+rep_03490~1131,rep_03490,machine learning,intelligent-systems,neg_same,no,0
+rep_03502~1132,rep_03502,rendering,graphics,pos,yes,0
+rep_03502~1133,rep_03502,Raster Graphics Algorithms,graphics,neg_same,no,1
+rep_03505~1134,rep_03505,neural network,intelligent-systems,neg_same,no,0
+rep_03505~1135,rep_03505,Organization and Efficiency,architecture,neg_other,no,0
+rep_03511~1136,rep_03511,A Top-Level View of Computer Function and Interconnection,security,neg_same,no,1
+rep_03511~1137,rep_03511,memory,security,pos,yes,1
+rep_03648~1138,rep_03648,computer architecture,architecture,pos,yes,0
+rep_03648~1139,rep_03648,database indexing,database,neg_other,no,0
+rep_03651~1140,rep_03651,operating systems,operating-systems,pos,yes,0
+rep_03651~1141,rep_03651,Concurrent Processes & Multiprocessing,operating-systems,neg_same,no,1
+rep_03668~1142,rep_03668,networking,architecture,pos,yes,1
+rep_03668~1143,rep_03668,Internal Memory,architecture,neg_same,no,0
+rep_03671~1144,rep_03671,Basic Parts & Variable Declaration,programming,neg_other,no,0
+rep_03671~1145,rep_03671,Computer Architecture and Multimedia,architecture,neg_same,no,0
+rep_03686~1146,rep_03686,virtualization,platform,pos,yes,1
+rep_03686~1147,rep_03686,web platform,platform,neg_same,no,0
+rep_03693~1148,rep_03693,"File Management, Network, and Security",operating-systems,neg_same,no,0
+rep_03693~1149,rep_03693,regular expression,automata,neg_other,no,1
+rep_03696~1150,rep_03696,Attacks and Legal & Professional Issues,security,neg_same,no,0
+rep_03696~1151,rep_03696,computer architecture,security,pos,yes,0
+rep_03740~1152,rep_03740,Introduction to Multimedia,multimedia,neg_other,no,0
+rep_03740~1153,rep_03740,Digital Forensics,security,pos,yes,1
+rep_03764~1154,rep_03764,sensors,robotics,pos,yes,0
+rep_03764~1155,rep_03764,Assembly Language Programming,robotics,neg_same,no,0
+rep_03774~1156,rep_03774,sensors,robotics,pos,yes,0
+rep_03774~1157,rep_03774,Sensors and Actuators,robotics,neg_same,no,0
+rep_04368~1158,rep_04368,concurrent programming,distributed,neg_other,no,0
+rep_04368~1159,rep_04368,Introduction to Software Engineering,software-engineering,neg_same,no,0
+rep_04379~1160,rep_04379,machine learning,software-engineering,pos,yes,0
+rep_04379~1161,rep_04379,"Views, Stored Procedures and Triggers",database,neg_other,no,0
+rep_04381~1162,rep_04381,software engineering,software-engineering,pos,yes,0
+rep_04381~1163,rep_04381,graphic design,multimedia,neg_other,no,1
+rep_04386~1164,rep_04386,Data Cleaning and Preparation,data-science,neg_same,no,0
+rep_04386~1165,rep_04386,machine learning,data-science,pos,yes,0
+rep_04392~1166,rep_04392,Selection Statements,programming-languages,neg_same,no,0
+rep_04392~1167,rep_04392,Control Flow: Iteration Constructs,programming,neg_other,no,0
+rep_04400~1168,rep_04400,machine learning,data-science,pos,yes,0
+rep_04400~1169,rep_04400,agham ng datos,data-science,neg_same,no,0
+rep_04409~1170,rep_04409,embedded systems,robotics,neg_other,no,0
+rep_04409~1171,rep_04409,Software Evolution,software-engineering,neg_same,no,0
+rep_04417~1172,rep_04417,Python for Data Analysis,data-science,neg_same,no,1
+rep_04417~1173,rep_04417,NoSQL and Modern Databases,database,neg_other,no,1
+rep_04430~1174,rep_04430,Case Study,data-science,neg_other,no,0
+rep_04430~1175,rep_04430,testing,software-engineering,pos,yes,1
+rep_04431~1176,rep_04431,human computer interaction,hci,pos,yes,0
+rep_04431~1177,rep_04431,Clipping and Viewing,graphics,neg_other,no,0
+rep_04440~1178,rep_04440,Information Architecture,info-management,neg_other,no,1
+rep_04440~1179,rep_04440,software development,software-engineering,neg_same,no,0
+rep_04446~1180,rep_04446,Version Control and Collaboration,software-engineering,neg_same,no,0
+rep_04446~1181,rep_04446,Exploratory Data Analysis,data-science,neg_other,no,0
+rep_04455~1182,rep_04455,kotlin,mobile,neg_other,no,0
+rep_04455~1183,rep_04455,machine learning,intelligent-systems,pos,yes,0
+rep_04456~1184,rep_04456,Requirements Engineering,software-engineering,neg_same,no,0
+rep_04456~1185,rep_04456,software licensing,spi,neg_other,no,0
+rep_04476~1186,rep_04476,Machine Learning Fundamentals,intelligent-systems,neg_same,no,1
+rep_04476~1187,rep_04476,"Computational Complexity: Sorting, Searching",complexity,neg_other,no,0
+rep_04495~1188,rep_04495,Review of Related Literature and Studies,thesis,neg_other,no,0
+rep_04495~1189,rep_04495,Introduction to Data Science,data-science,neg_same,no,0
+rep_04503~1190,rep_04503,robotics,robotics,pos,yes,1
+rep_04503~1191,rep_04503,raspberry pi,robotics,neg_same,no,0
+rep_04530~1192,rep_04530,computational complexity,complexity,neg_same,no,1
+rep_04530~1193,rep_04530,Oscillations and Waves,physics,neg_other,no,0
+rep_04549~1194,rep_04549,Software Design,software-engineering,neg_same,no,0
+rep_04549~1195,rep_04549,research paper,thesis,neg_other,no,0
+rep_04576~1196,rep_04576,software engineering,software-engineering,pos,yes,0
+rep_04576~1197,rep_04576,Project Planning and Estimation,software-engineering,neg_same,no,0
+rep_04582~1198,rep_04582,software engineering,software-engineering,pos,yes,0
+rep_04582~1199,rep_04582,machine learning,software-engineering,neg_same,no,0
+rep_04588~1200,rep_04588,big o,complexity,neg_other,no,0
+rep_04588~1201,rep_04588,Agile Methods and Scrum,software-engineering,neg_same,no,0
+rep_04627~1202,rep_04627,agile,software-engineering,neg_same,no,0
+rep_04627~1203,rep_04627,software engineering,software-engineering,pos,yes,0
+rep_04665~1204,rep_04665,programming,programming,pos,yes,0
+rep_04665~1205,rep_04665,Arrays,programming,neg_same,no,0
+rep_04672~1206,rep_04672,cryptography,security,neg_other,no,1
+rep_04672~1207,rep_04672,Modeling with UML,software-engineering,neg_same,no,1
+rep_04697~1208,rep_04697,Machine Learning Fundamentals,intelligent-systems,neg_same,no,1
+rep_04697~1209,rep_04697,Network Security Basics,networks,neg_other,no,0
+rep_04758~1210,rep_04758,Transactions and Concurrency Control,database,neg_other,no,0
+rep_04758~1211,rep_04758,ethical hacking,security,neg_same,no,0
+rep_04825~1212,rep_04825,neural network,distributed,neg_same,no,0
+rep_04825~1213,rep_04825,artificial intelligence,distributed,pos,yes,0
+rep_04830~1214,rep_04830,Modern Cryptography,security,neg_other,no,0
+rep_04830~1215,rep_04830,Computer Vision,intelligent-systems,neg_same,no,0
+rep_04834~1216,rep_04834,machine learning,intelligent-systems,pos,yes,0
+rep_04834~1217,rep_04834,Networking and REST APIs,mobile,neg_other,no,0
+rep_04843~1218,rep_04843,scrum,software-engineering,neg_same,no,0
+rep_04843~1219,rep_04843,Information Organization and Classification,info-management,neg_other,no,0
+rep_04868~1220,rep_04868,Transport Layer: TCP and UDP,networks,neg_same,no,0
+rep_04868~1221,rep_04868,linux administration,systems-admin,neg_other,no,0
+rep_04870~1222,rep_04870,Cloud and Hybrid Integration,systems-integration,neg_other,no,1
+rep_04870~1223,rep_04870,Consuming and Building REST APIs,integrative,neg_same,no,0
+rep_04886~1224,rep_04886,Introduction to Exception Handling,oop,neg_other,no,0
+rep_04886~1225,rep_04886,Introduction to Human Computer Interaction,hci,neg_same,no,0
+rep_04890~1226,rep_04890,frontend,web,neg_same,no,1
+rep_04890~1227,rep_04890,html,web,pos,yes,0
+rep_04893~1228,rep_04893,Introduction to C-Language,programming,neg_other,no,0
+rep_04893~1229,rep_04893,Uncertainty and Probabilistic Reasoning,networks,neg_same,no,0
+rep_04896~1230,rep_04896,circuit,digital-logic,neg_other,no,0
+rep_04896~1231,rep_04896,Security Technology,security,neg_same,no,0
+rep_04904~1232,rep_04904,Wireless and Mobile Networks,networks,neg_same,no,0
+rep_04904~1233,rep_04904,Counters,digital-logic,neg_other,no,0
+rep_04906~1234,rep_04906,sql,database,neg_same,no,0
+rep_04906~1235,rep_04906,"Networks, Internet and Internet Protocols",intro-computing,neg_other,no,0
+rep_04911~1236,rep_04911,Consuming and Building REST APIs,integrative,neg_other,no,0
+rep_04911~1237,rep_04911,user experience,graphics,neg_same,no,0
+rep_04924~1238,rep_04924,Planning and Scheduling,intelligent-systems,neg_same,no,0
+rep_04924~1239,rep_04924,Parallel Architectures,distributed,neg_other,no,0
+rep_04942~1240,rep_04942,Introduction to Intelligent Systems,intelligent-systems,neg_same,no,0
+rep_04942~1241,rep_04942,Data Gathering Methods & Implementation,thesis,neg_other,no,1
+rep_04984~1242,rep_04984,computer graphics,graphics,neg_other,no,0
+rep_04984~1243,rep_04984,Probability and Statistics for Data Science,data-science,neg_same,no,0
+rep_05004~1244,rep_05004,Regression,data-science,pos,yes,0
+rep_05004~1245,rep_05004,Natural Language Processing Deep Learning Basics,data-science,neg_same,no,0
+rep_05018~1246,rep_05018,Expert Systems,data-science,neg_same,no,0
+rep_05018~1247,rep_05018,machine learning,data-science,pos,yes,0
+rep_05027~1248,rep_05027,Intro to Orange App,emerging-tech,neg_other,no,0
+rep_05027~1249,rep_05027,Regression,data-science,pos,yes,0
+rep_05028~1250,rep_05028,data analysis,intelligent-systems,pos,yes,0
+rep_05028~1251,rep_05028,Introduction to Artificial Intelligence,intelligent-systems,neg_same,no,0
+rep_05092~1252,rep_05092,Adversarial Search and Games,intelligent-systems,neg_same,no,1
+rep_05092~1253,rep_05092,automata,automata,neg_other,no,1
+rep_05125~1254,rep_05125,seguridad ng impormasyon,security,neg_same,no,0
+rep_05125~1255,rep_05125,artificial intelligence,security,pos,yes,0
+rep_05128~1256,rep_05128,Neural Networks,intelligent-systems,pos,yes,1
+rep_05128~1257,rep_05128,Digital Records and Archives Management,info-management,neg_other,no,0
+rep_05143~1258,rep_05143,rendering,graphics,pos,yes,0
+rep_05143~1259,rep_05143,Key Components of a Computer System,intro-computing,neg_other,no,0
+rep_05148~1260,rep_05148,machine learning,data-science,pos,yes,0
+rep_05148~1261,rep_05148,Introduction to Parallel and Distributed Computing,distributed,neg_other,no,0
+rep_05240~1262,rep_05240,Firmware,platform,neg_other,no,0
+rep_05240~1263,rep_05240,dynamic programming,complexity,neg_same,no,0
+rep_05241~1264,rep_05241,Network Services,systems-admin,neg_other,no,0
+rep_05241~1265,rep_05241,neural network,intelligent-systems,pos,yes,0
+rep_05260~1266,rep_05260,IT Career Preparation,internship,neg_other,no,0
+rep_05260~1267,rep_05260,machine learning,intelligent-systems,neg_same,no,0
+rep_05280~1268,rep_05280,visualization,data-science,neg_other,no,0
+rep_05280~1269,rep_05280,Graphical User Interfaces (GUI) and Aesthetics,hci,neg_same,no,0
+rep_05288~1270,rep_05288,Interactive System Design,hci,neg_same,no,0
+rep_05288~1271,rep_05288,"Crafting the Summary, Conclusions and Recommendations",thesis,neg_other,no,0
+rep_05423~1272,rep_05423,system model,modeling,neg_same,no,0
+rep_05423~1273,rep_05423,system design,systems-integration,neg_other,no,1
+rep_05446~1274,rep_05446,Search Strategies,intelligent-systems,neg_same,no,1
+rep_05446~1275,rep_05446,Scripting and Automation,integrative,neg_other,no,0
+rep_05448~1276,rep_05448,Project Planning and Estimation,software-engineering,neg_other,no,0
+rep_05448~1277,rep_05448,Foundations of AI,intelligent-systems,neg_same,no,0
+rep_05457~1278,rep_05457,modeling,intelligent-systems,pos,yes,0
+rep_05457~1279,rep_05457,cpu,architecture,neg_other,no,0
+rep_05555~1280,rep_05555,OSI and TCP/IP Models,networks,neg_same,no,0
+rep_05555~1281,rep_05555,wireless,networks,pos,yes,1
+rep_05558~1282,rep_05558,Network Security Basics,networks,neg_same,no,0
+rep_05558~1283,rep_05558,Process Management & Virtual Memory,operating-systems,neg_other,no,0
+rep_05561~1284,rep_05561,cloud computing,platform,neg_other,no,0
+rep_05561~1285,rep_05561,neural network,intelligent-systems,neg_same,no,0
+rep_05562~1286,rep_05562,business analytics,business-analytics,neg_other,no,1
+rep_05562~1287,rep_05562,machine learning,intelligent-systems,neg_same,no,0
+rep_05596~1288,rep_05596,Workplace Issues in Computing,spi,neg_other,no,0
+rep_05596~1289,rep_05596,Neural Networks,intelligent-systems,neg_same,no,1
+rep_05597~1290,rep_05597,animation,graphics,neg_same,no,0
+rep_05597~1291,rep_05597,algorithm complexity,complexity,neg_other,no,0
+rep_05841~1292,rep_05841,software engineering,software-engineering,pos,yes,0
+rep_05841~1293,rep_05841,testing,software-engineering,neg_same,no,1
+rep_05862~1294,rep_05862,Module Testing & Debugging,thesis,neg_other,no,0
+rep_05862~1295,rep_05862,software engineering,software-engineering,pos,yes,0
+rep_05873~1296,rep_05873,Requirements Engineering,software-engineering,neg_same,no,0
+rep_05873~1297,rep_05873,Database Management and Information Retrieval,info-management,neg_other,no,0
+rep_05887~1298,rep_05887,Data Visualization and Dashboards,business-analytics,neg_other,no,0
+rep_05887~1299,rep_05887,Requirements Engineering,software-engineering,neg_same,no,0
+rep_05907~1300,rep_05907,Workplace Ethics and Professionalism,internship,neg_other,no,0
+rep_05907~1301,rep_05907,software engineering,software-engineering,pos,yes,0
+rep_05923~1302,rep_05923,Fundamental of Programming,programming,neg_same,no,1
+rep_05923~1303,rep_05923,"Units, Measurement and Vectors",physics,neg_other,no,1
+rep_05925~1304,rep_05925,NoSQL and Modern Databases,database,neg_other,no,1
+rep_05925~1305,rep_05925,Files: Random Access Records,programming,neg_same,no,0
+rep_05952~1306,rep_05952,Strings,programming,neg_same,no,0
+rep_05952~1307,rep_05952,programming,programming,pos,yes,0
+rep_05954~1308,rep_05954,Fundamental Concepts of Research,thesis,neg_other,no,0
+rep_05954~1309,rep_05954,c++,programming,neg_same,no,1
+rep_06303~1310,rep_06303,Basic Electronics,digital-logic,neg_other,no,0
+rep_06303~1311,rep_06303,Requirements Engineering,software-engineering,neg_same,no,0
+rep_06330~1312,rep_06330,software engineering,software-engineering,pos,yes,0
+rep_06330~1313,rep_06330,Input/Output,architecture,neg_other,no,0
+rep_06348~1314,rep_06348,Agile Methods and Scrum,software-engineering,neg_same,no,0
+rep_06348~1315,rep_06348,software engineering,software-engineering,pos,yes,0
+rep_06385~1316,rep_06385,Sorting Algorithms and Searching,data-structures,neg_other,no,0
+rep_06385~1317,rep_06385,Strings,programming,neg_same,no,0
+rep_06459~1318,rep_06459,Big Data & Cloud Computing,data-science,neg_same,no,0
+rep_06459~1319,rep_06459,machine learning,data-science,pos,yes,0
+rep_06521~1320,rep_06521,human computer interaction,hci,neg_same,no,0
+rep_06521~1321,rep_06521,Cybersecurity Basics,intro-computing,neg_other,no,0
+rep_06667~1322,rep_06667,machine learning,data-science,pos,yes,0
+rep_06667~1323,rep_06667,power bi,business-analytics,neg_other,no,0
+rep_06689~1324,rep_06689,android,mobile,pos,yes,0
+rep_06689~1325,rep_06689,objects,oop,neg_other,no,1
+rep_06727~1326,rep_06727,pandas,data-science,neg_other,no,0
+rep_06727~1327,rep_06727,Information Systems: An Overview,info-management,neg_same,no,0
+rep_06730~1328,rep_06730,routing,networks,neg_same,no,0
+rep_06730~1329,rep_06730,variables,programming,neg_other,no,0
+rep_06745~1330,rep_06745,Overview of Computing,intro-computing,neg_other,no,0
+rep_06745~1331,rep_06745,Natural Language Processing,intelligent-systems,neg_same,no,0
+rep_06750~1332,rep_06750,proof,discrete,neg_other,no,1
+rep_06750~1333,rep_06750,Ethics in Computing,spi,neg_same,no,0
+rep_06752~1334,rep_06752,pagpoprograma,programming,neg_other,no,0
+rep_06752~1335,rep_06752,Neural Networks,intelligent-systems,pos,yes,1
+rep_06769~1336,rep_06769,artificial intelligence,intelligent-systems,pos,yes,0
+rep_06769~1337,rep_06769,Looping: For & While Loops,programming,neg_other,no,0
+rep_06776~1338,rep_06776,Social Impact of Computing,spi,neg_other,no,0
+rep_06776~1339,rep_06776,Raster Graphics Algorithms,graphics,neg_same,no,1
+rep_06779~1340,rep_06779,neural network,intelligent-systems,pos,yes,0
+rep_06779~1341,rep_06779,machine learning,intelligent-systems,neg_same,no,0
+rep_06785~1342,rep_06785,security,security,pos,yes,1
+rep_06785~1343,rep_06785,Databases for Web Applications,web,neg_other,no,0
+rep_06795~1344,rep_06795,Introduction to Information Security,security,neg_same,no,0
+rep_06795~1345,rep_06795,programming languages,programming-languages,neg_other,no,0
+rep_06797~1346,rep_06797,Introduction to Data Science Python for Data Science,data-science,neg_other,no,0
+rep_06797~1347,rep_06797,embedded systems,robotics,pos,yes,0
+rep_06799~1348,rep_06799,Utilize Model-Based Design,hci,neg_same,no,0
+rep_06799~1349,rep_06799,user experience,hci,pos,yes,0
+rep_06803~1350,rep_06803,Computer Vision,intelligent-systems,neg_same,no,0
+rep_06803~1351,rep_06803,Monte Carlo Simulation,modeling,neg_other,no,0
+rep_06815~1352,rep_06815,information security,security,neg_same,no,0
+rep_06815~1353,rep_06815,memory,architecture,neg_other,no,1
+rep_06819~1354,rep_06819,Uncertainty and Probabilistic Reasoning,intelligent-systems,neg_same,no,0
+rep_06819~1355,rep_06819,Unsupervised Learning – Dimensionality Reduction,data-science,neg_other,no,0
+rep_06867~1356,rep_06867,Adversarial Search and Games,intelligent-systems,neg_same,no,1
+rep_06867~1357,rep_06867,tree,data-structures,neg_other,no,0
+rep_06868~1358,rep_06868,Search Strategies,intelligent-systems,neg_same,no,1
+rep_06868~1359,rep_06868,Combinatorial Logic,digital-logic,neg_other,no,0
+rep_06869~1360,rep_06869,seguridad sa impormasyon,security,neg_same,no,0
+rep_06869~1361,rep_06869,Raspberry Pi and Robotics Projects,robotics,neg_other,no,0
+rep_06870~1362,rep_06870,algorithms,data-structures,neg_other,no,0
+rep_06870~1363,rep_06870,usability,hci,pos,yes,0
+rep_06877~1364,rep_06877,Machine Learning Fundamentals,intelligent-systems,neg_same,no,1
+rep_06877~1365,rep_06877,Data Storage on Mobile,mobile,neg_other,no,1
+rep_06890~1366,rep_06890,Privacy and Data Security,spi,neg_other,no,0
+rep_06890~1367,rep_06890,Machine Learning Fundamentals,intelligent-systems,neg_same,no,1
+rep_06898~1368,rep_06898,switching,networks,neg_other,no,1
+rep_06898~1369,rep_06898,rendering,graphics,pos,yes,0
+rep_06929~1370,rep_06929,Linux Administration,systems-admin,neg_other,no,0
+rep_06929~1371,rep_06929,Natural Language Processing Deep Learning Basics,data-science,neg_same,no,0
+rep_06930~1372,rep_06930,Interactive System Design,hci,neg_other,no,0
+rep_06930~1373,rep_06930,Practical Applications and Case Studies,intro-computing,neg_same,no,0
+rep_06934~1374,rep_06934,Sequential Circuits,digital-logic,neg_other,no,0
+rep_06934~1375,rep_06934,Context-Free Grammars and Languages & Pushdown Automata,automata,neg_same,no,0
+rep_06950~1376,rep_06950,Planning and Scheduling,intelligent-systems,neg_same,no,0
+rep_06950~1377,rep_06950,artificial intelligence,intelligent-systems,pos,yes,0
+rep_06955~1378,rep_06955,information security,security,neg_other,no,0
+rep_06955~1379,rep_06955,computer basics,intro-computing,neg_same,no,1
+rep_06972~1380,rep_06972,Productivity Tools,intro-computing,neg_same,no,0
+rep_06972~1381,rep_06972,Network Security: Switchport Security,security,neg_other,no,0
+rep_06984~1382,rep_06984,algorithm complexity,automata,neg_same,no,0
+rep_06984~1383,rep_06984,Productivity Tools,intro-computing,neg_other,no,0
+rep_07002~1384,rep_07002,software engineering,software-engineering,pos,yes,0
+rep_07002~1385,rep_07002,Requirements Engineering,software-engineering,neg_same,no,0
+rep_07018~1386,rep_07018,Software Management,software-engineering,neg_same,no,0
+rep_07018~1387,rep_07018,software engineering,software-engineering,pos,yes,0
+rep_07029~1388,rep_07029,software engineering,software-engineering,pos,yes,0
+rep_07029~1389,rep_07029,Writing the Research Proposal,software-engineering,neg_same,no,0
+rep_07045~1390,rep_07045,software engineering,software-engineering,pos,yes,0
+rep_07045~1391,rep_07045,Internal Memory,architecture,neg_other,no,0
+rep_07052~1392,rep_07052,software engineering,software-engineering,pos,yes,0
+rep_07052~1393,rep_07052,Physical Layer and Transmission Media,networks,neg_other,no,0
+rep_07062~1394,rep_07062,software engineering,software-engineering,pos,yes,0
+rep_07062~1395,rep_07062,Actual Data Gathering,software-engineering,neg_same,no,0
+rep_07063~1396,rep_07063,software engineering,software-engineering,pos,yes,0
+rep_07063~1397,rep_07063,2D Transformations,graphics,neg_other,no,0
+rep_07066~1398,rep_07066,Requirements Engineering,software-engineering,neg_same,no,0
+rep_07066~1399,rep_07066,software engineering,software-engineering,pos,yes,0
+rep_07081~1400,rep_07081,software engineering,software-engineering,pos,yes,0
+rep_07081~1401,rep_07081,Overview of Computing,intro-computing,neg_other,no,0
+rep_07089~1402,rep_07089,Recursion,data-structures,neg_other,no,0
+rep_07089~1403,rep_07089,System Development,software-engineering,neg_same,no,0
+rep_07097~1404,rep_07097,Creating Simple Programs,programming,neg_same,no,0
+rep_07097~1405,rep_07097,computer graphics,programming,pos,yes,0
+rep_07099~1406,rep_07099,programming,programming,pos,yes,0
+rep_07099~1407,rep_07099,Pointers: Fundamentals & Operators,programming,neg_same,no,1
+rep_07121~1408,rep_07121,programming,programming,pos,yes,0
+rep_07121~1409,rep_07121,Local & Global Variables,programming,neg_same,no,0
+rep_07125~1410,rep_07125,Knowledge Representation and Logic,intelligent-systems,neg_same,no,0
+rep_07125~1411,rep_07125,Applications of Integrals,calculus,neg_other,no,0
+rep_07132~1412,rep_07132,programming,programming,pos,yes,0
+rep_07132~1413,rep_07132,Flowcharting,programming,neg_same,no,0
+rep_07135~1414,rep_07135,Components of C-Language,programming,neg_same,no,1
+rep_07135~1415,rep_07135,programming,programming,pos,yes,0
+rep_07141~1416,rep_07141,Machine Learning Fundamentals,intelligent-systems,neg_same,no,1
+rep_07141~1417,rep_07141,Flowcharting,programming,neg_other,no,0
+rep_07151~1418,rep_07151,Cross-Platform Development,mobile,neg_other,no,0
+rep_07151~1419,rep_07151,artificial intelligence,intelligent-systems,neg_same,no,0
+rep_07157~1420,rep_07157,Software Management,software-engineering,neg_same,no,0
+rep_07157~1421,rep_07157,software development,software-engineering,pos,yes,0
+rep_07163~1422,rep_07163,machine learning,intelligent-systems,pos,yes,0
+rep_07163~1423,rep_07163,artificial intelligence,intelligent-systems,neg_same,no,0
+rep_07171~1424,rep_07171,Parallel Architectures,software-engineering,neg_same,no,0
+rep_07171~1425,rep_07171,Structures: Pointers to Structures,programming,neg_other,no,0
+rep_07191~1426,rep_07191,Overview of Computing,intro-computing,neg_other,no,0
+rep_07191~1427,rep_07191,Syntax and Semantics Description,intelligent-systems,neg_same,no,0
+rep_07205~1428,rep_07205,Web and Application Platforms,platform,neg_other,no,0
+rep_07205~1429,rep_07205,machine learning,data-science,pos,yes,0
+rep_07216~1430,rep_07216,Neural Networks,intelligent-systems,pos,yes,1
+rep_07216~1431,rep_07216,artificial intelligence,intelligent-systems,neg_same,no,0
+rep_07220~1432,rep_07220,software development,software-engineering,pos,yes,0
+rep_07220~1433,rep_07220,System Development,software-engineering,neg_same,no,0
+rep_07240~1434,rep_07240,Database Indexing,database,neg_other,no,0
+rep_07240~1435,rep_07240,Foundations of AI,intelligent-systems,neg_same,no,0
+rep_07256~1436,rep_07256,tree,data-structures,neg_other,no,0
+rep_07256~1437,rep_07256,Uncertainty and Probabilistic Reasoning,intelligent-systems,neg_same,no,0
+rep_07263~1438,rep_07263,Neural Networks,intelligent-systems,pos,yes,1
+rep_07263~1439,rep_07263,Fuzzy Logic Systems Robotics and Perception,intelligent-systems,neg_same,no,1
+rep_07285~1440,rep_07285,Introduction to Artificial Intelligence,intelligent-systems,neg_same,no,0
+rep_07285~1441,rep_07285,Routing Protocols,networks,neg_other,no,0
+rep_07291~1442,rep_07291,neural network,intelligent-systems,neg_same,no,0
+rep_07291~1443,rep_07291,assembly language,architecture,neg_other,no,0
+rep_07299~1444,rep_07299,cloud computing,platform,neg_other,no,0
+rep_07299~1445,rep_07299,Knowledge Representation and Logic,intelligent-systems,neg_same,no,0
+rep_07301~1446,rep_07301,AI Ethics,intelligent-systems,neg_same,no,0
+rep_07301~1447,rep_07301,Security Technology,security,neg_other,no,0
+rep_07306~1448,rep_07306,Trees and Languages,discrete,neg_other,no,0
+rep_07306~1449,rep_07306,Fuzzy Logic and Genetic Algorithms,intelligent-systems,neg_same,no,0
+rep_07309~1450,rep_07309,neural network,intelligent-systems,neg_same,no,0
+rep_07309~1451,rep_07309,react native,mobile,neg_other,no,0
+rep_07310~1452,rep_07310,Search Strategies,intelligent-systems,neg_same,no,1
+rep_07310~1453,rep_07310,power bi,business-analytics,neg_other,no,0
+rep_07315~1454,rep_07315,Enterprise Architecture,systems-integration,neg_other,no,0
+rep_07315~1455,rep_07315,machine learning,intelligent-systems,neg_same,no,0
+rep_07317~1456,rep_07317,Applications of Integrals,calculus,neg_other,no,0
+rep_07317~1457,rep_07317,AI Ethics,intelligent-systems,neg_same,no,0
+rep_07322~1458,rep_07322,Computer Vision,intelligent-systems,pos,yes,0
+rep_07322~1459,rep_07322,Expert Systems,intelligent-systems,neg_same,no,0
+rep_07338~1460,rep_07338,erd,database,neg_other,no,1
+rep_07338~1461,rep_07338,Ethics for IT Professionals,spi,neg_same,no,0
+rep_07341~1462,rep_07341,human computer interaction,hci,pos,yes,0
+rep_07341~1463,rep_07341,Individual Models of Human Factors,hci,neg_same,no,0
+rep_07343~1464,rep_07343,Switch-Case & Functions,programming,neg_other,no,0
+rep_07343~1465,rep_07343,CSS Styling and Layout,web,neg_same,no,0
+rep_07351~1466,rep_07351,Utilize Model-Based Design,hci,neg_same,no,0
+rep_07351~1467,rep_07351,user interface,hci,pos,yes,0
+rep_07352~1468,rep_07352,Introduction to Software Engineering,software-engineering,neg_same,no,0
+rep_07352~1469,rep_07352,Case Study,data-science,neg_other,no,0
+rep_07354~1470,rep_07354,Neural Networks,intelligent-systems,neg_same,no,1
+rep_07354~1471,rep_07354,algorithms,data-structures,neg_other,no,0
+rep_07356~1472,rep_07356,Regression,data-science,neg_other,no,0
+rep_07356~1473,rep_07356,network security,security,neg_same,no,0
+rep_07359~1474,rep_07359,Introduction to Information Systems,info-management,neg_same,no,0
+rep_07359~1475,rep_07359,Network Configuration and Troubleshooting,networks,neg_other,no,0
+rep_07365~1476,rep_07365,Data Cleaning and Preparation,data-science,neg_same,no,0
+rep_07365~1477,rep_07365,Privacy and Information Security,spi,neg_other,no,0
+rep_07367~1478,rep_07367,Planning and Scheduling,operating-systems,neg_same,no,0
+rep_07367~1479,rep_07367,operating systems,operating-systems,pos,yes,0
+rep_07377~1480,rep_07377,time complexity,complexity,neg_other,no,0
+rep_07377~1481,rep_07377,Expert Systems,mobile,neg_same,no,0
+rep_07383~1482,rep_07383,memory management,operating-systems,neg_other,no,0
+rep_07383~1483,rep_07383,Software Design,software-engineering,neg_same,no,0
+rep_07396~1484,rep_07396,neural network,intelligent-systems,neg_same,no,0
+rep_07396~1485,rep_07396,Syntactical Elements,programming-languages,neg_other,no,0
+rep_07403~1486,rep_07403,Recursion,data-structures,neg_same,no,0
+rep_07403~1487,rep_07403,javascript,programming,neg_other,no,1
+rep_07407~1488,rep_07407,Designing the Research Design and Methodology,thesis,neg_other,no,0
+rep_07407~1489,rep_07407,Knowledge Representation and Logic,intelligent-systems,neg_same,no,0
+rep_07411~1490,rep_07411,Natural Language Processing,robotics,pos,yes,0
+rep_07411~1491,rep_07411,The Operating System,platform,neg_other,no,0
+rep_07412~1492,rep_07412,distributed computing,distributed,pos,yes,0
+rep_07412~1493,rep_07412,cluster computing,distributed,neg_same,no,0
+rep_07414~1494,rep_07414,set theory,discrete,neg_same,no,0
+rep_07414~1495,rep_07414,Digital Video,multimedia,neg_other,no,0
+rep_07415~1496,rep_07415,Boolean Algebra and Switching Algebra,discrete,neg_other,no,0
+rep_07415~1497,rep_07415,2D Transformations,graphics,neg_same,no,0
+rep_07426~1498,rep_07426,Planning and Scheduling,intelligent-systems,neg_same,no,0
+rep_07426~1499,rep_07426,robotics,intelligent-systems,pos,yes,1
+rep_07428~1500,rep_07428,Search Strategies,intelligent-systems,neg_same,no,1
+rep_07428~1501,rep_07428,Probability & Statistics for Data Science,data-science,neg_other,no,1
+rep_07432~1502,rep_07432,sql,database,neg_other,no,0
+rep_07432~1503,rep_07432,hci,hci,neg_same,no,0
+rep_07441~1504,rep_07441,Knowledge Representation and Logic,intelligent-systems,neg_same,no,0
+rep_07441~1505,rep_07441,iot,emerging-tech,neg_other,no,0
+rep_07446~1506,rep_07446,Database Management and Information Retrieval,info-management,neg_other,no,0
+rep_07446~1507,rep_07446,intellectual property,spi,neg_same,no,0
+rep_07532~1508,rep_07532,statistics,modeling,neg_same,no,1
+rep_07532~1509,rep_07532,User Interface Design for Mobile,mobile,neg_other,no,1
+rep_07534~1510,rep_07534,Machine Learning Fundamentals,intelligent-systems,neg_same,no,1
+rep_07534~1511,rep_07534,Data Preparation with Excel,business-analytics,neg_other,no,1
+rep_07564~1512,rep_07564,coding,programming,neg_other,no,0
+rep_07564~1513,rep_07564,expert system,intelligent-systems,neg_same,no,0
+rep_07584~1514,rep_07584,Data Preparation with Excel,business-analytics,neg_other,no,1
+rep_07584~1515,rep_07584,Search Strategies,intelligent-systems,neg_same,no,1
+rep_07606~1516,rep_07606,Search Strategies,intelligent-systems,neg_same,no,1
+rep_07606~1517,rep_07606,Introduction to E- Commerce,intro-computing,neg_other,no,0
+rep_07662~1518,rep_07662,Organization and Efficiency,architecture,neg_other,no,0
+rep_07662~1519,rep_07662,Adversarial Search and Games,intelligent-systems,neg_same,no,1
+rep_07694~1520,rep_07694,Neural Networks,intelligent-systems,neg_same,no,1
+rep_07694~1521,rep_07694,artificial intelligence,intelligent-systems,pos,yes,0
+rep_07712~1522,rep_07712,The Definite Integral,calculus,neg_other,no,0
+rep_07712~1523,rep_07712,system model,intelligent-systems,neg_same,no,0
+rep_07717~1524,rep_07717,Planning and Scheduling,intelligent-systems,neg_same,no,0
+rep_07717~1525,rep_07717,Application Layer Protocols,networks,neg_other,no,1
+rep_07736~1526,rep_07736,Objects & Classes,programming,neg_other,no,0
+rep_07736~1527,rep_07736,machine learning,data-science,neg_same,no,0
+rep_07821~1528,rep_07821,Regression,data-science,pos,yes,0
+rep_07821~1529,rep_07821,Probability Distributions for Simulation,modeling,neg_other,no,1
+rep_07841~1530,rep_07841,"Emerging Trends, Technologies, and Applications",emerging-tech,neg_other,no,0
+rep_07841~1531,rep_07841,neural network,intelligent-systems,pos,yes,0
+rep_07846~1532,rep_07846,Analysis and Presentation of Data,thesis,neg_other,no,0
+rep_07846~1533,rep_07846,Computer Vision,intelligent-systems,neg_same,no,0
+rep_07851~1534,rep_07851,Database Indexing,database,neg_other,no,0
+rep_07851~1535,rep_07851,Knowledge Representation and Logic,intelligent-systems,neg_same,no,0
+rep_07861~1536,rep_07861,security,security,pos,yes,1
+rep_07861~1537,rep_07861,Key Components of a Computer System,intro-computing,neg_other,no,0
+rep_07863~1538,rep_07863,Routing Protocols,networks,neg_same,no,0
+rep_07863~1539,rep_07863,dynamic programming,complexity,neg_other,no,0
+rep_07883~1540,rep_07883,Forecasting and Regression,modeling,neg_other,no,1
+rep_07883~1541,rep_07883,Hybrid Intelligent Systems,intelligent-systems,neg_same,no,1
+rep_07909~1542,rep_07909,Python for Data Analysis,data-science,neg_other,no,1
+rep_07909~1543,rep_07909,Planning and Scheduling,intelligent-systems,neg_same,no,0
+rep_08154~1544,rep_08154,Natural Language Processing Deep Learning Basics,data-science,neg_other,no,0
+rep_08154~1545,rep_08154,Modeling with UML,software-engineering,neg_same,no,1
+rep_08169~1546,rep_08169,software engineering,software-engineering,pos,yes,0
+rep_08169~1547,rep_08169,Supervised Learning – Classification Models,data-science,neg_other,no,1
+rep_08191~1548,rep_08191,software engineering,software-engineering,pos,yes,0
+rep_08191~1549,rep_08191,Exploratory Data Analysis,data-science,neg_other,no,0
+rep_08197~1550,rep_08197,Data Science,emerging-tech,neg_other,no,0
+rep_08197~1551,rep_08197,Software Development Life Cycle Models,software-engineering,neg_same,no,0
+rep_08209~1552,rep_08209,Computer Vision,software-engineering,neg_same,no,0
+rep_08209~1553,rep_08209,artificial intelligence,software-engineering,pos,yes,0
+rep_08210~1554,rep_08210,Version Control and Collaboration,software-engineering,neg_same,no,0
+rep_08210~1555,rep_08210,algorithm,programming,neg_other,no,0
+rep_08219~1556,rep_08219,Device Features and Sensors,mobile,neg_other,no,1
+rep_08219~1557,rep_08219,software engineering,software-engineering,pos,yes,0
+rep_08220~1558,rep_08220,IT Career Preparation,internship,neg_other,no,0
+rep_08220~1559,rep_08220,software engineering,software-engineering,pos,yes,0
+rep_08473~1560,rep_08473,visualization,data-science,neg_other,no,0
+rep_08473~1561,rep_08473,Fundamental Laws for Interactive Design,hci,neg_same,no,1
+rep_08638~1562,rep_08638,on the job training,internship,neg_other,no,0
+rep_08638~1563,rep_08638,Predicate Logic,discrete,neg_same,no,0
+rep_08639~1564,rep_08639,Introduction to Human Computer Interaction,hci,neg_other,no,0
+rep_08639~1565,rep_08639,Ethics and Professionalism of Emerging Technologies,emerging-tech,neg_same,no,0
+rep_08651~1566,rep_08651,neural network,intelligent-systems,pos,yes,0
+rep_08651~1567,rep_08651,Computer Vision,intelligent-systems,neg_same,no,0
+rep_08658~1568,rep_08658,Parallel Programming Models,distributed,neg_same,no,1
+rep_08658~1569,rep_08658,Final Preparation: Chapter One,thesis,neg_other,no,1
+rep_08662~1570,rep_08662,Introduction to C-Language,programming,neg_other,no,0
+rep_08662~1571,rep_08662,artificial intelligence,intelligent-systems,pos,yes,0
+rep_08680~1572,rep_08680,Deep Learning,emerging-tech,pos,yes,0
+rep_08680~1573,rep_08680,emerging technology,emerging-tech,neg_same,no,0
+rep_08693~1574,rep_08693,Natural Language Processing (NLP),intelligent-systems,neg_same,no,0
+rep_08693~1575,rep_08693,neural network,intelligent-systems,pos,yes,0
+rep_08714~1576,rep_08714,integration,systems-integration,pos,yes,0
+rep_08714~1577,rep_08714,web services,systems-integration,neg_same,no,0
+rep_08718~1578,rep_08718,Scheduling Algorithms,emerging-tech,neg_same,no,0
+rep_08718~1579,rep_08718,statistics,modeling,neg_other,no,1
+rep_08725~1580,rep_08725,objects,oop,neg_other,no,1
+rep_08725~1581,rep_08725,routing,networks,neg_same,no,0
+rep_08744~1582,rep_08744,Introduction to Intelligent Systems,security,neg_same,no,0
+rep_08744~1583,rep_08744,neural network,security,pos,yes,0
+rep_08758~1584,rep_08758,networking,networks,pos,yes,1
+rep_08758~1585,rep_08758,user interface,hci,neg_other,no,0
+rep_08792~1586,rep_08792,Multimedia Project Production,networks,neg_same,no,0
+rep_08792~1587,rep_08792,Linked Lists,data-structures,neg_other,no,0
+rep_08793~1588,rep_08793,"Writing Chapter 5: Summary, Conclusions, Recommendations",thesis,neg_other,no,0
+rep_08793~1589,rep_08793,data analysis,data-science,neg_same,no,0
+rep_08796~1590,rep_08796,Boolean Algebra,discrete,neg_other,no,0
+rep_08796~1591,rep_08796,"Cloud, Cluster and MapReduce",distributed,neg_same,no,0
+rep_08801~1592,rep_08801,circuit,digital-logic,pos,yes,0
+rep_08801~1593,rep_08801,Ethics and Professionalism of Emerging Technologies,emerging-tech,neg_other,no,0
+rep_08815~1594,rep_08815,"Time, Coordination and Consensus",networks,neg_same,no,0
+rep_08815~1595,rep_08815,Textures and Rendering,graphics,neg_other,no,0
+rep_08818~1596,rep_08818,Actual Data Gathering,thesis,neg_other,no,0
+rep_08818~1597,rep_08818,Introduction to Intelligent Systems,networks,neg_same,no,0
+rep_08825~1598,rep_08825,artificial intelligence,data-science,neg_same,no,0
+rep_08825~1599,rep_08825,research methodology,thesis,neg_other,no,0
+rep_08830~1600,rep_08830,Electric Charge and Fields,physics,neg_other,no,1
+rep_08830~1601,rep_08830,neural network,intelligent-systems,neg_same,no,0
+rep_08843~1602,rep_08843,information system,info-management,neg_other,no,0
+rep_08843~1603,rep_08843,AI Ethics,intelligent-systems,neg_same,no,0
+rep_08865~1604,rep_08865,Mathematical Induction,discrete,neg_same,no,1
+rep_08865~1605,rep_08865,Introduction to Systems Administration,systems-admin,neg_other,no,0
+rep_08872~1606,rep_08872,Transport Layer: TCP and UDP,networks,neg_other,no,0
+rep_08872~1607,rep_08872,Cybersecurity Basics,intro-computing,neg_same,no,0
+rep_08886~1608,rep_08886,statistics,modeling,pos,yes,1
+rep_08886~1609,rep_08886,data analysis,modeling,neg_same,no,0
+rep_08890~1610,rep_08890,Practical Applications and Case Studies,intro-computing,neg_same,no,0
+rep_08890~1611,rep_08890,networking,networks,neg_other,no,1
+rep_08892~1612,rep_08892,OpenGL Programming,graphics,neg_other,no,0
+rep_08892~1613,rep_08892,Number Systems and Data Representation,intro-computing,neg_same,no,0
+rep_08897~1614,rep_08897,Number Systems and Data Representation,intro-computing,neg_same,no,0
+rep_08897~1615,rep_08897,IT Maintenance and Documentation,systems-admin,neg_other,no,0
+rep_08901~1616,rep_08901,Control Flow: Conditional Statements,programming,neg_other,no,0
+rep_08901~1617,rep_08901,Introduction to E- Commerce,intro-computing,neg_same,no,0
+rep_08907~1618,rep_08907,simulation,modeling,pos,yes,1
+rep_08907~1619,rep_08907,multimedia,multimedia,neg_other,no,0
+rep_08927~1620,rep_08927,Incident Response,security,neg_other,no,0
+rep_08927~1621,rep_08927,introduction to computing,intro-computing,neg_same,no,0
+rep_08938~1622,rep_08938,Software Evolution,software-engineering,neg_same,no,0
+rep_08938~1623,rep_08938,software engineering,software-engineering,pos,yes,0
+rep_08963~1624,rep_08963,software engineering,software-engineering,pos,yes,0
+rep_08963~1625,rep_08963,Number Systems and Codes,digital-logic,neg_other,no,0
+rep_08967~1626,rep_08967,Parallel Programming Models,distributed,neg_other,no,1
+rep_08967~1627,rep_08967,Agile Methods and Scrum,software-engineering,neg_same,no,0
+rep_08973~1628,rep_08973,software engineering,software-engineering,pos,yes,0
+rep_08973~1629,rep_08973,Expert Systems,software-engineering,neg_same,no,0
+rep_08989~1630,rep_08989,web services,integrative,neg_other,no,0
+rep_08989~1631,rep_08989,software engineering,software-engineering,pos,yes,0
+rep_09006~1632,rep_09006,The Greedy Approach,complexity,neg_other,no,0
+rep_09006~1633,rep_09006,software engineering,software-engineering,pos,yes,0
+rep_09058~1634,rep_09058,Rotational Motion,physics,neg_other,no,0
+rep_09058~1635,rep_09058,Fuzzy Logic and Genetic Algorithms,intelligent-systems,neg_same,no,0
+rep_09060~1636,rep_09060,Fuzzy Logic and Genetic Algorithms,intelligent-systems,neg_same,no,0
+rep_09060~1637,rep_09060,Data Governance,info-management,neg_other,no,1
+rep_09064~1638,rep_09064,Incident Response,security,neg_other,no,0
+rep_09064~1639,rep_09064,usability,hci,pos,yes,0
+rep_09072~1640,rep_09072,user interface,hci,neg_same,no,0
+rep_09072~1641,rep_09072,user experience,hci,pos,yes,0
+rep_09085~1642,rep_09085,Uncertainty and Probabilistic Reasoning,intelligent-systems,neg_same,no,0
+rep_09085~1643,rep_09085,Organization and Efficiency,architecture,neg_other,no,0
+rep_09097~1644,rep_09097,Adversarial Search and Games,spi,neg_same,no,1
+rep_09097~1645,rep_09097,Information Architecture,info-management,neg_other,no,1
+rep_09111~1646,rep_09111,Probability & Statistics for Data Science,data-science,neg_same,no,1
+rep_09111~1647,rep_09111,Number Systems and Codes,digital-logic,neg_other,no,0
+rep_09116~1648,rep_09116,Workplace Issues in Computing,spi,neg_other,no,0
+rep_09116~1649,rep_09116,Computer Vision,intelligent-systems,neg_same,no,0
+rep_09120~1650,rep_09120,Machine Learning Fundamentals,intelligent-systems,neg_same,no,1
+rep_09120~1651,rep_09120,Implicit and Higher-Order Derivatives,calculus,neg_other,no,0
+rep_09126~1652,rep_09126,"Privacy, Risk, Compliance, and Ethics",info-management,neg_other,no,0
+rep_09126~1653,rep_09126,Planning and Scheduling,intelligent-systems,neg_same,no,0
+rep_09127~1654,rep_09127,Introduction to Parallel and Distributed Computing,distributed,neg_other,no,0
+rep_09127~1655,rep_09127,Hybrid Intelligent Systems,intelligent-systems,neg_same,no,1
+rep_09149~1656,rep_09149,"Networks, Internet and Internet Protocols",intro-computing,neg_other,no,0
+rep_09149~1657,rep_09149,software engineering,software-engineering,pos,yes,0
+rep_09171~1658,rep_09171,software engineering,software-engineering,pos,yes,0
+rep_09171~1659,rep_09171,Software Verification and Validation,software-engineering,neg_same,no,1
+rep_09176~1660,rep_09176,Workplace Issues in Computing,spi,neg_same,no,0
+rep_09176~1661,rep_09176,Software Design,software-engineering,neg_other,no,0
+rep_09183~1662,rep_09183,Modeling with UML,software-engineering,neg_same,no,1
+rep_09183~1663,rep_09183,literature review,thesis,neg_other,no,0
+rep_09204~1664,rep_09204,Introduction to Information Security,security,neg_other,no,0
+rep_09204~1665,rep_09204,software engineering,software-engineering,pos,yes,0
+rep_09221~1666,rep_09221,software engineering,software-engineering,pos,yes,0
+rep_09221~1667,rep_09221,Software Evolution,software-engineering,neg_same,no,0
+rep_09226~1668,rep_09226,software engineering,software-engineering,pos,yes,0
+rep_09226~1669,rep_09226,Software Design,software-engineering,neg_same,no,0
+rep_09242~1670,rep_09242,Thesis Compilation & Manuscript Editing,thesis,neg_other,no,0
+rep_09242~1671,rep_09242,History of Computing,intro-computing,neg_same,no,1
+rep_09271~1672,rep_09271,artificial intelligence,intelligent-systems,pos,yes,0
+rep_09271~1673,rep_09271,data governance,info-management,neg_other,no,1
+rep_09286~1674,rep_09286,artificial intelligence,security,pos,yes,0
+rep_09286~1675,rep_09286,Planning and Scheduling,security,neg_same,no,0
+rep_09290~1676,rep_09290,seguridad ng impormasyon,security,neg_other,no,0
+rep_09290~1677,rep_09290,artificial intelligence,intelligent-systems,pos,yes,0
+rep_09315~1678,rep_09315,Introduction to Object Oriented Programming,oop,neg_other,no,0
+rep_09315~1679,rep_09315,artificial intelligence,security,pos,yes,0
+rep_09342~1680,rep_09342,OSI and TCP/IP Models,networks,neg_other,no,0
+rep_09342~1681,rep_09342,machine learning,intelligent-systems,pos,yes,0
+rep_09390~1682,rep_09390,Uncertainty and Probabilistic Reasoning,intelligent-systems,neg_same,no,0
+rep_09390~1683,rep_09390,"The Internet, Intranets, and Extranets",info-management,neg_other,no,0
+rep_09421~1684,rep_09421,artificial intelligence,intelligent-systems,pos,yes,0
+rep_09421~1685,rep_09421,Computer Vision,intelligent-systems,neg_same,no,0
+rep_09432~1686,rep_09432,Fuzzy Logic Systems Robotics and Perception,intelligent-systems,neg_same,no,1
+rep_09432~1687,rep_09432,graphic design,multimedia,neg_other,no,1
+rep_09453~1688,rep_09453,Color Models,graphics,neg_other,no,0
+rep_09453~1689,rep_09453,"Cloud, Cluster and MapReduce",distributed,neg_same,no,0
+rep_09454~1690,rep_09454,"Locks, Semaphores and Deadlock",security,neg_same,no,0
+rep_09454~1691,rep_09454,Internal Memory,architecture,neg_other,no,0
+rep_09457~1692,rep_09457,Ethics in Computing,spi,neg_other,no,0
+rep_09457~1693,rep_09457,Performance Analysis,distributed,neg_same,no,0
+rep_09462~1694,rep_09462,Natural Language Processing (NLP),distributed,neg_same,no,0
+rep_09462~1695,rep_09462,waves,physics,neg_other,no,0
+rep_09464~1696,rep_09464,Routing Protocols,networks,neg_other,no,0
+rep_09464~1697,rep_09464,Performance Analysis,distributed,neg_same,no,0
+rep_09468~1698,rep_09468,Introduction to Artificial Intelligence,intelligent-systems,neg_other,no,0
+rep_09468~1699,rep_09468,concurrent programming,distributed,neg_same,no,0
+rep_09476~1700,rep_09476,Security Maintenance Models,security,neg_same,no,0
+rep_09476~1701,rep_09476,cloud computing,security,pos,yes,0
+rep_09478~1702,rep_09478,cluster computing,distributed,neg_same,no,0
+rep_09478~1703,rep_09478,linked list,data-structures,neg_other,no,0
+rep_09479~1704,rep_09479,Device Features and Sensors,mobile,neg_other,no,1
+rep_09479~1705,rep_09479,cloud computing,emerging-tech,pos,yes,0
+rep_09486~1706,rep_09486,artificial intelligence,intelligent-systems,pos,yes,0
+rep_09486~1707,rep_09486,system design,systems-integration,neg_other,no,1
+rep_09507~1708,rep_09507,Search Strategies,intelligent-systems,neg_same,no,1
+rep_09507~1709,rep_09507,parallel computing,distributed,neg_other,no,0
+rep_09524~1710,rep_09524,wireless,networks,pos,yes,1
+rep_09524~1711,rep_09524,Transport Layer: TCP and UDP,networks,neg_same,no,0
+rep_09537~1712,rep_09537,Input/Output,architecture,neg_same,no,0
+rep_09537~1713,rep_09537,"File Management, Network, and Security",operating-systems,neg_other,no,0
+rep_09542~1714,rep_09542,Prescriptive Analytics,business-analytics,neg_other,no,0
+rep_09542~1715,rep_09542,Systems Analysis and Design,systems-integration,neg_same,no,1
+rep_09546~1716,rep_09546,Industry Visit & Professional Readiness,spi,neg_same,no,1
+rep_09546~1717,rep_09546,postgresql,database,neg_other,no,0
+rep_09552~1718,rep_09552,Computer Vision,intelligent-systems,neg_same,no,0
+rep_09552~1719,rep_09552,On-the-Job Training Tasks,internship,neg_other,no,0
+rep_09561~1720,rep_09561,neural network,intelligent-systems,neg_same,no,0
+rep_09561~1721,rep_09561,Cultural and Global Issues in Computing,spi,neg_other,no,1
+rep_09580~1722,rep_09580,Monte Carlo Simulation,modeling,neg_other,no,0
+rep_09580~1723,rep_09580,A Top-Level View of Computer Function and Interconnection,architecture,neg_same,no,1
+rep_09606~1724,rep_09606,internet of things,emerging-tech,pos,yes,0
+rep_09606~1725,rep_09606,Introduction to Data Science,data-science,neg_other,no,0
+rep_09610~1726,rep_09610,Containers and Docker,platform,neg_other,no,0
+rep_09610~1727,rep_09610,Natural Language Processing,intelligent-systems,neg_same,no,0
+rep_09638~1728,rep_09638,Strings,programming,neg_other,no,0
+rep_09638~1729,rep_09638,Hybrid Intelligent Systems,intelligent-systems,neg_same,no,1
+rep_09646~1730,rep_09646,expert system,intelligent-systems,neg_same,no,0
+rep_09646~1731,rep_09646,3D Modeling Basics,multimedia,neg_other,no,0
+rep_09654~1732,rep_09654,Enterprise Systems,info-management,neg_other,no,1
+rep_09654~1733,rep_09654,machine learning,intelligent-systems,neg_same,no,0
+rep_09656~1734,rep_09656,"Locks, Semaphores and Deadlock",distributed,neg_same,no,0
+rep_09656~1735,rep_09656,introduction to computing,intro-computing,neg_other,no,0
+rep_09664~1736,rep_09664,artificial intelligence,intelligent-systems,pos,yes,0
+rep_09664~1737,rep_09664,Fuzzy Logic Systems Robotics and Perception,intelligent-systems,neg_same,no,1
+rep_09665~1738,rep_09665,Oscillations and Waves,physics,neg_other,no,0
+rep_09665~1739,rep_09665,Evolution of Computing,intro-computing,neg_same,no,0
+rep_09669~1740,rep_09669,Number Systems and Data Representation,intro-computing,neg_same,no,0
+rep_09669~1741,rep_09669,user experience,hci,neg_other,no,0
+rep_09681~1742,rep_09681,computer architecture,architecture,neg_other,no,0
+rep_09681~1743,rep_09681,neural network,intelligent-systems,neg_same,no,0
+rep_09682~1744,rep_09682,machine learning,intelligent-systems,neg_same,no,0
+rep_09682~1745,rep_09682,Utilize Model-Based Design,hci,neg_other,no,0
+rep_09708~1746,rep_09708,AI Ethics,intelligent-systems,neg_same,no,0
+rep_09708~1747,rep_09708,AES Operation and Key Management,security,neg_other,no,0
+rep_09717~1748,rep_09717,Relations and Functions,discrete,neg_same,no,0
+rep_09717~1749,rep_09717,logic,discrete,pos,yes,0
+rep_09720~1750,rep_09720,automata,automata,neg_same,no,1
+rep_09720~1751,rep_09720,network security,security,neg_other,no,0
+rep_09742~1752,rep_09742,expert system,intelligent-systems,neg_same,no,0
+rep_09742~1753,rep_09742,neural network,intelligent-systems,pos,yes,0
+rep_09753~1754,rep_09753,Trees and Languages,discrete,neg_same,no,0
+rep_09753~1755,rep_09753,Device Management & RAID,operating-systems,neg_other,no,0
+rep_09756~1756,rep_09756,"Emerging Trends, Technologies, and Applications",emerging-tech,neg_other,no,0
+rep_09756~1757,rep_09756,Embedded Systems Basics,robotics,neg_same,no,0
+rep_09758~1758,rep_09758,Database Management and Information Retrieval,info-management,neg_other,no,0
+rep_09758~1759,rep_09758,Neural Networks,intelligent-systems,pos,yes,1
+rep_09770~1760,rep_09770,Fuzzy Logic Systems Robotics and Perception,intelligent-systems,neg_same,no,1
+rep_09770~1761,rep_09770,Computer Arithmetic and Digital Logic,architecture,neg_other,no,0
+rep_09794~1762,rep_09794,expert system,intelligent-systems,neg_same,no,0
+rep_09794~1763,rep_09794,Natural Language Processing Deep Learning Basics,data-science,neg_other,no,0
+rep_09796~1764,rep_09796,Planning and Scheduling,intelligent-systems,neg_same,no,0
+rep_09796~1765,rep_09796,Information Security and Privacy,info-management,neg_other,no,0
+rep_09798~1766,rep_09798,Integration Patterns and Middleware,systems-integration,neg_other,no,0
+rep_09798~1767,rep_09798,Introduction to Intelligent Systems,intelligent-systems,neg_same,no,0
+rep_09801~1768,rep_09801,on the job training,internship,neg_same,no,0
+rep_09801~1769,rep_09801,practicum,internship,pos,yes,0
+rep_09804~1770,rep_09804,maintenance,systems-admin,neg_other,no,0
+rep_09804~1771,rep_09804,Computer Vision,intelligent-systems,neg_same,no,0
+rep_09816~1772,rep_09816,information security,security,neg_other,no,0
+rep_09816~1773,rep_09816,Introduction to Artificial Intelligence,intelligent-systems,neg_same,no,0
+rep_09824~1774,rep_09824,Model Evaluation,data-science,neg_same,no,0
+rep_09824~1775,rep_09824,IT Project and Change Management,systems-integration,neg_other,no,0

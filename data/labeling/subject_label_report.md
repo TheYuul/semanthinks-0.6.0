@@ -1,0 +1,42 @@
+# Subject labeling report
+
+- usable labels: 1010  |  conflicts: 0  |  flagged not CS/IT: 490  |  problems: 0
+
+## Coverage (target 60 per subject)
+- physics: 0  <-- below target
+- digital-logic: 1  <-- below target
+- business-analytics: 1  <-- below target
+- calculus: 2  <-- below target
+- automata: 4  <-- below target
+- systems-admin: 4  <-- below target
+- multimedia: 5  <-- below target
+- thesis: 6  <-- below target
+- internship: 6  <-- below target
+- complexity: 8  <-- below target
+- integrative: 9  <-- below target
+- oop: 10  <-- below target
+- programming-languages: 11  <-- below target
+- architecture: 12  <-- below target
+- systems-integration: 16  <-- below target
+- discrete: 17  <-- below target
+- modeling: 17  <-- below target
+- spi: 18  <-- below target
+- graphics: 19  <-- below target
+- robotics: 21  <-- below target
+- emerging-tech: 23  <-- below target
+- info-management: 24  <-- below target
+- database: 30  <-- below target
+- mobile: 30  <-- below target
+- platform: 30  <-- below target
+- hci: 39  <-- below target
+- data-structures: 41  <-- below target
+- distributed: 41  <-- below target
+- intro-computing: 44  <-- below target
+- networks: 44  <-- below target
+- programming: 45  <-- below target
+- data-science: 47  <-- below target
+- operating-systems: 50  <-- below target
+- web: 77
+- security: 89
+- software-engineering: 119
+- intelligent-systems: 223

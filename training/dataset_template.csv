@@ -1,0 +1,5 @@
+id,text,image_path,label,language,source,context
+yt-0001,"Finite Automata and Regular Expressions Explained | Automata Theory Lecture",thumbs/yt-0001.jpg,relevant,en,youtube,"Automata Theory & Formal Languages"
+yt-0002,"Mga Pangunahing Konsepto ng Database at SQL (Tagalog Tutorial)",thumbs/yt-0002.jpg,relevant,tl,youtube,"Database Management Systems"
+yt-0003,"TRY NOT TO LAUGH challenge - funniest pranks of the year",thumbs/yt-0003.jpg,distracting,en,youtube,"Computer Programming 1 & 2"
+art-0001,"Sponsored: 10 gadgets you need to buy now, limited offer!",,distracting,en,article,

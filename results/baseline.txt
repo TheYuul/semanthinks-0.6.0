@@ -1,0 +1,2 @@
+cosine-only                  accuracy=0.544±0.027  precision=0.915±0.023  recall=0.329±0.055  f1=0.481±0.055  false_positive_rate=0.059±0.027
+zero-shot (S - S_distract)   accuracy=0.565±0.014  precision=0.923±0.011  recall=0.359±0.027  f1=0.517±0.026  false_positive_rate=0.055±0.012

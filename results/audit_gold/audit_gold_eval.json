@@ -1,0 +1,41 @@
+{
+ "n": 353,
+ "human_vs_dataset": {
+  "agreement": 0.6543909348441926,
+  "ci": [
+   0.6033573918599192,
+   0.7021002677851446
+  ],
+  "kappa": 0.32170982170982165
+ },
+ "models": {
+  "text-only head (257-d)": {
+   "hide_threshold": 0.33,
+   "vs_human": {
+    "accuracy": 0.8158640226628895,
+    "precision": 0.7962962962962963,
+    "recall": 0.6666666666666666,
+    "f1": 0.7257383966244726,
+    "false_positive_rate": 0.09821428571428571,
+    "tp": 86,
+    "tn": 202,
+    "fp": 22,
+    "fn": 43
+   },
+   "vs_dataset_label": {
+    "accuracy": 0.7252124645892352,
+    "precision": 0.9259259259259259,
+    "recall": 0.5291005291005291,
+    "f1": 0.6734006734006734,
+    "false_positive_rate": 0.04878048780487805,
+    "tp": 100,
+    "tn": 156,
+    "fp": 8,
+    "fn": 89
+   },
+   "accuracy_where_human_and_dataset_agree": 0.9134199134199135,
+   "accuracy_where_they_disagree_vs_human": 0.6311475409836066,
+   "agreement_with_human_kappa": 0.5887771744000573
+  }
+ }
+}

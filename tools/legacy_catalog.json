@@ -1,0 +1,547 @@
+{
+ "Computer Science": {
+  "cs-programming": {
+   "label": "Computer Programming",
+   "keywords": [
+    "programming",
+    "coding",
+    "algorithm",
+    "java",
+    "python",
+    "c++",
+    "javascript",
+    "variables",
+    "functions",
+    "pagpoprograma",
+    "mag-code"
+   ]
+  },
+  "cs-discrete": {
+   "label": "Discrete Structures",
+   "keywords": [
+    "discrete mathematics",
+    "logic",
+    "set theory",
+    "proof",
+    "graph theory",
+    "combinatorics",
+    "boolean algebra"
+   ]
+  },
+  "cs-database": {
+   "label": "Database Management Systems",
+   "keywords": [
+    "database",
+    "sql",
+    "mysql",
+    "postgresql",
+    "normalization",
+    "erd",
+    "entity relationship",
+    "talaan ng datos"
+   ]
+  },
+  "cs-information-management": {
+   "label": "Information Management",
+   "keywords": [
+    "information management",
+    "data management",
+    "information system",
+    "data governance"
+   ]
+  },
+  "cs-data-structures": {
+   "label": "Data Structures & Algorithms",
+   "keywords": [
+    "data structures",
+    "algorithms",
+    "array",
+    "linked list",
+    "stack",
+    "queue",
+    "tree",
+    "sorting"
+   ]
+  },
+  "cs-calculus": {
+   "label": "Calculus for Computing",
+   "keywords": [
+    "calculus",
+    "derivative",
+    "integral",
+    "differential",
+    "mathematical modeling",
+    "kalkulus"
+   ]
+  },
+  "cs-digital-logic": {
+   "label": "Digital Logic Design",
+   "keywords": [
+    "digital logic",
+    "logic gates",
+    "circuit",
+    "flip flop",
+    "verilog",
+    "boolean algebra"
+   ]
+  },
+  "cs-graphics": {
+   "label": "Graphics & Visual Computing",
+   "keywords": [
+    "computer graphics",
+    "visual computing",
+    "opengl",
+    "rendering",
+    "3d graphics",
+    "animation"
+   ]
+  },
+  "cs-security": {
+   "label": "Information Assurance & Security",
+   "keywords": [
+    "cybersecurity",
+    "information security",
+    "network security",
+    "cryptography",
+    "ethical hacking",
+    "security",
+    "seguridad ng impormasyon",
+    "seguridad sa impormasyon"
+   ]
+  },
+  "cs-robotics": {
+   "label": "Microprocessor & Robotics",
+   "keywords": [
+    "microprocessor",
+    "robotics",
+    "arduino",
+    "embedded systems",
+    "raspberry pi",
+    "sensors"
+   ]
+  },
+  "cs-networks": {
+   "label": "Networks & Communications",
+   "keywords": [
+    "computer networks",
+    "networking",
+    "tcp ip",
+    "routing",
+    "switching",
+    "wireless",
+    "kompyuter network"
+   ]
+  },
+  "cs-oop": {
+   "label": "Object-Oriented Programming",
+   "keywords": [
+    "object oriented programming",
+    "oop",
+    "classes",
+    "objects",
+    "inheritance",
+    "java",
+    "c#"
+   ]
+  },
+  "cs-data-science": {
+   "label": "Practical Data Science",
+   "keywords": [
+    "data science",
+    "data analysis",
+    "pandas",
+    "visualization",
+    "dataset",
+    "machine learning",
+    "agham ng datos",
+    "pagsusuri ng datos"
+   ]
+  },
+  "cs-programming-languages": {
+   "label": "Programming Languages",
+   "keywords": [
+    "programming languages",
+    "compiler",
+    "interpreter",
+    "syntax",
+    "language design"
+   ]
+  },
+  "cs-complexity": {
+   "label": "Algorithm & Complexity",
+   "keywords": [
+    "algorithm complexity",
+    "big o",
+    "time complexity",
+    "computational complexity",
+    "dynamic programming"
+   ]
+  },
+  "cs-emerging-tech": {
+   "label": "Application Development & Emerging Technology",
+   "keywords": [
+    "application development",
+    "emerging technology",
+    "cloud computing",
+    "internet of things",
+    "iot"
+   ]
+  },
+  "cs-architecture": {
+   "label": "Architecture & Organization",
+   "keywords": [
+    "computer architecture",
+    "computer organization",
+    "cpu",
+    "memory",
+    "assembly language",
+    "arkitektura ng kompyuter"
+   ]
+  },
+  "cs-hci": {
+   "label": "Human & Computer Interaction",
+   "keywords": [
+    "human computer interaction",
+    "hci",
+    "user experience",
+    "ux",
+    "usability",
+    "user interface"
+   ]
+  },
+  "cs-intelligent-systems": {
+   "label": "Intelligent Systems",
+   "keywords": [
+    "artificial intelligence",
+    "ai",
+    "machine learning",
+    "neural network",
+    "expert system"
+   ]
+  },
+  "cs-mobile": {
+   "label": "Mobile Application Development",
+   "keywords": [
+    "mobile development",
+    "android",
+    "ios",
+    "flutter",
+    "react native",
+    "kotlin",
+    "swift"
+   ]
+  },
+  "cs-modeling": {
+   "label": "Modeling & Simulation",
+   "keywords": [
+    "modeling",
+    "simulation",
+    "simulink",
+    "system model",
+    "quantitative methods"
+   ]
+  },
+  "cs-operating-systems": {
+   "label": "Operating Systems",
+   "keywords": [
+    "operating systems",
+    "process scheduling",
+    "memory management",
+    "linux",
+    "kernel",
+    "threads"
+   ]
+  },
+  "cs-distributed": {
+   "label": "Parallel & Distributed Computing",
+   "keywords": [
+    "distributed computing",
+    "parallel computing",
+    "concurrent programming",
+    "cluster computing"
+   ]
+  },
+  "cs-software-engineering": {
+   "label": "Software Engineering",
+   "keywords": [
+    "software engineering",
+    "software development",
+    "agile",
+    "scrum",
+    "testing",
+    "software design"
+   ]
+  },
+  "cs-automata": {
+   "label": "Automata Theory & Formal Languages",
+   "keywords": [
+    "automata",
+    "formal languages",
+    "finite state machine",
+    "regular expression",
+    "turing machine"
+   ]
+  },
+  "cs-thesis": {
+   "label": "Thesis & Research",
+   "keywords": [
+    "thesis",
+    "research methodology",
+    "literature review",
+    "research paper",
+    "capstone",
+    "tesis",
+    "pananaliksik"
+   ]
+  }
+ },
+ "Information Technology": {
+  "it-programming": {
+   "label": "Computer Programming",
+   "keywords": [
+    "programming",
+    "coding",
+    "java",
+    "python",
+    "c++",
+    "javascript",
+    "variables",
+    "functions",
+    "pagpoprograma",
+    "mag-code"
+   ]
+  },
+  "it-discrete": {
+   "label": "Discrete Mathematics",
+   "keywords": [
+    "discrete mathematics",
+    "logic",
+    "set theory",
+    "proof",
+    "graph theory",
+    "combinatorics"
+   ]
+  },
+  "it-database": {
+   "label": "Database Management Systems",
+   "keywords": [
+    "database",
+    "sql",
+    "mysql",
+    "postgresql",
+    "normalization",
+    "erd",
+    "entity relationship",
+    "talaan ng datos"
+   ]
+  },
+  "it-business-analytics": {
+   "label": "Business Analytics",
+   "keywords": [
+    "business analytics",
+    "business intelligence",
+    "data analysis",
+    "dashboard",
+    "power bi",
+    "excel analytics"
+   ]
+  },
+  "it-data-structures": {
+   "label": "Data Structures & Algorithm",
+   "keywords": [
+    "data structures",
+    "algorithms",
+    "array",
+    "linked list",
+    "stack",
+    "queue",
+    "tree",
+    "sorting"
+   ]
+  },
+  "it-information-management": {
+   "label": "Information Management",
+   "keywords": [
+    "information management",
+    "data management",
+    "information system",
+    "data governance"
+   ]
+  },
+  "it-platform": {
+   "label": "Platform Technologies",
+   "keywords": [
+    "platform technologies",
+    "cloud computing",
+    "virtualization",
+    "web platform",
+    "deployment"
+   ]
+  },
+  "it-web": {
+   "label": "Web Development",
+   "keywords": [
+    "web development",
+    "html",
+    "css",
+    "javascript",
+    "frontend",
+    "backend",
+    "website"
+   ]
+  },
+  "it-hci": {
+   "label": "Human Computer Interaction",
+   "keywords": [
+    "human computer interaction",
+    "hci",
+    "user experience",
+    "ux",
+    "usability",
+    "user interface"
+   ]
+  },
+  "it-integrative": {
+   "label": "Integrative Programming & Technologies",
+   "keywords": [
+    "integrative programming",
+    "api",
+    "integration",
+    "web services",
+    "software integration"
+   ]
+  },
+  "it-networking": {
+   "label": "Networking",
+   "keywords": [
+    "computer networks",
+    "networking",
+    "tcp ip",
+    "routing",
+    "switching",
+    "wireless",
+    "kompyuter network"
+   ]
+  },
+  "it-emerging-tech": {
+   "label": "Application Development & Emerging Technology",
+   "keywords": [
+    "application development",
+    "emerging technology",
+    "cloud computing",
+    "internet of things",
+    "iot"
+   ]
+  },
+  "it-data-science": {
+   "label": "Practical Data Science",
+   "keywords": [
+    "data science",
+    "data analysis",
+    "pandas",
+    "visualization",
+    "dataset",
+    "machine learning",
+    "agham ng datos",
+    "pagsusuri ng datos"
+   ]
+  },
+  "it-multimedia": {
+   "label": "Multimedia",
+   "keywords": [
+    "multimedia",
+    "digital media",
+    "video editing",
+    "graphic design",
+    "audio editing"
+   ]
+  },
+  "it-systems-integration": {
+   "label": "Systems Integration & Architecture",
+   "keywords": [
+    "systems integration",
+    "system architecture",
+    "enterprise architecture",
+    "system design"
+   ]
+  },
+  "it-security": {
+   "label": "Information Assurance & Security",
+   "keywords": [
+    "cybersecurity",
+    "information security",
+    "network security",
+    "cryptography",
+    "ethical hacking",
+    "security",
+    "seguridad ng impormasyon",
+    "seguridad sa impormasyon"
+   ]
+  },
+  "it-capstone": {
+   "label": "Capstone Project & Research",
+   "keywords": [
+    "capstone",
+    "research methodology",
+    "literature review",
+    "research paper",
+    "project proposal",
+    "pananaliksik"
+   ]
+  },
+  "it-mobile": {
+   "label": "Mobile Application Development",
+   "keywords": [
+    "mobile development",
+    "android",
+    "ios",
+    "flutter",
+    "react native",
+    "kotlin",
+    "swift"
+   ]
+  },
+  "it-oop": {
+   "label": "Object-Oriented Programming",
+   "keywords": [
+    "object oriented programming",
+    "oop",
+    "classes",
+    "objects",
+    "inheritance",
+    "java",
+    "c#"
+   ]
+  },
+  "it-quantitative": {
+   "label": "Quantitative Methods & Modeling",
+   "keywords": [
+    "quantitative methods",
+    "modeling",
+    "simulation",
+    "statistics",
+    "data analysis"
+   ]
+  },
+  "it-systems-admin": {
+   "label": "Systems Administration & Maintenance",
+   "keywords": [
+    "systems administration",
+    "server administration",
+    "linux administration",
+    "windows server",
+    "maintenance"
+   ]
+  },
+  "it-internship": {
+   "label": "Practicum / Internship",
+   "keywords": [
+    "internship",
+    "practicum",
+    "on the job training",
+    "it career",
+    "portfolio"
+   ]
+  }
+ }
+}

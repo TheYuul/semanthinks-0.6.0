@@ -1,0 +1,1501 @@
+id,subject_1,subject_2,subject_3,not_csit,note
+rep_08758,networks,intelligent-systems,,,
+rep_01938,distributed,,,,
+rep_08398,,,,Y,medical study
+rep_06468,,,,Y,biochemistry
+rep_07470,,,,Y,pure mathematics
+rep_05004,data-science,,,,unsure
+yt_00421,data-structures,,,,
+rep_01901,operating-systems,,,,
+rep_00122,data-science,,,,unsure
+yt_00450,data-structures,,,,
+rep_06385,programming,,,,unsure
+yt_05375,intro-computing,,,,
+yt_04116,data-structures,,,,
+art_05411,intelligent-systems,,,,unsure
+yt_03901,web,,,,
+rep_00190,info-management,,,,
+yt_11970,,,,Y,movie trailer
+art_02927,,,,Y,physics news
+yt_04995,operating-systems,,,,
+rep_06560,,,,Y,medical study
+rep_00849,,,,Y,biology
+rep_01617,graphics,data-structures,,,
+rep_03219,intelligent-systems,,,,
+art_07584,programming,,,,unsure
+art_03354,programming,,,,
+rep_08818,networks,intelligent-systems,,,unsure
+rep_07081,software-engineering,,,,
+rep_02502,,,,Y,business library guide
+yt_00585,security,,,,
+rep_00211,security,,,,
+rep_00268,mobile,software-engineering,,,unsure
+rep_01548,software-engineering,,,,
+rep_07909,intelligent-systems,,,,unsure
+rep_01783,data-science,spi,,,
+rep_00449,,,,Y,education study
+rep_09656,distributed,,,,unsure
+rep_05385,data-science,,,,
+yt_10824,operating-systems,,,,
+yt_05278,web,programming,,,
+rep_00265,software-engineering,mobile,,,
+rep_08651,intelligent-systems,,,,
+art_00458,,,,Y,product announcement
+art_08885,software-engineering,,,,
+rep_09524,networks,,,,
+rep_07151,intelligent-systems,,,,
+rep_03648,architecture,,,,
+rep_01470,spi,,,,
+art_01683,,,,Y,vendor press release
+rep_09519,,,,Y,metabolomics
+yt_05732,web,,,,
+rep_09646,intelligent-systems,,,,
+art_00436,,,,Y,business news
+art_08346,,,,Y,news
+rep_08475,,,,Y,medical imaging
+yt_07369,security,,,,
+rep_03275,software-engineering,intelligent-systems,,,
+rep_00140,hci,intelligent-systems,,,
+rep_09316,,,,Y,molecular biology
+yt_11496,,,,Y,history video
+rep_07163,intelligent-systems,programming-languages,,,
+rep_04911,graphics,hci,,,
+yt_00455,data-structures,,,,
+rep_01743,intelligent-systems,,,,unsure
+yt_06638,operating-systems,,,,
+art_08579,,,,Y,AI company news
+yt_11304,,,,Y,movie trailer
+art_09448,intelligent-systems,,,,unsure
+yt_00919,discrete,,,,
+rep_00198,info-management,,,,
+rep_05294,,,,Y,mathematical biology
+art_03057,,,,Y,sports news
+rep_00521,,,,Y,marketing study
+rep_04709,,,,Y,civil engineering
+yt_10755,data-structures,,,,
+rep_09798,intelligent-systems,,,,
+rep_00216,,,,Y,healthcare policy
+yt_00549,networks,,,,
+rep_01900,operating-systems,distributed,,,
+rep_05740,,,,Y,physics
+rep_00088,intelligent-systems,,,,
+yt_06527,intro-computing,,,,
+art_03188,,,,Y,finance
+art_07505,robotics,intelligent-systems,,,
+rep_04793,,,,Y,medical study
+rep_07863,networks,,,,unsure
+art_03466,software-engineering,,,,
+yt_06246,intro-computing,,,,unsure
+yt_05646,web,programming,,,
+rep_09794,intelligent-systems,,,,
+art_04957,,,,Y,materials science news
+yt_00537,networks,,,,
+rep_05037,,,,Y,chemistry
+rep_05598,,,,Y,medical imaging
+art_02488,,,,Y,grant announcement
+art_02898,,,,Y,biology AI news
+yt_07222,web,,,,
+rep_06819,intelligent-systems,,,,
+rep_07299,intelligent-systems,,,,
+rep_00128,data-science,,,,unsure
+rep_09561,intelligent-systems,,,,unsure
+art_08425,,,,Y,medical news
+rep_05731,,,,Y,physics
+yt_10775,data-structures,,,,
+yt_04053,intro-computing,,,,
+rep_05032,data-science,,,,unsure
+art_05658,systems-admin,,,,unsure
+rep_08718,emerging-tech,platform,,,
+yt_00113,intro-computing,,,,
+yt_06064,data-structures,,,,
+rep_01790,hci,,,,
+rep_00438,,,,Y,medical education
+yt_05384,web,,,,
+rep_00117,,,,Y,health curriculum
+rep_04972,data-science,,,,unsure
+yt_00484,operating-systems,,,,
+art_03606,,,,Y,gadget news
+rep_02946,intelligent-systems,,,,unsure
+rep_05444,intelligent-systems,,,,unsure
+art_00598,operating-systems,,,,unsure
+rep_05952,programming,software-engineering,,,
+rep_04830,intelligent-systems,,,,
+rep_08545,,,,Y,veterinary genomics
+art_09462,programming-languages,,,,unsure
+rep_05155,graphics,,,,
+rep_09462,distributed,intelligent-systems,,,
+rep_01399,,,,Y,medical
+rep_08730,,,,Y,cancer genomics
+rep_05517,,,,Y,economics
+rep_01863,database,distributed,,,
+rep_01958,distributed,,,,
+art_07852,programming,,,,unsure
+rep_00256,software-engineering,,,,
+rep_01945,distributed,,,,unsure
+rep_00273,hci,mobile,,,unsure
+rep_07632,,,,Y,finance
+yt_00554,networks,,,,
+rep_01917,operating-systems,,,,
+rep_01279,,,,Y,epidemiology
+yt_00156,software-engineering,,,,
+art_07907,,,,Y,marketing guide
+yt_05808,security,,,,
+yt_03124,data-structures,,,,
+rep_06686,,,,Y,manufacturing metrology
+yt_06628,networks,,,,
+art_00504,,,,Y,stock news
+rep_01898,operating-systems,distributed,,,
+rep_08473,hci,,,,unsure
+rep_06870,hci,,,,
+art_04829,,,,Y,crime news
+art_00668,,,,Y,political news
+rep_09436,,,,Y,medical
+art_05522,web,,,,
+art_08609,,,,Y,gadget review
+rep_05532,,,,Y,economics
+rep_01632,data-structures,multimedia,,,
+rep_03325,software-engineering,intelligent-systems,,,
+rep_03466,info-management,,,,unsure
+rep_04492,intelligent-systems,,,,
+rep_07341,hci,web,,,
+rep_01800,hci,,,,
+yt_00496,operating-systems,,,,
+art_08892,complexity,,,,
+yt_07402,,,,Y,kids phonics
+yt_06587,database,,,,
+yt_07265,programming,,,,
+art_01688,security,,,,
+yt_00887,emerging-tech,platform,,,
+yt_04056,software-engineering,,,,
+rep_09606,emerging-tech,,,,
+rep_07568,,,,Y,bioinformatics
+yt_10835,operating-systems,,,,
+art_09532,,,,Y,trade news
+yt_03112,programming-languages,,,,
+art_06202,,,,Y,productivity tools
+rep_03802,,,,Y,medical modeling
+rep_09127,intelligent-systems,,,,
+yt_05987,operating-systems,,,,
+rep_04886,hci,,,,unsure
+yt_05442,intro-computing,,,,
+yt_00900,emerging-tech,platform,,,
+rep_09464,distributed,,,,
+rep_02028,mobile,,,,
+rep_06417,,,,Y,genomics
+art_07470,platform,,,,
+rep_08763,,,,Y,health intervention
+art_00671,,,,Y,product deals
+rep_08801,digital-logic,,,,unsure
+art_02494,emerging-tech,,,,unsure
+art_01134,,,,Y,corporate/university news
+rep_04582,software-engineering,intelligent-systems,,,
+art_07120,,,,Y,corporate news
+rep_02329,emerging-tech,,,,unsure
+yt_04130,intelligent-systems,data-science,,,
+rep_05226,,,,Y,pure math
+rep_09082,,,,Y,computational mechanics
+rep_00254,,,,Y,health study
+art_01691,,,,Y,business news
+rep_00138,hci,intelligent-systems,,,
+rep_08549,,,,Y,medical study
+rep_02018,,,,Y,company ad
+rep_08045,,,,Y,materials science
+rep_08095,,,,Y,cosmology
+art_04351,,,,Y,energy news
+rep_08872,intro-computing,,,,
+rep_07432,hci,,,,
+yt_00715,intelligent-systems,,,,
+yt_11295,,,,Y,movie trailer
+rep_01943,distributed,,,,
+rep_00131,hci,,,,
+yt_07306,web,,,,
+rep_09717,discrete,,,,
+rep_06776,graphics,,,,
+rep_08209,software-engineering,intelligent-systems,,,
+rep_04430,software-engineering,,,,
+art_03125,web,,,,
+art_04822,,,,Y,politics news
+rep_08890,intro-computing,,,,
+rep_05028,intelligent-systems,data-science,,,
+rep_09457,distributed,,,,
+rep_00512,,,,Y,business study
+rep_09116,intelligent-systems,,,,
+rep_08897,intro-computing,,,,
+rep_09522,,,,Y,genetics
+yt_11009,intelligent-systems,,,,
+rep_01859,info-management,,,,unsure
+rep_05076,,,,Y,biophysics
+yt_00845,software-engineering,,,,
+rep_04751,intelligent-systems,,,,unsure
+art_08715,,,,Y,politics news
+rep_05567,,,,Y,power engineering
+yt_06147,intro-computing,,,,unsure
+rep_01864,thesis,,,,unsure
+art_02495,,,,Y,stock news
+art_02513,,,,Y,corporate news
+yt_06238,operating-systems,,,,
+rep_03131,spi,,,,
+rep_05273,intelligent-systems,,,,
+yt_00532,networks,,,,
+yt_10839,operating-systems,,,,
+yt_11565,,,,Y,crafts video
+rep_06620,,,,Y,medical study
+yt_10865,networks,,,,
+yt_00881,emerging-tech,platform,,,
+rep_05369,,,,Y,finance math
+art_00516,,,,Y,outage news
+yt_07049,security,,,,
+yt_11678,,,,Y,animation entertainment
+rep_05923,programming,,,,
+yt_00769,web,,,,
+rep_05784,,,,Y,physics
+art_01901,,,,Y,politics policy
+art_02792,,,,Y,weather news
+yt_11018,intelligent-systems,,,,
+yt_00464,data-structures,programming,,,
+yt_10939,data-science,,,,
+rep_04868,networks,,,,
+art_02842,,,,Y,war news
+rep_09669,intro-computing,,,,
+rep_05423,modeling,,,,unsure
+rep_09720,automata,,,,unsure
+rep_04576,software-engineering,,,,
+rep_00146,hci,,,,
+art_08415,spi,,,,unsure
+rep_03473,intelligent-systems,,,,
+art_00435,,,,Y,stock news
+art_02533,,,,Y,investment program
+yt_06426,data-science,programming,,,
+rep_03057,software-engineering,,,,
+rep_07132,programming,,,,unsure
+rep_03491,discrete,,,,unsure
+art_03312,emerging-tech,,,,unsure
+yt_00311,web,,,,
+rep_09780,,,,Y,education study
+art_09595,,,,Y,tv review
+rep_06769,intelligent-systems,,,,
+rep_05447,,,,Y,plant biology
+rep_08639,emerging-tech,,,,
+rep_08680,emerging-tech,,,,
+rep_00326,,,,Y,energy demand
+rep_00269,mobile,,,,
+rep_04549,software-engineering,,,,
+rep_00248,software-engineering,,,,
+rep_00227,info-management,,,,unsure
+rep_05345,,,,Y,finance
+art_05623,web,,,,
+rep_01459,security,,,,
+yt_10868,networks,,,,
+yt_07365,security,,,,
+yt_00078,intro-computing,,,,
+rep_06785,security,networks,,,
+art_01868,,,,Y,business news
+rep_06521,hci,,,,unsure
+art_07219,,,,Y,jobs news
+rep_09479,emerging-tech,security,,,
+art_01887,,,,Y,funding news
+rep_00136,intelligent-systems,hci,,,
+rep_05500,intelligent-systems,,,,
+yt_06180,networks,security,,,
+rep_07396,intelligent-systems,,,,
+rep_05018,data-science,intelligent-systems,,,
+rep_09149,software-engineering,,,,
+art_01872,,,,Y,business news
+art_09706,,,,Y,blog roundup
+art_07466,security,,,,
+rep_04934,intelligent-systems,,,,unsure
+rep_05125,security,intelligent-systems,,,
+rep_04870,integrative,,,,
+rep_07561,,,,Y,control math
+rep_03285,software-engineering,,,,
+rep_08455,,,,Y,materials physics
+yt_00321,web,,,,
+rep_08460,,,,Y,neuroscience
+yt_05884,data-structures,,,,
+art_09428,,,,Y,crypto token
+rep_01879,info-management,,,,unsure
+rep_01229,,,,Y,social study
+rep_01526,intro-computing,,,,unsure
+rep_04705,,,,Y,pure math
+rep_05143,graphics,,,,
+rep_07002,software-engineering,,,,
+rep_09742,intelligent-systems,,,,
+rep_02081,,,,Y,plant genetics
+rep_05256,,,,Y,biology
+rep_03668,architecture,networks,,,
+art_08123,,,,Y,job posting
+rep_04665,programming,,,,
+yt_00369,oop,,,,
+yt_07036,security,,,,
+rep_07063,software-engineering,,,,
+rep_07515,,,,Y,optimization math
+rep_05573,modeling,,,,
+rep_00723,,,,Y,photonics
+yt_00582,security,,,,
+rep_06472,,,,Y,drug design
+rep_07285,intelligent-systems,,,,
+rep_09454,security,distributed,,,
+rep_04906,database,,,,
+rep_05615,,,,Y,solar physics
+rep_07606,intelligent-systems,,,,
+yt_10857,networks,,,,
+art_08936,security,,,,
+rep_03795,,,,Y,surgical AR
+rep_07291,intelligent-systems,,,,
+rep_00222,,,,Y,agriculture
+rep_05280,hci,,,,unsure
+yt_00779,web,,,,
+art_06053,intelligent-systems,,,,unsure
+rep_00178,,,,Y,medical
+rep_09816,intelligent-systems,,,,
+rep_06449,,,,Y,chemistry
+yt_00459,data-structures,,,,
+art_00706,intelligent-systems,,,,unsure
+rep_00278,mobile,,,,unsure
+art_02477,,,,Y,crypto promo
+rep_05633,,,,Y,astrophysics
+rep_06348,software-engineering,,,,
+rep_01802,hci,,,,
+rep_07367,operating-systems,intelligent-systems,,,
+rep_03089,software-engineering,,,,
+art_02374,spi,,,,unsure
+rep_02624,,,,Y,history
+rep_01530,intro-computing,,,,
+art_02432,,,,Y,politics news
+yt_07013,web,,,,
+rep_00787,,,,Y,biology
+rep_01927,distributed,,,,
+rep_09478,distributed,,,,
+yt_06379,data-structures,,,,
+rep_07240,intelligent-systems,,,,
+rep_04379,software-engineering,intelligent-systems,,,
+rep_09421,intelligent-systems,,,,unsure
+rep_05338,intelligent-systems,,,,unsure
+rep_07322,intelligent-systems,,,,
+rep_07365,data-science,,,,
+rep_06745,intelligent-systems,,,,
+yt_10716,programming,,,,
+rep_01759,data-science,,,,
+rep_04720,intelligent-systems,,,,unsure
+rep_05509,,,,Y,economics
+rep_04446,software-engineering,,,,
+rep_03068,software-engineering,,,,
+rep_05775,,,,Y,physics
+yt_05797,security,,,,
+rep_00147,hci,,,,unsure
+rep_00853,,,,Y,biomedical EEG
+yt_11659,,,,Y,cartoon
+art_00514,,,,Y,business news
+rep_05704,,,,Y,physics
+rep_02021,mobile,,,,
+rep_09654,intelligent-systems,,,,
+rep_05039,,,,Y,biology
+yt_00863,platform,,,,
+rep_03224,intelligent-systems,,,,
+rep_05710,,,,Y,chemistry physics
+yt_10805,operating-systems,,,,
+rep_03505,intelligent-systems,,,,
+yt_06679,systems-admin,,,,unsure
+rep_09064,hci,,,,
+rep_08385,,,,Y,medical study
+yt_00430,data-structures,,,,
+rep_08569,,,,Y,medicine
+yt_00871,platform,,,,
+art_05232,software-engineering,,,,
+rep_07099,programming,,,,
+yt_00480,operating-systems,,,,
+rep_02903,software-engineering,intelligent-systems,,,
+art_05153,spi,,,,
+yt_03966,programming,,,,
+art_01903,,,,Y,business news
+yt_04233,web,,,,
+yt_06685,,,,Y,gadget teardown
+rep_03840,,,,Y,insurance math
+rep_09097,spi,intelligent-systems,,,
+rep_06727,info-management,,,,unsure
+rep_05925,programming,,,,unsure
+rep_06753,,,,Y,materials science
+rep_05661,,,,Y,cosmology
+yt_00398,programming,,,,
+art_04344,integrative,,,,
+yt_07189,intro-computing,,,,
+rep_05719,,,,Y,physics
+rep_09453,distributed,,,,
+art_00085,security,,,,
+rep_05340,,,,Y,finance
+art_02940,,,,Y,health news
+rep_04386,data-science,,,,
+rep_04843,software-engineering,,,,
+rep_05165,discrete,,,,
+art_01704,,,,Y,stock advice
+rep_00479,,,,Y,medical study
+rep_00097,intelligent-systems,,,,unsure
+rep_07097,programming,graphics,,,
+rep_08725,networks,,,,
+yt_00366,programming,,,,
+rep_00275,,,,Y,dental health study
+yt_11056,mobile,database,,,
+rep_08963,software-engineering,thesis,,,
+rep_09552,intelligent-systems,,,,unsure
+art_09060,,,,Y,product promo
+rep_02012,mobile,,,,
+rep_04400,data-science,,,,
+rep_05887,software-engineering,,,,
+rep_04896,security,,,,
+rep_08806,,,,Y,microbiology
+rep_01936,distributed,,,,
+rep_07121,programming,,,,
+rep_08638,discrete,,,,
+rep_00135,hci,,,,
+art_03334,software-engineering,,,,
+rep_00847,,,,Y,pathology
+art_00521,,,,Y,stock news
+rep_08210,software-engineering,,,,
+rep_01933,distributed,,,,
+art_05074,,,,Y,movie news
+rep_06303,software-engineering,,,,
+rep_00930,info-management,,,,
+rep_08403,,,,Y,biomedical
+yt_10800,operating-systems,,,,
+yt_06112,web,,,,
+art_02893,,,,Y,laptop buying guide
+yt_06596,networks,,,,
+art_08582,,,,Y,gadget news
+rep_08989,software-engineering,,,,
+rep_05027,data-science,,,,
+yt_00594,security,,,,
+rep_01619,data-structures,,,,
+yt_03102,programming-languages,,,,
+yt_06591,intro-computing,,,,
+rep_00711,,,,Y,plant biology
+yt_00539,networks,,,,
+rep_01109,data-science,,,,
+rep_06877,intelligent-systems,,,,
+art_09531,,,,Y,business event
+yt_05134,web,,,,
+rep_05148,data-science,,,,
+yt_06957,intro-computing,,,,
+rep_01956,distributed,systems-integration,,,
+yt_05737,web,,,,
+rep_05907,software-engineering,,,,
+yt_06624,networks,,,,
+yt_05714,web,,,,
+rep_05873,software-engineering,,,,
+rep_01624,data-structures,,,,
+yt_05423,internship,security,,,
+yt_10989,intelligent-systems,,,,
+rep_07315,intelligent-systems,,,,unsure
+rep_04858,systems-integration,security,,,
+art_00446,,,,Y,economic news
+rep_07667,,,,Y,trade economics
+art_07978,integrative,,,,
+art_03716,,,,Y,movie news
+art_00022,,,,Y,finance news
+rep_07861,security,,,,
+rep_07446,spi,,,,unsure
+yt_00866,platform,,,,
+rep_03274,intelligent-systems,,,,
+art_05563,graphics,,,,
+rep_01803,hci,,,,
+rep_08784,,,,Y,control engineering
+art_02544,,,,Y,regional news
+art_01845,,,,Y,business news
+rep_02997,systems-integration,info-management,,,unsure
+yt_00448,data-structures,,,,
+art_00603,architecture,,,,unsure
+rep_01306,,,,Y,aquaculture
+yt_07419,,,,Y,kids phonics
+art_05557,graphics,,,,
+rep_01895,operating-systems,,,,
+yt_07348,security,,,,
+rep_05011,modeling,,,,
+yt_07094,database,,,,
+rep_00181,hci,,,,
+rep_07263,intelligent-systems,,,,
+yt_07372,security,,,,
+rep_05145,intelligent-systems,,,,
+rep_01356,intelligent-systems,,,,unsure
+art_09649,intro-computing,,,,unsure
+rep_06439,,,,Y,poultry breeding
+rep_00145,hci,,,,unsure
+art_09700,systems-integration,,,,
+rep_07171,software-engineering,distributed,,,
+yt_07006,multimedia,web,,,unsure
+rep_03193,intelligent-systems,,,,
+rep_07045,software-engineering,thesis,,,
+yt_05143,security,,,,
+rep_05862,software-engineering,,,,
+art_05627,intro-computing,,,,
+rep_07066,software-engineering,,,,
+yt_10778,data-structures,,,,
+art_00509,,,,Y,outage news
+art_03456,,,,Y,stock tool promo
+yt_00218,programming,,,,
+rep_08927,intro-computing,,,,
+rep_05314,modeling,,,,
+yt_06580,database,,,,
+rep_03686,platform,operating-systems,,,
+rep_05313,,,,Y,finance
+rep_06689,mobile,security,,,
+yt_06237,operating-systems,,,,unsure
+art_09522,,,,Y,politics news
+rep_00959,,,,Y,medical imaging
+rep_09804,intelligent-systems,,,,
+rep_09126,intelligent-systems,,,,
+art_02492,,,,Y,stock advice
+rep_07018,software-engineering,,,,
+art_09645,software-engineering,,,,
+rep_09489,,,,Y,health study
+art_06071,,,,Y,crypto trading
+rep_05562,intelligent-systems,,,,unsure
+yt_05312,programming,,,,
+rep_05558,networks,,,,unsure
+rep_01452,,,,Y,healthcare costs
+rep_04984,data-science,,,,
+rep_08901,intro-computing,,,,
+rep_06730,networks,,,,unsure
+art_05068,,,,Y,film festival
+rep_06930,intro-computing,,,,
+art_05641,database,,,,
+yt_00313,mobile,,,,
+rep_06955,intro-computing,,,,
+rep_08017,,,,Y,materials chemistry
+rep_02310,,,,Y,education general
+rep_01807,security,networks,,,
+rep_00446,,,,Y,nursing education
+rep_04761,,,,Y,not computing study material
+rep_00340,,,,Y,not computing study material
+art_00500,,,,Y,not computing study material
+rep_02247,,,,Y,not computing study material
+rep_01877,web,,,,
+rep_07412,distributed,,,,unsure
+art_00082,,,,Y,not computing study material
+rep_04494,,,,Y,not computing study material
+rep_07309,intelligent-systems,,,,
+yt_05466,architecture,,,,unsure
+rep_01860,database,info-management,,,
+rep_00889,,,,Y,not computing study material
+rep_00534,,,,Y,not computing study material
+art_01814,,,,Y,not computing study material
+rep_05780,,,,Y,not computing study material
+rep_08714,systems-integration,integrative,,,
+rep_05358,,,,Y,not computing study material
+art_04317,,,,Y,not computing study material
+rep_03277,,,,Y,not computing study material
+rep_09590,,,,Y,not computing study material
+rep_05666,,,,Y,not computing study material
+rep_05216,,,,Y,not computing study material
+yt_06991,web,,,,
+yt_00805,web,,,,
+yt_10843,operating-systems,,,,
+rep_07301,intelligent-systems,,,,
+rep_01384,,,,Y,not computing study material
+rep_03509,intelligent-systems,,,,
+yt_11485,,,,Y,not computing study material
+yt_04313,networks,security,,,
+art_06259,,,,Y,not computing study material
+yt_06568,database,,,,
+rep_03490,intelligent-systems,,,,
+rep_00230,software-engineering,mobile,,,
+yt_00131,programming,,,,
+yt_00510,operating-systems,mobile,,,
+rep_00267,mobile,,,,
+yt_11310,,,,Y,not computing study material
+art_04644,,,,Y,not computing study material
+rep_04924,intelligent-systems,,,,
+yt_10750,programming,,,,
+rep_07415,graphics,,,,unsure
+rep_03764,robotics,,,,unsure
+rep_07089,software-engineering,,,,
+art_06386,software-engineering,,,,
+rep_03799,calculus,,,,unsure
+rep_07426,intelligent-systems,robotics,,,
+rep_07449,,,,Y,not computing study material
+art_08571,,,,Y,not computing study material
+rep_04486,,,,Y,not computing study material
+rep_00970,,,,Y,not computing study material
+rep_00794,,,,Y,not computing study material
+yt_12336,,,,Y,not computing study material
+rep_07654,,,,Y,not computing study material
+rep_07377,mobile,intelligent-systems,,,
+rep_01228,graphics,modeling,,,
+yt_11023,intelligent-systems,data-science,,,
+yt_05380,emerging-tech,,,,unsure
+rep_05555,networks,,,,
+rep_00880,,,,Y,not computing study material
+rep_03496,,,,Y,not computing study material
+rep_05377,,,,Y,not computing study material
+rep_09382,,,,Y,not computing study material
+rep_05629,,,,Y,not computing study material
+rep_01685,intelligent-systems,,,,
+rep_08662,intelligent-systems,,,,unsure
+art_01767,,,,Y,not computing study material
+yt_00778,web,,,,
+rep_03078,software-engineering,,,,
+yt_06153,web,database,,,
+art_04360,security,,,,
+yt_07248,web,,,,
+art_09093,,,,Y,not computing study material
+rep_04455,intelligent-systems,data-science,,,
+rep_07414,discrete,,,,
+rep_06508,,,,Y,not computing study material
+yt_00412,oop,,,,
+yt_04042,intro-computing,,,,
+art_08725,,,,Y,not computing study material
+rep_05243,,,,Y,not computing study material
+yt_00469,operating-systems,,,,
+rep_01940,distributed,,,,
+yt_12446,,,,Y,not computing study material
+rep_01952,distributed,,,,
+yt_07084,mobile,database,,,
+rep_06537,,,,Y,not computing study material
+art_08642,,,,Y,not computing study material
+yt_00599,security,,,,
+yt_00788,web,,,,
+art_00502,,,,Y,not computing study material
+yt_06521,security,,,,
+yt_11277,,,,Y,not computing study material
+art_06529,,,,Y,not computing study material
+yt_10860,networks,security,,,
+art_02781,,,,Y,not computing study material
+rep_08220,software-engineering,,,,
+rep_02775,,,,Y,not computing study material
+rep_09271,intelligent-systems,networks,,,
+rep_07062,software-engineering,thesis,,,
+yt_05017,programming,,,,
+yt_06068,data-structures,programming,,,
+yt_06264,graphics,,,,unsure
+rep_02309,,,,Y,not computing study material
+rep_06934,automata,,,,unsure
+rep_09085,intelligent-systems,,,,
+yt_00870,platform,,,,
+art_07235,security,,,,
+rep_07895,,,,Y,not computing study material
+art_05798,integrative,,,,unsure
+rep_03511,security,architecture,,,
+rep_05604,,,,Y,not computing study material
+yt_10687,oop,,,,
+rep_08815,networks,distributed,,,
+rep_07354,intelligent-systems,,,,
+rep_07841,intelligent-systems,,,,unsure
+art_00463,,,,Y,not computing study material
+rep_00247,software-engineering,,,,unsure
+art_02491,,,,Y,not computing study material
+rep_05334,,,,Y,not computing study material
+rep_06482,,,,Y,not computing study material
+rep_00274,mobile,,,,unsure
+yt_06256,programming,,,,
+rep_01705,intelligent-systems,,,,
+rep_01599,programming,,,,unsure
+art_09566,security,,,,unsure
+rep_04456,software-engineering,,,,
+rep_02215,info-management,,,,unsure
+rep_03481,complexity,,,,
+yt_10637,mobile,,,,
+rep_05158,calculus,,,,unsure
+rep_08274,,,,Y,not computing study material
+rep_09507,intelligent-systems,,,,
+yt_00478,operating-systems,,,,
+rep_05781,,,,Y,not computing study material
+yt_04045,intro-computing,,,,
+yt_06570,database,,,,
+rep_05441,,,,Y,not computing study material
+rep_01142,,,,Y,not computing study material
+art_01757,security,intelligent-systems,,,
+yt_00495,operating-systems,,,,
+art_00515,,,,Y,not computing study material
+rep_05493,,,,Y,not computing study material
+art_07588,web,,,,unsure
+rep_05123,modeling,,,,
+yt_00548,networks,,,,
+yt_02934,,,,Y,not computing study material
+rep_00937,,,,Y,not computing study material
+art_02461,security,,,,
+art_00593,robotics,,,,
+art_09078,,,,Y,not computing study material
+yt_11282,,,,Y,not computing study material
+rep_05954,programming,,,,unsure
+rep_05270,,,,Y,not computing study material
+rep_01932,distributed,platform,,,
+rep_05458,,,,Y,not computing study material
+art_05724,platform,,,,
+art_08894,software-engineering,,,,unsure
+rep_06459,data-science,,,,
+rep_07135,programming,,,,
+rep_00202,operating-systems,distributed,,,
+yt_06365,data-structures,,,,
+yt_06552,database,,,,
+rep_05302,,,,Y,not computing study material
+yt_05542,,,,Y,not computing study material
+yt_05255,programming,,,,
+rep_07125,intelligent-systems,,,,unsure
+rep_05648,,,,Y,not computing study material
+art_00529,,,,Y,not computing study material
+rep_07141,intelligent-systems,,,,
+art_00451,spi,,,,unsure
+rep_05092,intelligent-systems,,,,
+rep_07534,intelligent-systems,,,,
+rep_08830,intelligent-systems,,,,
+rep_04431,hci,software-engineering,,,
+rep_09072,hci,,,,
+art_07956,emerging-tech,,,,unsure
+yt_03331,web,,,,
+art_01568,networks,,,,unsure
+art_08958,integrative,database,,,unsure
+rep_05641,,,,Y,not computing study material
+rep_00250,info-management,,,,unsure
+rep_05556,,,,Y,not computing study material
+rep_07306,intelligent-systems,,,,
+yt_11769,,,,Y,not computing study material
+rep_02259,,,,Y,not computing study material
+rep_01637,,,,Y,not computing study material
+art_00498,,,,Y,not computing study material
+rep_03143,security,intelligent-systems,,,
+art_00614,intelligent-systems,,,,
+rep_05240,complexity,,,,unsure
+art_05559,web,,,,
+yt_05448,security,,,,
+rep_00047,hci,,,,unsure
+art_08728,,,,Y,health news
+yt_00578,security,,,,
+yt_06177,networks,,,,
+rep_06815,security,,,,
+yt_00899,platform,,,,
+rep_01645,intelligent-systems,,,,
+art_02493,intro-computing,,,,
+rep_05777,,,,Y,physics
+rep_01930,software-engineering,distributed,,,
+rep_00859,intelligent-systems,,,,
+rep_09432,intelligent-systems,,,,
+yt_03334,oop,,,,
+rep_05561,intelligent-systems,,,,unsure
+art_05901,intelligent-systems,systems-integration,,,
+rep_06795,security,,,,
+rep_04888,info-management,,,,unsure
+rep_01798,hci,,,,
+yt_00252,web,,,,
+rep_07883,intelligent-systems,,,,
+yt_10915,intro-computing,security,,,
+rep_00858,intelligent-systems,,,,unsure
+rep_00441,,,,Y,veterinary education
+art_08893,data-structures,,,,
+yt_05357,web,,,,
+yt_07242,emerging-tech,,,,unsure
+yt_07160,systems-admin,,,,unsure
+rep_07736,data-science,,,,
+yt_00795,web,,,,
+art_06247,emerging-tech,,,,unsure
+rep_04942,intelligent-systems,,,,
+art_02710,spi,,,,
+rep_05470,,,,Y,game theory math
+rep_08796,distributed,data-structures,,,
+rep_06929,data-science,,,,unsure
+rep_02902,data-science,intelligent-systems,,,
+rep_05596,intelligent-systems,,,,
+rep_09664,intelligent-systems,,,,
+rep_04364,programming-languages,,,,
+rep_01535,discrete,,,,
+rep_03006,security,,,,
+yt_00420,data-structures,,,,
+yt_00902,platform,,,,
+rep_09315,security,intelligent-systems,,,
+art_08824,web,,,,unsure
+yt_06357,intro-computing,,,,
+rep_00857,robotics,,,,unsure
+art_01303,,,,Y,music news
+yt_06541,security,,,,
+yt_11053,database,,,,
+rep_00818,,,,Y,medical training
+rep_04754,,,,Y,pure math
+rep_00005,thesis,,,,unsure
+rep_07662,intelligent-systems,,,,
+art_05837,intro-computing,,,,unsure
+art_06482,security,software-engineering,,,
+rep_09682,intelligent-systems,,,,
+rep_08693,intelligent-systems,,,,
+rep_07532,modeling,,,,unsure
+rep_05300,,,,Y,neuroscience
+rep_00197,web,,,,
+yt_06342,intro-computing,internship,,,
+rep_05078,modeling,,,,
+rep_08739,,,,Y,organizational behavior
+rep_09542,systems-integration,,,,
+rep_01963,data-science,,,,
+rep_03040,software-engineering,,,,
+art_08929,software-engineering,,,,
+art_05760,discrete,,,,
+rep_01974,software-engineering,,,,
+rep_01672,intelligent-systems,,,,
+art_08305,,,,Y,award news
+art_00513,,,,Y,stock news
+art_06745,spi,,,,
+rep_09486,intelligent-systems,,,,
+yt_05368,web,,,,
+yt_00765,database,,,,
+rep_05516,,,,Y,economics
+yt_00474,operating-systems,,,,unsure
+rep_05128,intelligent-systems,,,,unsure
+art_05951,emerging-tech,,,,unsure
+yt_05151,security,,,,
+rep_01316,,,,Y,medical
+rep_03725,,,,Y,environmental science
+rep_02776,,,,Y,radiologic education
+rep_03132,intelligent-systems,,,,
+rep_06868,intelligent-systems,,,,
+rep_09119,robotics,intelligent-systems,,,
+rep_06797,robotics,intelligent-systems,,,
+yt_10832,operating-systems,,,,
+art_01676,security,,,,
+rep_06389,,,,Y,geriatric care
+rep_07220,software-engineering,,,,
+yt_00503,operating-systems,,,,unsure
+rep_05658,,,,Y,astronomy
+yt_03107,programming,,,,
+rep_03774,robotics,,,,
+rep_05209,discrete,,,,
+rep_07256,intelligent-systems,,,,
+rep_01985,software-engineering,,,,
+art_00696,,,,Y,food physics
+rep_05315,,,,Y,economics chess
+art_01877,,,,Y,startup news
+rep_07356,security,,,,
+rep_07338,spi,,,,
+rep_04474,,,,Y,elderly therapy
+yt_00636,data-science,,,,
+art_04483,web,,,,
+rep_09537,architecture,,,,
+art_00412,,,,Y,public health
+rep_04890,web,,,,
+yt_06038,robotics,,,,
+rep_09831,,,,Y,quantum optics
+rep_00167,info-management,,,,
+rep_08973,software-engineering,intelligent-systems,,,
+yt_00337,programming,,,,
+rep_09171,software-engineering,,,,
+yt_07310,web,,,,
+yt_07350,security,web,,,
+yt_12356,,,,Y,cartoon
+yt_07083,database,,,,
+yt_06860,internship,,,,unsure
+rep_01831,security,,,,
+yt_11071,database,,,,
+rep_05504,,,,Y,energy economics
+yt_11989,,,,Y,movie trailer
+rep_07428,intelligent-systems,,,,
+rep_09681,intelligent-systems,,,,
+yt_05444,security,intelligent-systems,,,
+rep_05185,,,,Y,quantum physics
+yt_11514,,,,Y,documentary
+rep_00015,info-management,,,,
+rep_09286,security,intelligent-systems,,,
+art_05844,intelligent-systems,systems-integration,,,
+rep_00192,security,,,,
+rep_05763,,,,Y,astrophysics
+rep_09562,,,,Y,pandemic epidemiology
+rep_00975,,,,Y,digital health
+yt_00806,web,,,,
+rep_06779,intelligent-systems,,,,
+art_08010,,,,Y,business news
+rep_01397,,,,Y,agroforestry
+rep_00973,robotics,intelligent-systems,,,
+rep_05725,,,,Y,physics
+rep_04834,intelligent-systems,distributed,,,
+rep_07352,software-engineering,mobile,,,
+yt_12360,,,,Y,animation
+art_05372,hci,,,,unsure
+rep_09829,,,,Y,materials
+rep_00786,,,,Y,biology
+yt_05707,web,,,,unsure
+rep_07343,web,,,,
+rep_05009,data-science,,,,unsure
+rep_02926,architecture,programming-languages,,,
+yt_00937,discrete,,,,
+rep_06950,intelligent-systems,,,,unsure
+rep_04530,complexity,,,,unsure
+rep_00259,,,,Y,radiology
+yt_07156,operating-systems,,,,
+rep_05259,,,,Y,biophysics
+rep_03280,software-engineering,intelligent-systems,,,
+rep_04440,software-engineering,,,,
+rep_01924,operating-systems,,,,
+rep_01789,hci,,,,
+art_01876,,,,Y,startup news
+yt_10806,operating-systems,,,,
+rep_01920,operating-systems,,,,
+rep_00276,,,,Y,kidney health apps
+rep_02788,,,,Y,teacher education
+rep_07807,,,,Y,economics
+rep_00029,software-engineering,,,,
+yt_03185,web,,,,
+rep_05052,,,,Y,plant biology
+rep_01999,software-engineering,,,,
+rep_07712,intelligent-systems,modeling,,,
+rep_00263,mobile,,,,
+rep_06890,intelligent-systems,,,,
+art_02856,spi,,,,unsure
+rep_09580,architecture,,,,
+art_00526,,,,Y,industry news
+art_03213,,,,Y,business news
+rep_06667,data-science,,,,
+rep_09756,robotics,,,,
+rep_05650,,,,Y,particle physics
+art_05682,software-engineering,,,,
+yt_07165,operating-systems,,,,
+rep_02647,info-management,,,,
+rep_05254,,,,Y,not computing
+yt_03148,intro-computing,,,,
+rep_08219,software-engineering,,,,
+rep_02006,mobile,,,,
+rep_00967,,,,Y,health app study
+rep_00722,,,,Y,optics
+art_08003,,,,Y,finance news
+rep_05316,,,,Y,actuarial
+yt_00873,platform,,,,
+rep_00957,,,,Y,health economics
+art_07039,,,,Y,agribusiness
+yt_00492,operating-systems,,,,
+art_03034,,,,Y,zoo news
+rep_03474,graphics,intelligent-systems,,,
+art_00480,,,,Y,business news
+rep_07685,,,,Y,finance
+rep_04672,software-engineering,,,,
+rep_02673,,,,Y,film economics
+art_06294,distributed,,,,
+art_03372,integrative,,,,
+rep_04588,software-engineering,,,,
+rep_05722,,,,Y,physics research
+rep_00734,,,,Y,medical
+rep_03477,complexity,,,,
+rep_04429,intelligent-systems,,,,
+yt_00065,architecture,,,,
+rep_06616,,,,Y,medical
+rep_05667,,,,Y,astrophysics
+rep_01407,data-science,,,,
+yt_10660,programming,,,,
+rep_03475,modeling,intelligent-systems,,,
+yt_12351,,,,Y,anime
+rep_00883,,,,Y,medical
+yt_05703,web,,,,
+rep_09006,software-engineering,,,,
+rep_04392,programming-languages,,,,
+rep_04747,,,,Y,pure math
+rep_08907,modeling,discrete,,,
+yt_00529,networks,,,,
+rep_00928,emerging-tech,,,,
+rep_06799,hci,,,,
+art_03493,,,,Y,film news
+art_01851,,,,Y,stock news
+rep_01375,,,,Y,biology
+yt_00167,web,,,,
+art_03566,,,,Y,politics
+yt_11667,,,,Y,anime
+art_08983,multimedia,,,,
+art_02515,spi,,,,
+rep_05317,,,,Y,genetics economics
+yt_05111,web,,,,
+rep_08008,,,,Y,quantum physics
+yt_06114,web,,,,
+rep_01878,web,,,,
+art_06776,,,,Y,market news
+yt_00025,programming,,,,
+yt_11004,intelligent-systems,,,,
+yt_05983,operating-systems,,,,
+rep_01954,graphics,distributed,,,
+yt_03225,data-structures,programming,,,
+rep_00175,,,,Y,biochemistry
+yt_05907,intelligent-systems,,,,
+art_08757,intro-computing,,,,
+rep_05171,,,,Y,mechanical engineering
+yt_10773,data-structures,,,,
+rep_01411,,,,Y,protein design
+rep_02964,software-engineering,oop,,,
+art_05746,software-engineering,,,,
+art_07671,platform,,,,
+rep_07851,intelligent-systems,,,,
+art_02972,,,,Y,materials
+art_03270,,,,Y,aerospace
+rep_05260,intelligent-systems,,,,
+art_00524,,,,Y,outage news
+rep_07191,intelligent-systems,programming-languages,,,
+rep_00046,programming,,,,
+rep_08550,,,,Y,neuroimaging
+rep_01957,distributed,,,,
+art_07038,,,,Y,politics
+rep_00013,intro-computing,,,,
+rep_03693,operating-systems,,,,
+yt_11307,,,,Y,movie trailer
+rep_00964,,,,Y,medical
+yt_07072,database,programming,,,
+art_00849,,,,Y,physics news
+yt_05752,internship,web,,,
+yt_07045,security,,,,
+rep_00194,info-management,database,,,
+rep_03484,intelligent-systems,,,,
+rep_07846,intelligent-systems,,,,
+rep_00872,security,,,,
+rep_03056,software-engineering,,,,
+rep_08793,data-science,intelligent-systems,,,
+art_05508,web,,,,
+yt_07223,oop,web,,,
+rep_07205,data-science,intelligent-systems,,,
+rep_05776,,,,Y,physics
+yt_11070,database,,,,
+rep_05082,,,,Y,biology
+rep_07317,intelligent-systems,,,,
+rep_02675,,,,Y,psychology
+rep_04893,networks,intelligent-systems,,,
+rep_03851,,,,Y,biology
+rep_03344,robotics,intelligent-systems,,,
+art_02439,,,,Y,politics
+rep_05420,,,,Y,medical
+art_05475,data-structures,,,,
+rep_02029,,,,Y,company ad
+yt_05123,web,,,,
+art_04367,systems-integration,,,,
+art_03039,,,,Y,weather news
+yt_06225,operating-systems,,,,
+rep_02008,mobile,,,,
+yt_04050,intro-computing,,,,
+art_06282,integrative,,,,
+rep_09226,software-engineering,,,,
+art_08108,,,,Y,product news
+art_00518,,,,Y,business news
+yt_10866,networks,,,,
+rep_05582,intelligent-systems,,,,
+art_05477,distributed,platform,,,
+rep_00814,,,,Y,medical
+rep_01801,hci,,,,
+rep_03100,software-engineering,,,,
+yt_00454,data-structures,,,,
+yt_06828,systems-integration,,,,
+art_00492,,,,Y,stock news
+yt_00245,web,,,,
+rep_09058,intelligent-systems,,,,
+rep_08744,security,intelligent-systems,,,
+rep_00918,emerging-tech,,,,
+rep_00158,security,modeling,,,
+yt_11008,intelligent-systems,,,,
+yt_03886,web,,,,
+art_06987,,,,Y,crime news
+yt_04087,data-structures,,,,
+rep_08191,software-engineering,,,,
+rep_03651,operating-systems,,,,
+yt_00911,platform,,,,
+yt_00875,platform,,,,
+art_05474,distributed,,,,
+art_09628,automata,,,,
+rep_07821,data-science,,,,
+rep_05457,intelligent-systems,modeling,,,
+yt_05088,intro-computing,,,,
+yt_12159,,,,Y,travel
+rep_02019,mobile,hci,,,
+art_00517,,,,Y,self-help
+rep_03478,intelligent-systems,graphics,,,
+rep_06803,intelligent-systems,,,,
+rep_09770,intelligent-systems,,,,
+rep_07913,,,,Y,cosmology
+rep_00955,,,,Y,nursing
+rep_05712,,,,Y,quantum physics
+rep_03671,architecture,,,,
+rep_09468,distributed,,,,
+yt_05799,security,,,,
+rep_08197,software-engineering,,,,
+art_06456,,,,Y,unrelated
+rep_08865,discrete,,,,
+art_08726,,,,Y,climate politics
+rep_06723,,,,Y,bioinformatics
+yt_05272,programming,,,,
+yt_00768,web,,,,
+rep_05218,,,,Y,pure math
+rep_08967,software-engineering,intelligent-systems,,,
+yt_00609,security,,,,
+art_00801,intelligent-systems,,,,
+yt_06384,data-structures,,,,
+rep_09342,intelligent-systems,data-science,,,
+rep_07403,data-structures,,,,
+rep_00350,,,,Y,medical
+art_00501,,,,Y,business news
+rep_09144,,,,Y,economics
+rep_09476,security,platform,,,
+rep_06626,,,,Y,medical physics
+rep_09801,internship,,,,
+rep_00272,,,,Y,nursing app study
+art_04403,programming-languages,operating-systems,,,
+rep_01314,,,,Y,philosophy of science
+yt_12357,,,,Y,game animation
+rep_09824,data-science,database,,,
+rep_01546,software-engineering,,,,
+yt_06626,networks,,,,
+rep_01839,database,info-management,,,
+art_05069,,,,Y,politics news
+rep_01854,info-management,web,,,
+rep_06867,intelligent-systems,,,,
+rep_00968,,,,Y,health education
+rep_06752,intelligent-systems,,,,unsure
+art_07249,security,,,,
+rep_05367,,,,Y,economics policy
+rep_09753,discrete,,,,
+yt_05698,programming,,,,
+yt_05124,,,,Y,off-grid home
+art_06286,,,,Y,crypto payments
+rep_01330,intelligent-systems,data-science,,,
+rep_05676,,,,Y,cosmology physics
+yt_00690,intelligent-systems,data-science,,,
+yt_06546,security,,,,
+art_06367,,,,Y,company business news
+rep_09565,,,,Y,biology
+rep_02913,data-science,intelligent-systems,,,
+art_09044,software-engineering,mobile,,,
+art_07692,software-engineering,,,,
+rep_00820,,,,Y,medical physics
+rep_09083,,,,Y,geomechanics
+rep_05671,,,,Y,astrophysics
+rep_07310,intelligent-systems,,,,
+yt_06022,software-engineering,,,,
+rep_04368,software-engineering,,,,
+yt_00419,data-structures,,,,
+yt_00924,discrete,,,,
+yt_06031,robotics,,,,
+yt_06129,web,,,,
+rep_09183,software-engineering,,,,
+rep_01787,hci,,,,
+art_00606,,,,Y,AI product news
+rep_03471,software-engineering,,,,
+rep_01310,,,,Y,religion folklore
+rep_02793,,,,Y,nursing education
+rep_09758,intelligent-systems,,,,
+rep_00565,,,,Y,sociology
+rep_01465,,,,Y,rheology
+rep_02917,software-engineering,,,,
+rep_02030,mobile,,,,
+rep_04716,,,,Y,biology
+rep_07565,,,,Y,neuroscience
+rep_00196,,,,Y,biomedical
+art_02468,,,,Y,policy news
+rep_04627,software-engineering,,,,
+rep_07441,intelligent-systems,,,,
+rep_01791,hci,,,,
+art_08847,intelligent-systems,,,,unsure
+rep_01149,,,,Y,economics pharma
+rep_01389,,,,Y,linguistics
+rep_08658,distributed,,,,
+yt_06480,web,,,,
+art_08294,,,,Y,business news
+rep_08886,modeling,,,,
+yt_00800,web,,,,
+art_05828,web,,,,unsure
+art_08467,,,,Y,maritime news
+art_00071,security,,,,
+rep_07694,intelligent-systems,,,,
+rep_00768,,,,Y,biology
+art_03376,intelligent-systems,,,,
+rep_08843,intelligent-systems,,,,
+rep_02907,intelligent-systems,,,,
+yt_00757,database,,,,
+rep_08938,software-engineering,,,,
+rep_01413,,,,Y,genomics
+rep_01262,,,,Y,public health
+yt_11062,database,,,,
+rep_09120,intelligent-systems,,,,
+yt_07053,security,,,,
+rep_06452,,,,Y,nutrition trials
+rep_06460,,,,Y,MRI
+art_07652,systems-integration,,,,
+rep_08539,,,,Y,computational chemistry
+rep_07029,software-engineering,thesis,,,
+rep_03502,graphics,,,,
+yt_06519,security,,,,unsure
+rep_05486,,,,Y,game theory economics
+rep_09111,data-science,,,,unsure
+art_08765,emerging-tech,,,,unsure
+rep_01871,info-management,,,,
+rep_04409,software-engineering,intelligent-systems,,,
+rep_02918,intelligent-systems,,,,unsure
+rep_09390,intelligent-systems,,,,
+rep_00852,,,,Y,elder care
+art_02478,,,,Y,stock news
+rep_07844,,,,Y,RF engineering
+rep_05297,,,,Y,biology
+art_00577,,,,Y,consumer gadget
+rep_05176,,,,Y,ophthalmology
+rep_07359,info-management,,,,unsure
+rep_06762,,,,Y,physics lab software
+yt_06654,operating-systems,,,,
+rep_01944,distributed,intelligent-systems,,,
+rep_00200,,,,Y,bioinformatics
+yt_00461,data-structures,,,,
+rep_06898,graphics,,,,unsure
+rep_07052,software-engineering,,,,
+rep_05159,discrete,,,,
+rep_05448,intelligent-systems,,,,
+rep_08825,data-science,intelligent-systems,,,
+art_02485,emerging-tech,,,,unsure
+yt_00504,operating-systems,,,,
+rep_09655,discrete,,,,unsure
+rep_06895,,,,Y,biochemistry
+rep_01544,software-engineering,,,,
+rep_01007,,,,Y,animal genomics
+art_06032,,,,Y,finance news
+rep_01652,,,,Y,materials science
+yt_04034,systems-integration,software-engineering,,,
+rep_00759,,,,Y,clinical trial
+rep_08169,software-engineering,,,,
+art_05445,oop,,,,
+rep_01243,,,,Y,neurology
+rep_00885,,,,Y,medical
+art_09433,,,,Y,memecoin
+rep_02266,,,,Y,chemistry
+rep_03234,intelligent-systems,robotics,,,
+rep_05630,,,,Y,cosmology
+rep_04713,modeling,,,,unsure
+yt_06188,networks,,,,
+art_01861,,,,Y,local news
+rep_00592,,,,Y,cultural heritage
+rep_01464,,,,Y,physics
+rep_04904,networks,,,,
+art_00879,,,,Y,monitor ad
+rep_01955,security,networks,,,
+rep_09725,,,,Y,education research
+rep_00142,hci,,,,unsure
+art_03140,,,,Y,pharmacy news
+art_06371,programming-languages,web,,,
+rep_06750,spi,,,,unsure
+rep_01682,intelligent-systems,,,,unsure
+rep_07717,intelligent-systems,,,,
+rep_04758,security,,,,
+rep_04967,intelligent-systems,,,,unsure
+rep_05619,,,,Y,astronomy
+art_02487,,,,Y,executive news
+art_08706,,,,Y,cartoon politics
+rep_02023,,,,Y,company ad
+yt_00862,platform,emerging-tech,,,
+rep_05017,data-science,,,,
+yt_00553,networks,,,,
+art_08890,data-structures,,,,
+yt_00606,security,,,,
+rep_06984,automata,complexity,,,
+art_00708,,,,Y,school news
+art_00546,,,,Y,spam call news
+yt_04069,systems-integration,,,,
+art_00664,,,,Y,health news
+rep_00965,,,,Y,psychology research tool
+art_01700,security,,,,unsure
+rep_09610,intelligent-systems,,,,unsure
+rep_03778,,,,Y,VR demographics survey
+rep_01912,operating-systems,,,,
+art_05527,platform,,,,unsure
+rep_02507,,,,Y,library guide
+rep_01332,modeling,,,,unsure
+rep_04697,intelligent-systems,,,,
+rep_00279,,,,Y,health apps OT
+art_07678,software-engineering,,,,
+rep_06979,,,,Y,education research
+rep_01866,database,,,,
+rep_04717,,,,Y,resume
+rep_08526,,,,Y,medical
+rep_05305,,,,Y,neuroscience
+rep_08575,,,,Y,materials physics
+yt_04243,web,systems-integration,,,
+rep_05497,,,,Y,economics
+art_07127,robotics,,,,unsure
+art_07259,security,,,,
+rep_05349,,,,Y,finance
+yt_05778,security,,,,
+rep_06884,,,,Y,genomics
+yt_05626,programming,,,,
+rep_01797,hci,,,,
+art_09101,security,,,,
+rep_05195,,,,Y,math physics PDE
+rep_01533,info-management,,,,
+rep_01476,,,,Y,energy policy
+art_03431,networks,,,,
+rep_06861,,,,Y,medical imaging
+yt_00440,data-structures,,,,
+art_07676,software-engineering,,,,
+yt_00961,discrete,,,,
+yt_06608,networks,,,,
+yt_03219,oop,programming,,,
+art_03033,,,,Y,film
+yt_06341,intro-computing,,,,
+yt_12358,,,,Y,cartoon
+rep_03047,software-engineering,,,,
+rep_05398,,,,Y,spatial statistics
+rep_03696,security,architecture,,,
+rep_09060,intelligent-systems,,,,
+rep_02009,mobile,,,,
+rep_01910,architecture,operating-systems,,,
+rep_01908,operating-systems,,,,
+rep_05449,,,,Y,power systems
+rep_07157,software-engineering,,,,unsure
+rep_00183,database,,,,unsure
+rep_01400,,,,Y,medical
+art_05171,graphics,,,,
+yt_00119,programming,,,,
+yt_06914,intelligent-systems,,,,
+yt_12366,,,,Y,cartoon
+yt_10709,programming,,,,
+art_09357,distributed,database,,,
+yt_00096,software-engineering,,,,
+rep_09204,software-engineering,,,,
+rep_08774,,,,Y,space science
+rep_05549,,,,Y,power grids
+yt_05718,web,,,,
+rep_02792,,,,Y,education study
+rep_05105,intelligent-systems,,,,unsure
+rep_00220,security,intelligent-systems,,,
+rep_09708,intelligent-systems,,,,
+yt_06619,networks,security,,,
+rep_03146,intelligent-systems,,,,unsure
+art_00508,emerging-tech,,,,unsure
+art_01879,robotics,,,,unsure
+rep_08792,networks,multimedia,,,
+rep_05553,,,,Y,batteries
+yt_05724,web,,,,
+art_04315,,,,Y,education policy
+rep_05701,,,,Y,biophysics
+rep_00032,software-engineering,robotics,,,
+yt_00785,web,,,,
+art_00651,,,,Y,gaming hardware news
+yt_05128,internship,,,,
+rep_08154,software-engineering,,,,unsure
+rep_00829,,,,Y,neuroscience
+rep_08704,,,,Y,health forums
+art_03041,,,,Y,news
+rep_03736,business-analytics,info-management,,,
+rep_09546,spi,,,,
+rep_07216,intelligent-systems,,,,unsure
+art_00493,,,,Y,stock news
+rep_09665,intro-computing,,,,
+yt_04333,database,,,,
+art_02483,emerging-tech,,,,
+rep_04503,robotics,,,,
+yt_06530,security,,,,
+rep_04954,database,data-science,,,
+rep_05241,intelligent-systems,,,,unsure
+rep_08421,,,,Y,neuroscience
+rep_04398,intelligent-systems,,,,
+rep_01727,intelligent-systems,data-science,,,
+rep_00836,spi,,,,unsure
+rep_08032,,,,Y,materials science
+rep_08892,intro-computing,,,,
+rep_01833,security,,,,
+rep_08640,data-science,,,,unsure
+art_00490,platform,,,,unsure
+rep_00936,,,,Y,medical
+rep_03653,operating-systems,robotics,,,
+rep_05320,,,,Y,economics
+rep_03043,software-engineering,,,,
+rep_09221,software-engineering,,,,
+rep_01247,,,,Y,medical
+yt_06852,systems-integration,software-engineering,,,
+rep_04825,distributed,intelligent-systems,,,
+rep_01931,distributed,,,,
+rep_05064,,,,Y,biochemistry
+art_08973,web,systems-admin,,,
+rep_01844,info-management,,,,unsure
+yt_00880,platform,,,,
+yt_05274,web,,,,
+rep_05288,hci,,,,
+rep_01610,data-structures,,,,
+rep_04495,data-science,,,,unsure
+rep_05841,software-engineering,,,,
+rep_07411,robotics,intelligent-systems,,,
+rep_02316,hci,,,,unsure
+yt_06122,web,,,,
+yt_06861,software-engineering,platform,,,
+rep_00174,intelligent-systems,,,,unsure
+rep_07407,intelligent-systems,,,,
+art_05428,complexity,,,,
+rep_09290,intelligent-systems,,,,unsure
+yt_11278,,,,Y,movie trailer
+rep_07584,intelligent-systems,,,,unsure
+art_07484,software-engineering,,,,unsure
+rep_00229,distributed,security,,,
+yt_00868,platform,,,,
+art_08928,web,,,,
+yt_00567,security,,,,
+rep_03072,software-engineering,,,,
+rep_06988,intro-computing,,,,
+yt_07332,platform,,,,unsure
+rep_01429,,,,Y,agroforestry
+rep_04381,software-engineering,intelligent-systems,,,
+rep_05756,,,,Y,physics
+yt_07034,security,,,,
+rep_05062,,,,Y,neuroscience
+rep_02026,mobile,,,,
+rep_07564,intelligent-systems,,,,unsure
+rep_05215,,,,Y,pure math
+rep_01390,integrative,systems-integration,,,
+yt_10803,operating-systems,mobile,,,
+rep_03268,,,,Y,economics
+rep_07351,hci,,,,unsure
+yt_00897,platform,,,,
+rep_01692,intelligent-systems,mobile,,,
+yt_04104,data-structures,,,,
+rep_00266,mobile,,,,
+yt_06829,intro-computing,,,,
+rep_00539,,,,Y,science law
+art_01867,,,,Y,finance news
+art_08957,software-engineering,,,,
+yt_03346,oop,web,,,
+rep_02938,intelligent-systems,,,,
+art_08122,,,,Y,job advert
+rep_05574,,,,Y,nuclear engineering
+art_05250,web,,,,unsure
+rep_09242,intro-computing,,,,unsure
+yt_10782,data-structures,,,,
+rep_05284,intelligent-systems,,,,unsure
+art_00519,,,,Y,data center news
+yt_00451,data-structures,,,,
+art_09598,,,,Y,climate policy
+rep_06869,security,,,,
+art_09100,security,,,,unsure
+rep_03740,security,,,,
+rep_05339,,,,Y,econometrics
+yt_00891,platform,,,,
+yt_04250,web,,,,
+yt_06882,data-structures,,,,
+rep_03288,,,,Y,economics
+yt_12018,,,,Y,concert
+rep_00484,,,,Y,psychology
+rep_00974,intelligent-systems,,,,
+rep_01946,security,distributed,,,
+yt_06334,platform,,,,
+yt_10900,security,,,,
+rep_04871,,,,Y,therapy
+rep_01977,software-engineering,,,,
+rep_05446,intelligent-systems,,,,unsure
+rep_09638,intelligent-systems,,,,
+rep_05597,graphics,,,,unsure
+rep_00687,,,,Y,medical
+yt_05256,oop,,,,
+rep_04417,data-science,,,,
+rep_07383,software-engineering,intelligent-systems,,,
+art_05220,web,,,,
+yt_05071,intro-computing,,,,unsure
+rep_06330,software-engineering,,,,
+art_05431,graphics,,,,
+yt_00500,operating-systems,,,,
+rep_03244,robotics,intelligent-systems,,,
+art_05587,networks,multimedia,,,
+yt_03324,web,,,,
+yt_06243,programming-languages,,,,unsure
+rep_00963,,,,Y,medical study
+yt_06851,intro-computing,,,,
+art_00736,,,,Y,school news
+yt_04079,complexity,,,,
+rep_09796,intelligent-systems,,,,unsure
+rep_04724,,,,Y,science education
+rep_00699,,,,Y,public health
+rep_03514,modeling,,,,unsure
+rep_06972,intro-computing,,,,
+rep_03258,,,,Y,economics
+rep_00672,,,,Y,public health
+rep_09176,spi,,,,
+yt_00475,operating-systems,,,,
+rep_00854,intelligent-systems,,,,unsure
+rep_07647,,,,Y,finance
+yt_06399,data-structures,,,,
+rep_04476,intelligent-systems,,,,
+rep_04807,intelligent-systems,,,,unsure
+rep_05680,,,,Y,astrophysics
